@@ -10,7 +10,32 @@
     "The two Heindel cards are one person, not the aunt on APP-006",
     "They are different people"
    ],
-   "marks": [],
+   "marks": [
+    {
+     "card": "CAS-008",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.05,
+     "x1": 0.4,
+     "y1": 0.22
+    },
+    {
+     "card": "CAS-014",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.01,
+     "x1": 0.22,
+     "y1": 0.08
+    },
+    {
+     "card": "APP-006",
+     "page": 1,
+     "x0": 0.84,
+     "y0": 0.01,
+     "x1": 1,
+     "y1": 0.085
+    }
+   ],
    "cards": [
     {
      "id": "CAS-008",
@@ -61,7 +86,32 @@
     "Kathy Moore is the same Kathy as the aunt / Heindel",
     "Kathy Moore is a different person"
    ],
-   "marks": [],
+   "marks": [
+    {
+     "card": "DOU-006",
+     "page": 1,
+     "x0": 0.64,
+     "y0": 0.2,
+     "x1": 0.98,
+     "y1": 0.28
+    },
+    {
+     "card": "MEA-018",
+     "page": 1,
+     "x0": 0.2,
+     "y0": 0.01,
+     "x1": 0.95,
+     "y1": 0.17
+    },
+    {
+     "card": "MEA-013",
+     "page": 1,
+     "x0": 0,
+     "y0": 0,
+     "x1": 0.25,
+     "y1": 0.07
+    }
+   ],
    "cards": [
     {
      "id": "DOU-006",
@@ -109,7 +159,16 @@
    "title": "Which John? (optional)",
    "prompt": "DOU-001 is titled \"John's Beer Batter\". Do you know which John? Skip if not.",
    "options": [],
-   "marks": [],
+   "marks": [
+    {
+     "card": "DOU-001",
+     "page": 1,
+     "x0": 0.55,
+     "y0": 0.01,
+     "x1": 1,
+     "y1": 0.15
+    }
+   ],
    "cards": [
     {
      "id": "DOU-001",
@@ -132,7 +191,24 @@
     "Same person, print \"Mrs. Bopp\"",
     "Different people"
    ],
-   "marks": [],
+   "marks": [
+    {
+     "card": "BRE-006",
+     "page": 1,
+     "x0": 0.64,
+     "y0": 0.2,
+     "x1": 0.95,
+     "y1": 0.27
+    },
+    {
+     "card": "BRE-010",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.31,
+     "x1": 0.45,
+     "y1": 0.43
+    }
+   ],
    "cards": [
     {
      "id": "BRE-006",
@@ -170,7 +246,16 @@
    "title": "Whose mom?",
    "prompt": "BRE-008 Buns says \"Recipe from the kitchen of: mom's\". Whose mom?",
    "options": [],
-   "marks": [],
+   "marks": [
+    {
+     "card": "BRE-008",
+     "page": 1,
+     "x0": 0.64,
+     "y0": 0.255,
+     "x1": 0.8,
+     "y1": 0.29
+    }
+   ],
    "cards": [
     {
      "id": "BRE-008",
@@ -190,7 +275,16 @@
    "title": "Who is Nemick?",
    "prompt": "BRE-004 says \"Marilyn Valchek, Nemick's mom\" (you confirmed the reading). Who is Nemick?",
    "options": [],
-   "marks": [],
+   "marks": [
+    {
+     "card": "BRE-004",
+     "page": 1,
+     "x0": 0.58,
+     "y0": 0.6,
+     "x1": 0.93,
+     "y1": 0.95
+    }
+   ],
    "cards": [
     {
      "id": "BRE-004",
@@ -214,7 +308,40 @@
    "title": "Whose pencil handwriting?",
    "prompt": "BRE-009 Buns 2: you said the pencil figures are scaled measurements. Do you know whose handwriting they are?",
    "options": [],
-   "marks": [],
+   "marks": [
+    {
+     "card": "BRE-009",
+     "page": 1,
+     "x0": 0,
+     "y0": 0.24,
+     "x1": 0.3,
+     "y1": 0.44
+    },
+    {
+     "card": "BRE-009",
+     "page": 1,
+     "x0": 0,
+     "y0": 0.52,
+     "x1": 0.2,
+     "y1": 0.58
+    },
+    {
+     "card": "BRE-009",
+     "page": 1,
+     "x0": 0,
+     "y0": 0.6,
+     "x1": 0.2,
+     "y1": 0.66
+    },
+    {
+     "card": "BRE-009",
+     "page": 1,
+     "x0": 0,
+     "y0": 0.72,
+     "x1": 0.2,
+     "y1": 0.79
+    }
+   ],
    "cards": [
     {
      "id": "BRE-009",
@@ -237,7 +364,16 @@
     "No, that is the whole card",
     "Yes, there is another side or card"
    ],
-   "marks": [],
+   "marks": [
+    {
+     "card": "BAR-008",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.9,
+     "x1": 0.5,
+     "y1": 0.98
+    }
+   ],
    "cards": [
     {
      "id": "BAR-008",
@@ -260,7 +396,16 @@
     "No, the card is incomplete as scanned",
     "Yes, there is another card"
    ],
-   "marks": [],
+   "marks": [
+    {
+     "card": "BRE-012",
+     "page": 2,
+     "x0": 0.17,
+     "y0": 0.05,
+     "x1": 0.65,
+     "y1": 0.25
+    }
+   ],
    "cards": [
     {
      "id": "BRE-012",
@@ -287,7 +432,16 @@
     "Peanut Butter Squares (file name)",
     "Peanut Butterscotch Squares (the card)"
    ],
-   "marks": [],
+   "marks": [
+    {
+     "card": "BAR-010",
+     "page": 1,
+     "x0": 0.35,
+     "y0": 0.04,
+     "x1": 0.95,
+     "y1": 0.13
+    }
+   ],
    "cards": [
     {
      "id": "BAR-010",
@@ -314,7 +468,40 @@
     "Keep them as separate recipes",
     "Group them as versions of one recipe"
    ],
-   "marks": [],
+   "marks": [
+    {
+     "card": "BAR-004",
+     "page": 1,
+     "x0": 0.4,
+     "y0": 0.035,
+     "x1": 0.62,
+     "y1": 0.07
+    },
+    {
+     "card": "BAR-005",
+     "page": 1,
+     "x0": 0.05,
+     "y0": 0.17,
+     "x1": 0.35,
+     "y1": 0.21
+    },
+    {
+     "card": "BAR-006",
+     "page": 1,
+     "x0": 0.22,
+     "y0": 0.01,
+     "x1": 0.84,
+     "y1": 0.05
+    },
+    {
+     "card": "CAK-018",
+     "page": 1,
+     "x0": 0.25,
+     "y0": 0.065,
+     "x1": 0.62,
+     "y1": 0.17
+    }
+   ],
    "cards": [
     {
      "id": "BAR-004",
@@ -375,7 +562,16 @@
     "2 pounds",
     "2-inch (squares)"
    ],
-   "marks": [],
+   "marks": [
+    {
+     "card": "BAR-002",
+     "page": 1,
+     "x0": 0.33,
+     "y0": 0.875,
+     "x1": 0.72,
+     "y1": 0.965
+    }
+   ],
    "cards": [
     {
      "id": "BAR-002",
@@ -398,7 +594,16 @@
     "Keep it in Bread",
     "Move it to Cake"
    ],
-   "marks": [],
+   "marks": [
+    {
+     "card": "BRE-001",
+     "page": 1,
+     "x0": 0.13,
+     "y0": 0.045,
+     "x1": 0.48,
+     "y1": 0.105
+    }
+   ],
    "cards": [
     {
      "id": "BRE-001",
@@ -422,7 +627,16 @@
     "Muffins",
     "Mur-fins (Muffins)"
    ],
-   "marks": [],
+   "marks": [
+    {
+     "card": "BRE-017",
+     "page": 1,
+     "x0": 0.15,
+     "y0": 0,
+     "x1": 0.88,
+     "y1": 0.14
+    }
+   ],
    "cards": [
     {
      "id": "BRE-017",
@@ -445,7 +659,16 @@
     "Print as written (Corelle dish)",
     "Print \"casserole dish\""
    ],
-   "marks": [],
+   "marks": [
+    {
+     "card": "CAS-008",
+     "page": 1,
+     "x0": 0,
+     "y0": 0.32,
+     "x1": 0.6,
+     "y1": 0.42
+    }
+   ],
    "cards": [
     {
      "id": "CAS-008",
@@ -472,7 +695,40 @@
     "Print only the blue (2-pie) amounts, with the red as a note",
     "Print the blue (2-pie) and the red (1-pie) amounts"
    ],
-   "marks": [],
+   "marks": [
+    {
+     "card": "DOU-009",
+     "page": 1,
+     "x0": 0,
+     "y0": 0.14,
+     "x1": 1,
+     "y1": 0.27
+    },
+    {
+     "card": "DOU-009",
+     "page": 1,
+     "x0": 0,
+     "y0": 0.34,
+     "x1": 1,
+     "y1": 0.53
+    },
+    {
+     "card": "DOU-009",
+     "page": 1,
+     "x0": 0,
+     "y0": 0.57,
+     "x1": 1,
+     "y1": 0.77
+    },
+    {
+     "card": "DOU-009",
+     "page": 1,
+     "x0": 0,
+     "y0": 0.92,
+     "x1": 1,
+     "y1": 1
+    }
+   ],
    "cards": [
     {
      "id": "DOU-009",
@@ -499,7 +755,16 @@
     "Approve the wording",
     "Reject the footnote"
    ],
-   "marks": [],
+   "marks": [
+    {
+     "card": "DOU-006",
+     "page": 1,
+     "x0": 0.03,
+     "y0": 0.43,
+     "x1": 0.88,
+     "y1": 0.48
+    }
+   ],
    "cards": [
     {
      "id": "DOU-006",
@@ -522,7 +787,24 @@
     "Approve all three",
     "Reject (leave the amounts blank)"
    ],
-   "marks": [],
+   "marks": [
+    {
+     "card": "BRE-016",
+     "page": 1,
+     "x0": 0,
+     "y0": 0.365,
+     "x1": 1,
+     "y1": 0.4
+    },
+    {
+     "card": "BRE-016",
+     "page": 1,
+     "x0": 0,
+     "y0": 0.405,
+     "x1": 1,
+     "y1": 0.44
+    }
+   ],
    "cards": [
     {
      "id": "BRE-016",
@@ -545,7 +827,16 @@
     "Print as written (no units)",
     "Print 1/2 of a 1.75 L bottle of vodka, with a footnote that the unit is not on the card"
    ],
-   "marks": [],
+   "marks": [
+    {
+     "card": "DRI-011",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.84,
+     "x1": 0.5,
+     "y1": 0.985
+    }
+   ],
    "cards": [
     {
      "id": "DRI-011",
@@ -569,7 +860,32 @@
     "Print \"Chicken Breasts\"",
     "As written with a small note, e.g. (Momma's word for breasts)"
    ],
-   "marks": [],
+   "marks": [
+    {
+     "card": "CAS-007",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.155,
+     "x1": 0.72,
+     "y1": 0.25
+    },
+    {
+     "card": "CAS-007",
+     "page": 2,
+     "x0": 0.02,
+     "y0": 0.3,
+     "x1": 0.2,
+     "y1": 0.41
+    },
+    {
+     "card": "CAS-007",
+     "page": 2,
+     "x0": 0.4,
+     "y0": 0.45,
+     "x1": 0.55,
+     "y1": 0.53
+    }
+   ],
    "cards": [
     {
      "id": "CAS-007",
@@ -596,7 +912,16 @@
     "potatoes",
     "patatoes as written"
    ],
-   "marks": [],
+   "marks": [
+    {
+     "card": "DOU-010",
+     "page": 2,
+     "x0": 0.17,
+     "y0": 0.14,
+     "x1": 0.78,
+     "y1": 0.27
+    }
+   ],
    "cards": [
     {
      "id": "DOU-010",
@@ -1190,7 +1515,7 @@
     {
      "card": "APP-021",
      "page": 1,
-     "x0": 0.0,
+     "x0": 0,
      "y0": 0.14,
      "x1": 0.4,
      "y1": 0.22
