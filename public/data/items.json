@@ -2,6 +2,7 @@
  "items": [
   {
    "id": "H2-KATHY-HEINDEL",
+   "section": "Casserole",
    "group": "People (family facts)",
    "title": "Kathy Heindel: one person?",
    "prompt": "CAS-008 (Kathy Heindel's Chicken Over Rice) and CAS-014 (K. Heindel) both name a Heindel. APP-006 (Cheese Fondue) names a Kathy, your aunt. Who is who?",
@@ -79,6 +80,7 @@
   },
   {
    "id": "H2-KATHY-MOORE",
+   "section": "Doughs",
    "group": "People (family facts)",
    "title": "Kathy Moore: who is she?",
    "prompt": "DOU-006 (Pizza Dough) and MEA-018 say Kathy Moore. Is she the same Kathy as the aunt or the Heindel cards? (MEA-013 reads \"_. MOORE\"; you said more data on it earlier, so this answer would settle it too.)",
@@ -155,6 +157,7 @@
   },
   {
    "id": "H2-JOHN",
+   "section": "Doughs",
    "group": "People (family facts)",
    "title": "Which John? (optional)",
    "prompt": "DOU-001 is titled \"John's Beer Batter\". Do you know which John? Skip if not.",
@@ -184,6 +187,7 @@
   },
   {
    "id": "Q-BRE-BOPP",
+   "section": "Bread",
    "group": "People (family facts)",
    "title": "Mrs. Bopp: same person?",
    "prompt": "BRE-006 says \"Mrs. Bopp\" and BRE-010 says \"Mrs Bopps bread dough\" (you confirmed both readings). Same person? How should the cookbook name her?",
@@ -242,6 +246,7 @@
   },
   {
    "id": "Q-BRE-008-MOM",
+   "section": "Bread",
    "group": "People (family facts)",
    "title": "Whose mom?",
    "prompt": "BRE-008 Buns says \"Recipe from the kitchen of: mom's\". Whose mom?",
@@ -271,6 +276,7 @@
   },
   {
    "id": "Q-BRE-004-NEMICK",
+   "section": "Bread",
    "group": "People (family facts)",
    "title": "Who is Nemick?",
    "prompt": "BRE-004 says \"Marilyn Valchek, Nemick's mom\" (you confirmed the reading). Who is Nemick?",
@@ -304,6 +310,7 @@
   },
   {
    "id": "Q-BRE-009-PENCIL",
+   "section": "Bread",
    "group": "People (family facts)",
    "title": "Whose pencil handwriting?",
    "prompt": "BRE-009 Buns 2: you said the pencil figures are scaled measurements. Do you know whose handwriting they are?",
@@ -357,6 +364,7 @@
   },
   {
    "id": "Q-BAR-008-BACK",
+   "section": "Bars",
    "group": "Is something missing?",
    "title": "BAR-008: is there a back side?",
    "prompt": "Magic Cookie Bars (Betty Pease) stops at \"graham crackers -\" at the bottom. Is there a back side or a second card that was not scanned?",
@@ -389,6 +397,7 @@
   },
   {
    "id": "Q-BRE-012-GLAZE",
+   "section": "Bread",
    "group": "Is something missing?",
    "title": "BRE-012: glaze recipe?",
    "prompt": "Friendship Bread: the back says only \"Before glazing\"; there is no glaze recipe or baking time. Is there another card?",
@@ -425,6 +434,7 @@
   },
   {
    "id": "Q-BAR-010-TITLE",
+   "section": "Bars",
    "group": "Cookbook decisions",
    "title": "BAR-010: which title?",
    "prompt": "The file is named \"Peanut Butter Squares\" but the card says \"Peanut Butterscotch Squares\". Which should the cookbook use?",
@@ -461,6 +471,7 @@
   },
   {
    "id": "Q-BAR-COLDCAKES",
+   "section": "Bars",
    "group": "Cookbook decisions",
    "title": "Cold Cakes: separate or grouped?",
    "prompt": "BAR-004 Cold Cakes, BAR-005 Cold Cakes 2, BAR-006 Gram's Cool Cakes and CAK-018 Cold Cakes look like versions of one family cookie.",
@@ -555,6 +566,7 @@
   },
   {
    "id": "Q-BAR-002-2#",
+   "section": "Bars",
    "group": "Cookbook decisions",
    "title": "BAR-002: what does \"2#\" mean?",
    "prompt": "Last line \"16 - 2# Brownie\". You confirmed the mark is #. What does it mean?",
@@ -587,6 +599,7 @@
   },
   {
    "id": "Q-BRE-001-FILE",
+   "section": "Bread",
    "group": "Cookbook decisions",
    "title": "BRE-001: Bread or Cake?",
    "prompt": "Bacardi Rum Cake is a cake filed under Bread.",
@@ -619,6 +632,7 @@
   },
   {
    "id": "Q-BRE-017-MURFINS",
+   "section": "Bread",
    "group": "Cookbook decisions",
    "title": "BRE-017: Mur-fins?",
    "prompt": "You read the word as \"Mur-fins\". What should the cookbook print?",
@@ -652,6 +666,7 @@
   },
   {
    "id": "H3-CORELLE",
+   "section": "Casserole",
    "group": "Cookbook decisions",
    "title": "CAS-008: Corelle dish",
    "prompt": "The card says \"grease Corelle dish\". Print as written, or as \"casserole dish\"?",
@@ -688,6 +703,7 @@
   },
   {
    "id": "H3-DOU009",
+   "section": "Doughs",
    "group": "Cookbook decisions",
    "title": "DOU-009: red and blue amounts",
    "prompt": "Pizza Dough 4 (red = 1 pie): you confirmed the red figures are half of the blue (a half batch). What should the cookbook print?",
@@ -748,6 +764,7 @@
   },
   {
    "id": "H3-DOU006-FOOTNOTE",
+   "section": "Doughs",
    "group": "Cookbook decisions",
    "title": "DOU-006: footnote on \"ht.\" water",
    "prompt": "Footnote GPT-DOU-006-001, as you asked. Proposed wording: \"As written on the card ('ht.' water); hot water can kill yeast, and the card's own '(1/4 warm - yeast)' suggests warm water is meant for the yeast.\"",
@@ -780,6 +797,7 @@
   },
   {
    "id": "H5-BRE016-GPT",
+   "section": "Bread",
    "group": "Cookbook decisions",
    "title": "BRE-016: approve GPT estimates for the Nut Rolls",
    "prompt": "You asked for estimates for three amounts left blank on the typed Nut Rolls card (GPT-BRE-016-001). They are NOT on the card and print with a footnote. Proposed: milk 1 c.; brown sugar 1/2 c.; yeast 1 lg. (2 oz) cake fresh yeast, or 2 pkg. (1/4 oz each) active dry yeast. Basis: a typical yeast nut-roll dough for 5 c. flour, 4 eggs, 2 sticks oleo.",
@@ -820,6 +838,7 @@
   },
   {
    "id": "M10-DRI011-UNITS",
+   "section": "Drinks",
    "group": "Cookbook decisions",
    "title": "DRI-011: vodka and club soda units",
    "prompt": "The card says \"1/2 vodka\" and \"2 Club Soda\" with no units. You think the vodka is probably a 1.75 L bottle (half of it). How should the cookbook show the amounts?",
@@ -852,6 +871,7 @@
   },
   {
    "id": "VERB-BOOBS",
+   "section": "Casserole",
    "group": "Family wording (Momma's voice)",
    "title": "\"Chicken Boobs\" (CAS-007)",
    "prompt": "In Momma's handwriting the ingredient list says \"Chicken Boobs\" (three times, clearly written). Is it appropriate to print it as she wrote it?",
@@ -905,6 +925,7 @@
   },
   {
    "id": "VERB-PATATOES",
+   "section": "Doughs",
    "group": "Family wording (Momma's voice)",
    "title": "\"patatoes\" (DOU-010)",
    "prompt": "The Tempora Batter card says it is \"also good for sweet patatoes\". Momma may have spelled it the way she says it. Print \"potatoes\", or keep \"patatoes\"?",
@@ -941,6 +962,7 @@
   },
   {
    "id": "U-SOU-005-01",
+   "section": "Soup",
    "group": "Readings only you can settle",
    "title": "SOU-005: ginger amount",
    "prompt": "\"1T. ginger\": the first answer was \"1 qt.\", which matches neither offered reading (the card already has \"1 qt. Beef Broth\"). Which is it?",
@@ -974,6 +996,7 @@
   },
   {
    "id": "U-MEA-015-01",
+   "section": "Meat",
    "group": "Readings only you can settle",
    "title": "MEA-015: kitchen-of name",
    "prompt": "You thought the name was \"Cindie\" (hedged). The draft now says Cindie. Confirm?",
@@ -1008,6 +1031,7 @@
   },
   {
    "id": "U-CAK-019-01",
+   "section": "Cake",
    "group": "You said \"more data\" on these",
    "title": "CAK-019: kitchen-of name",
    "prompt": "\"Anita Hahn\" (kitchen-of name).",
@@ -1040,6 +1064,7 @@
   },
   {
    "id": "U-CAK-019-02",
+   "section": "Cake",
    "group": "You said \"more data\" on these",
    "title": "CAK-019: \"3C. ___ apples\"",
    "prompt": "The word before \"apples\".",
@@ -1072,6 +1097,7 @@
   },
   {
    "id": "U-CAK-032-01",
+   "section": "Cake",
    "group": "You said \"more data\" on these",
    "title": "CAK-032: name at the top right",
    "prompt": "Draft: Cathy Kresge.",
@@ -1109,6 +1135,7 @@
   },
   {
    "id": "U-COO-010-01",
+   "section": "Cookies",
    "group": "You said \"more data\" on these",
    "title": "COO-010: faint note at top left",
    "prompt": "Draft: (original recipe) (I've double).",
@@ -1142,6 +1169,7 @@
   },
   {
    "id": "U-COO-025-01",
+   "section": "Cookies",
    "group": "You said \"more data\" on these",
    "title": "COO-025: circled mark at the left",
    "prompt": "Draft: (85).",
@@ -1179,6 +1207,7 @@
   },
   {
    "id": "U-FUD-003-02",
+   "section": "Fudge",
    "group": "You said \"more data\" on these",
    "title": "FUD-003: Nancy Madonia",
    "prompt": "Kitchen-of name.",
@@ -1215,6 +1244,7 @@
   },
   {
    "id": "U-FUD-005-01",
+   "section": "Fudge",
    "group": "You said \"more data\" on these",
    "title": "FUD-005: faded kitchen-of name",
    "prompt": "Draft: perhaps Summers.",
@@ -1247,6 +1277,7 @@
   },
   {
    "id": "U-FUD-006-01",
+   "section": "Fudge",
    "group": "You said \"more data\" on these",
    "title": "FUD-006: kitchen-of word",
    "prompt": "Draft: Mom.",
@@ -1279,6 +1310,7 @@
   },
   {
    "id": "U-JEL-007-01",
+   "section": "Jello - Pudding",
    "group": "You said \"more data\" on these",
    "title": "JEL-007: \"fold prior till hard\"",
    "prompt": "Readers: prior; prior (low: pour? prier?); prior (alternative: fruit).",
@@ -1310,6 +1342,7 @@
   },
   {
    "id": "U-PIE-002-01",
+   "section": "Pie - Cobbler",
    "group": "You said \"more data\" on these",
    "title": "PIE-002: apples equals ... c sliced",
    "prompt": "\"1 LB Apples equals 3 med OR _ c sliced apples\".",
@@ -1346,6 +1379,7 @@
   },
   {
    "id": "U-MEA-013-01",
+   "section": "Meat",
    "group": "You said \"more data\" on these",
    "title": "MEA-013: name at the top left",
    "prompt": "\"_. MOORE\". (Answering the Kathy Moore question above settles this one too.)",
@@ -1382,6 +1416,7 @@
   },
   {
    "id": "U-SAL-006-01",
+   "section": "Salad",
    "group": "You said \"more data\" on these",
    "title": "SAL-006: kitchen-of name (small)",
    "prompt": "Draft: Boo Litton.",
@@ -1415,6 +1450,7 @@
   },
   {
    "id": "U-DRI-003-01",
+   "section": "Drinks",
    "group": "You said \"more data\" on these",
    "title": "DRI-003: Funton or Fenton",
    "prompt": "\"Recipe from:\" Jeanie Funton (Pass 1) or Jeanie Fenton (Opus and Fable).",
@@ -1447,6 +1483,7 @@
   },
   {
    "id": "U-APP-014-01",
+   "section": "Appetizers",
    "group": "You said \"more data\" on these",
    "title": "APP-014: Irene Cola",
    "prompt": "\"Recipe from:\" Draft: Irene Cola.",
@@ -1476,6 +1513,7 @@
   },
   {
    "id": "U-APP-022-03",
+   "section": "Appetizers",
    "group": "You said \"more data\" on these",
    "title": "APP-022: word after \"Mix -\"",
    "prompt": "Last line; the word after \"Mix -\" is unidentified (draft: [Spoon?] pumpernickel or Brown Bread).",
@@ -1505,6 +1543,7 @@
   },
   {
    "id": "U-APP-021-01",
+   "section": "Appetizers",
    "group": "You said \"more data\" on these",
    "title": "APP-021: first ingredient amount",
    "prompt": "Draft: 8 oz cr. Cheese (faded corner).",
@@ -1536,6 +1575,7 @@
   },
   {
    "id": "U-APP-021-02",
+   "section": "Appetizers",
    "group": "You said \"more data\" on these",
    "title": "APP-021: spinach line",
    "prompt": "Draft: Spinach. (SM) Chopped sp. (Drained).",
@@ -1565,6 +1605,7 @@
   },
   {
    "id": "U-APP-017-02",
+   "section": "Appetizers",
    "group": "You said \"more data\" on these",
    "title": "APP-017: \"if print remains\"",
    "prompt": "Draft: Poke, if print remains its ready.",
@@ -1594,6 +1635,7 @@
   },
   {
    "id": "U-CAS-006-02",
+   "section": "Casserole",
    "group": "You said \"more data\" on these",
    "title": "CAS-006: arrows after \"fry onions\"",
    "prompt": "Two arrows and a possible \"T.\" after \"fry onions\".",

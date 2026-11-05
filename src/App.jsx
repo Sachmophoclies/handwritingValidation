@@ -22,11 +22,11 @@ function buildText(items, answers) {
   return out.join('\n')
 }
 
-function download(text) {
+function download(text, section) {
   const url = URL.createObjectURL(new Blob([text], { type: 'text/plain' }))
   const a = document.createElement('a')
   a.href = url
-  a.download = 'Followups_answered.txt'
+  a.download = 'Followups_answered_' + section.replace(/[^A-Za-z0-9]+/g, '_') + '.txt'
   a.click()
   setTimeout(() => URL.revokeObjectURL(url), 1000)
 }
@@ -62,7 +62,8 @@ function Viewer({ item }) {
       </div>
       <TransformWrapper key={img.src} minScale={1} maxScale={6} doubleClick={{ mode: 'toggle', step: 2 }} centerOnInit>
         <TransformComponent wrapperClass="zoomwrap" contentClass="zoomcontent">
-          <svg className="card" viewBox={'0 0 1 ' + img.a} role="img" aria-label={img.label + ' ' + img.title}>
+          <svg className="card" viewBox={'-0.03 0 1.06 ' + img.a} role="img" aria-label={img.label + ' ' + img.title}>
+            <rect x="-0.03" y="0" width="1.06" height={img.a} fill="#000" />
             <image href={img.src} x="0" y="0" width="1" height={img.a} preserveAspectRatio="none" />
             {img.marks.map((m, i) => {
               const y = m.y0 * img.a
@@ -70,8 +71,8 @@ function Viewer({ item }) {
               return (
                 <g key={i}>
                   <rect x="0" y={y} width="1" height={h} fill="#d91a1a" opacity="0.1" />
-                  <rect x="0" y={y} width="0.022" height={h} fill="#d91a1a" />
-                  <rect x="0.978" y={y} width="0.022" height={h} fill="#d91a1a" />
+                  <rect x="-0.03" y={y} width="0.03" height={h} fill="#d91a1a" />
+                  <rect x="1" y={y} width="0.03" height={h} fill="#d91a1a" />
                 </g>
               )
             })}
@@ -121,7 +122,10 @@ function Question({ item, answer, onChange }) {
 }
 
 export default function App() {
-  const [items, setItems] = useState(null)
+  const [all, setAll] = useState(null)
+  const [section, setSection] = useState(() => {
+    try { return sessionStorage.getItem('hv_section') || '' } catch { return '' }
+  })
   const [error, setError] = useState('')
   const [answers, setAnswers] = useState(load)
   const [page, setPage] = useState(() => {
@@ -129,17 +133,44 @@ export default function App() {
   })
 
   useEffect(() => {
-    fetch(`${BASE}data/items.json`).then((r) => r.json()).then((d) => setItems(d.items)).catch((e) => setError(String(e)))
+    fetch(`${BASE}data/items.json`).then((r) => r.json()).then((d) => setAll(d.items)).catch((e) => setError(String(e)))
   }, [])
   useEffect(() => {
     try { localStorage.setItem(KEY, JSON.stringify(answers)) } catch { /* private mode */ }
   }, [answers])
   useEffect(() => {
+    try { sessionStorage.setItem('hv_section', section) } catch { /* ignore */ }
+  }, [section])
+  useEffect(() => {
     try { sessionStorage.setItem('hv_page', String(page)) } catch { /* ignore */ }
   }, [page])
 
   if (error) return <p className="msg">Could not load the questions: {error}</p>
-  if (!items) return <p className="msg">Loading…</p>
+  if (!all) return <p className="msg">Loading…</p>
+
+  const sections = [...new Set(all.map((it) => it.section))].sort()
+  const items = all.filter((it) => it.section === section)
+  if (!items.length) {
+    return (
+      <div className="app">
+        <header><b>Handwriting validation</b></header>
+        <main className="final sections">
+          <h2>Choose a section</h2>
+          <p>Pick one. Answer its questions, then download that section’s file and send it back. Come back for the next section any time.</p>
+          {sections.map((sec) => {
+            const list = all.filter((it) => it.section === sec)
+            const n = list.filter((it) => answerOf(answers[it.id])).length
+            return (
+              <button key={sec} className="sec" onClick={() => { setPage(0); setSection(sec) }}>
+                <span>{sec}</span>
+                <span>{n === list.length ? '✓ ' : ''}{n} / {list.length}</span>
+              </button>
+            )
+          })}
+        </main>
+      </div>
+    )
+  }
 
   const last = items.length
   const p = Math.min(page, last)
@@ -150,7 +181,8 @@ export default function App() {
   return (
     <div className="app">
       <header>
-        <b>Handwriting validation</b>
+        <button className="back" onClick={() => setSection('')}>‹ Sections</button>
+        <b>{section}</b>
         <span>{p < last ? `${p + 1} / ${last}` : 'Done'} · {done} answered</span>
       </header>
       {p < last ? (
@@ -161,14 +193,15 @@ export default function App() {
       ) : (
         <main className="final">
           <h2>All done</h2>
-          <p>{done} of {last} answered. Download the file and send it back.</p>
-          <button className="big" onClick={() => download(text())}>Download results file</button>
+          <p>{done} of {last} answered. Download the {section} file and send it back.</p>
+          <button className="big" onClick={() => download(text(), section)}>Download results file</button>
+          <button className="alt" onClick={() => setSection('')}>Choose another section</button>
           <p className="small">You can go back and change any answer first. Your answers stay on this phone until you clear the browser data.</p>
         </main>
       )}
       <footer>
         <button onClick={() => go(-1)} disabled={p === 0}>‹ Back</button>
-        {p < last ? <button className="mid" onClick={() => download(text())}>Download</button> : <span />}
+        {p < last ? <button className="mid" onClick={() => download(text(), section)}>Download</button> : <span />}
         <button onClick={() => go(1)} disabled={p === last}>{p === last - 1 ? 'Finish ›' : 'Next ›'}</button>
       </footer>
     </div>
