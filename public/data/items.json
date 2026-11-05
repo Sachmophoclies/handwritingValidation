@@ -1,0 +1,860 @@
+{
+ "items": [
+  {
+   "id": "H2-KATHY-HEINDEL",
+   "group": "People (family facts)",
+   "title": "Kathy Heindel: one person?",
+   "prompt": "CAS-008 (Kathy Heindel's Chicken Over Rice) and CAS-014 (K. Heindel) both name a Heindel. APP-006 (Cheese Fondue) names a Kathy, your aunt. Who is who?",
+   "options": [
+    "All three are the same Kathy (your aunt)",
+    "The two Heindel cards are one person, not the aunt on APP-006",
+    "They are different people"
+   ],
+   "cards": [
+    {
+     "id": "CAS-008",
+     "title": "Kathy Heindel's Chicken over rice",
+     "images": [
+      "CAS-008_p1.jpg",
+      "CAS-008_p2.jpg"
+     ]
+    },
+    {
+     "id": "CAS-014",
+     "title": "3 BEAN CASSEROLE",
+     "images": [
+      "CAS-014_p1.jpg",
+      "CAS-014_p2.jpg"
+     ]
+    },
+    {
+     "id": "APP-006",
+     "title": "Cheese Fondue",
+     "images": [
+      "APP-006_p1.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "H2-KATHY-MOORE",
+   "group": "People (family facts)",
+   "title": "Kathy Moore: who is she?",
+   "prompt": "DOU-006 (Pizza Dough) and MEA-018 say Kathy Moore. Is she the same Kathy as the aunt or the Heindel cards? (MEA-013 reads \"_. MOORE\"; you said more data on it earlier, so this answer would settle it too.)",
+   "options": [
+    "Kathy Moore is the same Kathy as the aunt / Heindel",
+    "Kathy Moore is a different person"
+   ],
+   "cards": [
+    {
+     "id": "DOU-006",
+     "title": "Pizza Dough (Kathy Moore)",
+     "images": [
+      "DOU-006_p1.jpg"
+     ]
+    },
+    {
+     "id": "MEA-018",
+     "title": "Kathy Moore's Sloppy Joes",
+     "images": [
+      "MEA-018_p1.jpg",
+      "MEA-018_p2.jpg"
+     ]
+    },
+    {
+     "id": "MEA-013",
+     "title": "Parmesan Fried Fish",
+     "images": [
+      "MEA-013_p1.jpg",
+      "MEA-013_p2.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "H2-JOHN",
+   "group": "People (family facts)",
+   "title": "Which John? (optional)",
+   "prompt": "DOU-001 is titled \"John's Beer Batter\". Do you know which John? Skip if not.",
+   "options": [],
+   "cards": [
+    {
+     "id": "DOU-001",
+     "title": "John's Beer Batter",
+     "images": [
+      "DOU-001_p1.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "Q-BRE-BOPP",
+   "group": "People (family facts)",
+   "title": "Mrs. Bopp: same person?",
+   "prompt": "BRE-006 says \"Mrs. Bopp\" and BRE-010 says \"Mrs Bopps bread dough\" (you confirmed both readings). Same person? How should the cookbook name her?",
+   "options": [
+    "Same person, print \"Mrs. Bopp\"",
+    "Different people"
+   ],
+   "cards": [
+    {
+     "id": "BRE-006",
+     "title": "Bread",
+     "images": [
+      "BRE-006_p1.jpg",
+      "BRE-006_p2.jpg"
+     ]
+    },
+    {
+     "id": "BRE-010",
+     "title": "Cinnamon Rolls",
+     "images": [
+      "BRE-010_p1.jpg",
+      "BRE-010_p2.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "Q-BRE-008-MOM",
+   "group": "People (family facts)",
+   "title": "Whose mom?",
+   "prompt": "BRE-008 Buns says \"Recipe from the kitchen of: mom's\". Whose mom?",
+   "options": [],
+   "cards": [
+    {
+     "id": "BRE-008",
+     "title": "Buns",
+     "images": [
+      "BRE-008_p1.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "Q-BRE-004-NEMICK",
+   "group": "People (family facts)",
+   "title": "Who is Nemick?",
+   "prompt": "BRE-004 says \"Marilyn Valchek, Nemick's mom\" (you confirmed the reading). Who is Nemick?",
+   "options": [],
+   "cards": [
+    {
+     "id": "BRE-004",
+     "title": "Basic Yeast Dough",
+     "images": [
+      "BRE-004_p1.jpg",
+      "BRE-004_p2.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "Q-BRE-009-PENCIL",
+   "group": "People (family facts)",
+   "title": "Whose pencil handwriting?",
+   "prompt": "BRE-009 Buns 2: you said the pencil figures are scaled measurements. Do you know whose handwriting they are?",
+   "options": [],
+   "cards": [
+    {
+     "id": "BRE-009",
+     "title": "Buns (Don't Bake on Rainy Days!)",
+     "images": [
+      "BRE-009_p1.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "Q-BAR-008-BACK",
+   "group": "Is something missing?",
+   "title": "BAR-008: is there a back side?",
+   "prompt": "Magic Cookie Bars (Betty Pease) stops at \"graham crackers -\" at the bottom. Is there a back side or a second card that was not scanned?",
+   "options": [
+    "No, that is the whole card",
+    "Yes, there is another side or card"
+   ],
+   "cards": [
+    {
+     "id": "BAR-008",
+     "title": "Magic Cookie Bars",
+     "images": [
+      "BAR-008_p1.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "Q-BRE-012-GLAZE",
+   "group": "Is something missing?",
+   "title": "BRE-012: glaze recipe?",
+   "prompt": "Friendship Bread: the back says only \"Before glazing\"; there is no glaze recipe or baking time. Is there another card?",
+   "options": [
+    "No, the card is incomplete as scanned",
+    "Yes, there is another card"
+   ],
+   "cards": [
+    {
+     "id": "BRE-012",
+     "title": "Friendship Bread",
+     "images": [
+      "BRE-012_p1.jpg",
+      "BRE-012_p2.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "Q-BAR-010-TITLE",
+   "group": "Cookbook decisions",
+   "title": "BAR-010: which title?",
+   "prompt": "The file is named \"Peanut Butter Squares\" but the card says \"Peanut Butterscotch Squares\". Which should the cookbook use?",
+   "options": [
+    "Peanut Butter Squares (file name)",
+    "Peanut Butterscotch Squares (the card)"
+   ],
+   "cards": [
+    {
+     "id": "BAR-010",
+     "title": "Peanut Butterscotch Squares",
+     "images": [
+      "BAR-010_p1.jpg",
+      "BAR-010_p2.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "Q-BAR-COLDCAKES",
+   "group": "Cookbook decisions",
+   "title": "Cold Cakes: separate or grouped?",
+   "prompt": "BAR-004 Cold Cakes, BAR-005 Cold Cakes 2, BAR-006 Gram's Cool Cakes and CAK-018 Cold Cakes look like versions of one family cookie.",
+   "options": [
+    "Keep them as separate recipes",
+    "Group them as versions of one recipe"
+   ],
+   "cards": [
+    {
+     "id": "BAR-004",
+     "title": "Cold Cakes",
+     "images": [
+      "BAR-004_p1.jpg"
+     ]
+    },
+    {
+     "id": "BAR-005",
+     "title": "Cold Cakes",
+     "images": [
+      "BAR-005_p1.jpg"
+     ]
+    },
+    {
+     "id": "BAR-006",
+     "title": "Gram's Cool Cakes",
+     "images": [
+      "BAR-006_p1.jpg",
+      "BAR-006_p2.jpg"
+     ]
+    },
+    {
+     "id": "CAK-018",
+     "title": "Cold Cakes",
+     "images": [
+      "CAK-018_p1.jpg",
+      "CAK-018_p2.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "Q-BAR-002-2#",
+   "group": "Cookbook decisions",
+   "title": "BAR-002: what does \"2#\" mean?",
+   "prompt": "Last line \"16 - 2# Brownie\". You confirmed the mark is #. What does it mean?",
+   "options": [
+    "2 pounds",
+    "2-inch (squares)"
+   ],
+   "cards": [
+    {
+     "id": "BAR-002",
+     "title": "Brownies",
+     "images": [
+      "BAR-002_p1.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "Q-BRE-001-FILE",
+   "group": "Cookbook decisions",
+   "title": "BRE-001: Bread or Cake?",
+   "prompt": "Bacardi Rum Cake is a cake filed under Bread.",
+   "options": [
+    "Keep it in Bread",
+    "Move it to Cake"
+   ],
+   "cards": [
+    {
+     "id": "BRE-001",
+     "title": "Bacardi Rum Cake",
+     "images": [
+      "BRE-001_p1.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "Q-BRE-017-MURFINS",
+   "group": "Cookbook decisions",
+   "title": "BRE-017: Mur-fins?",
+   "prompt": "You read the word as \"Mur-fins\". What should the cookbook print?",
+   "options": [
+    "Mur-fins (family word)",
+    "Muffins",
+    "Mur-fins (Muffins)"
+   ],
+   "cards": [
+    {
+     "id": "BRE-017",
+     "title": "Sweet Potato Muffins",
+     "images": [
+      "BRE-017_p1.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "H3-CORELLE",
+   "group": "Cookbook decisions",
+   "title": "CAS-008: Corelle dish",
+   "prompt": "The card says \"grease Corelle dish\". Print as written, or as \"casserole dish\"?",
+   "options": [
+    "Print as written (Corelle dish)",
+    "Print \"casserole dish\""
+   ],
+   "cards": [
+    {
+     "id": "CAS-008",
+     "title": "Kathy Heindel's Chicken over rice",
+     "images": [
+      "CAS-008_p1.jpg",
+      "CAS-008_p2.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "H3-DOU009",
+   "group": "Cookbook decisions",
+   "title": "DOU-009: red and blue amounts",
+   "prompt": "Pizza Dough 4 (red = 1 pie): you confirmed the red figures are half of the blue (a half batch). What should the cookbook print?",
+   "options": [
+    "Print only the blue (2-pie) amounts, with the red as a note",
+    "Print the blue (2-pie) and the red (1-pie) amounts"
+   ],
+   "cards": [
+    {
+     "id": "DOU-009",
+     "title": "Pizza (Dough and Sauce)",
+     "images": [
+      "DOU-009_p1.jpg",
+      "DOU-009_p2.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "H3-DOU006-FOOTNOTE",
+   "group": "Cookbook decisions",
+   "title": "DOU-006: footnote on \"ht.\" water",
+   "prompt": "Footnote GPT-DOU-006-001, as you asked. Proposed wording: \"As written on the card ('ht.' water); hot water can kill yeast, and the card's own '(1/4 warm - yeast)' suggests warm water is meant for the yeast.\"",
+   "options": [
+    "Approve the wording",
+    "Reject the footnote"
+   ],
+   "cards": [
+    {
+     "id": "DOU-006",
+     "title": "Pizza Dough (Kathy Moore)",
+     "images": [
+      "DOU-006_p1.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "H5-BRE016-GPT",
+   "group": "Cookbook decisions",
+   "title": "BRE-016: approve GPT estimates for the Nut Rolls",
+   "prompt": "You asked for estimates for three amounts left blank on the typed Nut Rolls card (GPT-BRE-016-001). They are NOT on the card and print with a footnote. Proposed: milk 1 c.; brown sugar 1/2 c.; yeast 1 lg. (2 oz) cake fresh yeast, or 2 pkg. (1/4 oz each) active dry yeast. Basis: a typical yeast nut-roll dough for 5 c. flour, 4 eggs, 2 sticks oleo.",
+   "options": [
+    "Approve all three",
+    "Reject (leave the amounts blank)"
+   ],
+   "cards": [
+    {
+     "id": "BRE-016",
+     "title": "Nut Rolls",
+     "images": [
+      "BRE-016_p1.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "M10-DRI011-UNITS",
+   "group": "Cookbook decisions",
+   "title": "DRI-011: vodka and club soda units",
+   "prompt": "The card says \"1/2 vodka\" and \"2 Club Soda\" with no units. You think the vodka is probably a 1.75 L bottle (half of it). How should the cookbook show the amounts?",
+   "options": [
+    "Print as written (no units)",
+    "Print 1/2 of a 1.75 L bottle of vodka, with a footnote that the unit is not on the card"
+   ],
+   "cards": [
+    {
+     "id": "DRI-011",
+     "title": "SPIKED PUNCH",
+     "images": [
+      "DRI-011_p1.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "VERB-BOOBS",
+   "group": "Family wording (Momma's voice)",
+   "title": "\"Chicken Boobs\" (CAS-007)",
+   "prompt": "In Momma's handwriting the ingredient list says \"Chicken Boobs\" (three times, clearly written). Is it appropriate to print it as she wrote it?",
+   "options": [
+    "Print as written",
+    "Print \"Chicken Breasts\"",
+    "As written with a small note, e.g. (Momma's word for breasts)"
+   ],
+   "cards": [
+    {
+     "id": "CAS-007",
+     "title": "Chicken Casserole",
+     "images": [
+      "CAS-007_p1.jpg",
+      "CAS-007_p2.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "VERB-PATATOES",
+   "group": "Family wording (Momma's voice)",
+   "title": "\"patatoes\" (DOU-010)",
+   "prompt": "The Tempora Batter card says it is \"also good for sweet patatoes\". Momma may have spelled it the way she says it. Print \"potatoes\", or keep \"patatoes\"?",
+   "options": [
+    "potatoes",
+    "patatoes as written"
+   ],
+   "cards": [
+    {
+     "id": "DOU-010",
+     "title": "Shrimp Tempora (Batter)",
+     "images": [
+      "DOU-010_p1.jpg",
+      "DOU-010_p2.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-SOU-005-01",
+   "group": "Readings only you can settle",
+   "title": "SOU-005: ginger amount",
+   "prompt": "\"1T. ginger\": the first answer was \"1 qt.\", which matches neither offered reading (the card already has \"1 qt. Beef Broth\"). Which is it?",
+   "options": [
+    "1 T. (tablespoon)",
+    "1 t. (teaspoon)",
+    "No unit"
+   ],
+   "cards": [
+    {
+     "id": "SOU-005",
+     "title": "Portuguese Bean Soup",
+     "images": [
+      "SOU-005_p1.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-MEA-015-01",
+   "group": "Readings only you can settle",
+   "title": "MEA-015: kitchen-of name",
+   "prompt": "You thought the name was \"Cindie\" (hedged). The draft now says Cindie. Confirm?",
+   "options": [
+    "Cindie",
+    "Addie",
+    "Ardie",
+    "Andie"
+   ],
+   "cards": [
+    {
+     "id": "MEA-015",
+     "title": "Pork Roast",
+     "images": [
+      "MEA-015_p1.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAK-019-01",
+   "group": "You said \"more data\" on these",
+   "title": "CAK-019: kitchen-of name",
+   "prompt": "\"Anita Hahn\" (kitchen-of name).",
+   "options": [
+    "Anita Hahn",
+    "Anita Flake"
+   ],
+   "cards": [
+    {
+     "id": "CAK-019",
+     "title": "French Apple",
+     "images": [
+      "CAK-019_p1.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAK-019-02",
+   "group": "You said \"more data\" on these",
+   "title": "CAK-019: \"3C. ___ apples\"",
+   "prompt": "The word before \"apples\".",
+   "options": [
+    "Chop. / Cpd (chopped)",
+    "Cored"
+   ],
+   "cards": [
+    {
+     "id": "CAK-019",
+     "title": "French Apple",
+     "images": [
+      "CAK-019_p1.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAK-032-01",
+   "group": "You said \"more data\" on these",
+   "title": "CAK-032: name at the top right",
+   "prompt": "Draft: Cathy Kresge.",
+   "options": [
+    "Kresge",
+    "Kruszka",
+    "Kreuzga"
+   ],
+   "cards": [
+    {
+     "id": "CAK-032",
+     "title": "Texas Sheet Cake",
+     "images": [
+      "CAK-032_p1.jpg",
+      "CAK-032_p2.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-COO-010-01",
+   "group": "You said \"more data\" on these",
+   "title": "COO-010: faint note at top left",
+   "prompt": "Draft: (original recipe) (I've double).",
+   "options": [
+    "(original recipe is double)",
+    "(original recipe x2 double)",
+    "(original recipe) (I've double)"
+   ],
+   "cards": [
+    {
+     "id": "COO-010",
+     "title": "Italian Anise Cookies",
+     "images": [
+      "COO-010_p1.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-COO-025-01",
+   "group": "You said \"more data\" on these",
+   "title": "COO-025: circled mark at the left",
+   "prompt": "Draft: (85).",
+   "options": [
+    "85 (a year?)",
+    "#5",
+    "S"
+   ],
+   "cards": [
+    {
+     "id": "COO-025",
+     "title": "Shaddows - Press Cookie",
+     "images": [
+      "COO-025_p1.jpg",
+      "COO-025_p2.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-FUD-003-02",
+   "group": "You said \"more data\" on these",
+   "title": "FUD-003: Nancy Madonia",
+   "prompt": "Kitchen-of name.",
+   "options": [
+    "Madonia",
+    "Madonna"
+   ],
+   "cards": [
+    {
+     "id": "FUD-003",
+     "title": "Fantasy Fudge",
+     "images": [
+      "FUD-003_p1.jpg",
+      "FUD-003_p2.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-FUD-005-01",
+   "group": "You said \"more data\" on these",
+   "title": "FUD-005: faded kitchen-of name",
+   "prompt": "Draft: perhaps Summers.",
+   "options": [
+    "Dt Summer",
+    "D. Summers"
+   ],
+   "cards": [
+    {
+     "id": "FUD-005",
+     "title": "Million Dollar Fudge",
+     "images": [
+      "FUD-005_p1.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-FUD-006-01",
+   "group": "You said \"more data\" on these",
+   "title": "FUD-006: kitchen-of word",
+   "prompt": "Draft: Mom.",
+   "options": [
+    "Mom",
+    "Lou"
+   ],
+   "cards": [
+    {
+     "id": "FUD-006",
+     "title": "Million Dollar Fudge",
+     "images": [
+      "FUD-006_p1.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-JEL-007-01",
+   "group": "You said \"more data\" on these",
+   "title": "JEL-007: \"fold prior till hard\"",
+   "prompt": "Readers: prior; prior (low: pour? prier?); prior (alternative: fruit).",
+   "options": [
+    "prior (as written)"
+   ],
+   "cards": [
+    {
+     "id": "JEL-007",
+     "title": "Mom's Orange Jello",
+     "images": [
+      "JEL-007_p1.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-PIE-002-01",
+   "group": "You said \"more data\" on these",
+   "title": "PIE-002: apples equals ... c sliced",
+   "prompt": "\"1 LB Apples equals 3 med OR _ c sliced apples\".",
+   "options": [
+    "2 c",
+    "3 c"
+   ],
+   "cards": [
+    {
+     "id": "PIE-002",
+     "title": "Apple Pie Filling",
+     "images": [
+      "PIE-002_p1.jpg",
+      "PIE-002_p2.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-MEA-013-01",
+   "group": "You said \"more data\" on these",
+   "title": "MEA-013: name at the top left",
+   "prompt": "\"_. MOORE\". (Answering the Kathy Moore question above settles this one too.)",
+   "options": [
+    "K. Moore (Kathy Moore, as on DOU-006 and MEA-018)",
+    "R. Moore"
+   ],
+   "cards": [
+    {
+     "id": "MEA-013",
+     "title": "Parmesan Fried Fish",
+     "images": [
+      "MEA-013_p1.jpg",
+      "MEA-013_p2.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-SAL-006-01",
+   "group": "You said \"more data\" on these",
+   "title": "SAL-006: kitchen-of name (small)",
+   "prompt": "Draft: Boo Litton.",
+   "options": [
+    "Boo Litton",
+    "Bo Litton",
+    "Bob Litton"
+   ],
+   "cards": [
+    {
+     "id": "SAL-006",
+     "title": "7 Layer Salad w/ Spinach",
+     "images": [
+      "SAL-006_p1.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DRI-003-01",
+   "group": "You said \"more data\" on these",
+   "title": "DRI-003: Funton or Fenton",
+   "prompt": "\"Recipe from:\" Jeanie Funton (Pass 1) or Jeanie Fenton (Opus and Fable).",
+   "options": [
+    "Funton",
+    "Fenton"
+   ],
+   "cards": [
+    {
+     "id": "DRI-003",
+     "title": "Brandy Slush",
+     "images": [
+      "DRI-003_p1.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-APP-014-01",
+   "group": "You said \"more data\" on these",
+   "title": "APP-014: Irene Cola",
+   "prompt": "\"Recipe from:\" Draft: Irene Cola.",
+   "options": [],
+   "cards": [
+    {
+     "id": "APP-014",
+     "title": "Dill Weed Dip",
+     "images": [
+      "APP-014_p1.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-APP-022-03",
+   "group": "You said \"more data\" on these",
+   "title": "APP-022: word after \"Mix -\"",
+   "prompt": "Last line; the word after \"Mix -\" is unidentified (draft: [Spoon?] pumpernickel or Brown Bread).",
+   "options": [],
+   "cards": [
+    {
+     "id": "APP-022",
+     "title": "Spinach Dip",
+     "images": [
+      "APP-022_p1.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-APP-021-01",
+   "group": "You said \"more data\" on these",
+   "title": "APP-021: first ingredient amount",
+   "prompt": "Draft: 8 oz cr. Cheese (faded corner).",
+   "options": [
+    "8 oz"
+   ],
+   "cards": [
+    {
+     "id": "APP-021",
+     "title": "Spinach Dip",
+     "images": [
+      "APP-021_p1.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-APP-021-02",
+   "group": "You said \"more data\" on these",
+   "title": "APP-021: spinach line",
+   "prompt": "Draft: Spinach. (SM) Chopped sp. (Drained).",
+   "options": [],
+   "cards": [
+    {
+     "id": "APP-021",
+     "title": "Spinach Dip",
+     "images": [
+      "APP-021_p1.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-APP-017-02",
+   "group": "You said \"more data\" on these",
+   "title": "APP-017: \"if print remains\"",
+   "prompt": "Draft: Poke, if print remains its ready.",
+   "options": [],
+   "cards": [
+    {
+     "id": "APP-017",
+     "title": "Pizza Rolls",
+     "images": [
+      "APP-017_p1.jpg"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-006-02",
+   "group": "You said \"more data\" on these",
+   "title": "CAS-006: arrows after \"fry onions\"",
+   "prompt": "Two arrows and a possible \"T.\" after \"fry onions\".",
+   "options": [],
+   "cards": [
+    {
+     "id": "CAS-006",
+     "title": "Chicken Casserole",
+     "images": [
+      "CAS-006_p1.jpg",
+      "CAS-006_p2.jpg"
+     ]
+    }
+   ]
+  }
+ ]
+}
