@@ -16,7 +16,7 @@ main{flex:1;min-height:0;display:flex;flex-direction:column}
 .viewer>.react-transform-wrapper{flex:1 1 0;width:100%!important;height:0!important;min-height:0}
 .zoomwrap{width:100%!important;height:100%!important}
 .zoomcontent{width:100%!important;height:100%!important;display:flex;align-items:center;justify-content:center}
-.zoomcontent img{max-width:100%;max-height:100%;object-fit:contain;user-select:none;-webkit-user-drag:none}
+.zoomcontent svg.card{display:block;max-width:100%;max-height:100%;width:auto;height:auto;user-select:none}
 .panel{flex:1;min-height:0;overflow-y:auto;padding:12px 14px 20px}
 .group{font-size:.75rem;text-transform:uppercase;letter-spacing:.05em;color:var(--mut)}
 h2{margin:2px 0 6px;font-size:1.15rem;color:var(--acc)}

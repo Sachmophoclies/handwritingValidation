@@ -10,28 +10,44 @@
     "The two Heindel cards are one person, not the aunt on APP-006",
     "They are different people"
    ],
+   "marks": [],
    "cards": [
     {
      "id": "CAS-008",
      "title": "Kathy Heindel's Chicken over rice",
      "images": [
-      "CAS-008_p1.jpg",
-      "CAS-008_p2.jpg"
+      {
+       "f": "CAS-008_p1.jpg",
+       "a": 0.6042
+      },
+      {
+       "f": "CAS-008_p2.jpg",
+       "a": 0.6028
+      }
      ]
     },
     {
      "id": "CAS-014",
      "title": "3 BEAN CASSEROLE",
      "images": [
-      "CAS-014_p1.jpg",
-      "CAS-014_p2.jpg"
+      {
+       "f": "CAS-014_p1.jpg",
+       "a": 0.6111
+      },
+      {
+       "f": "CAS-014_p2.jpg",
+       "a": 0.6028
+      }
      ]
     },
     {
      "id": "APP-006",
      "title": "Cheese Fondue",
      "images": [
-      "APP-006_p1.jpg"
+      {
+       "f": "APP-006_p1.jpg",
+       "a": 0.6583
+      }
      ]
     }
    ]
@@ -45,28 +61,44 @@
     "Kathy Moore is the same Kathy as the aunt / Heindel",
     "Kathy Moore is a different person"
    ],
+   "marks": [],
    "cards": [
     {
      "id": "DOU-006",
      "title": "Pizza Dough (Kathy Moore)",
      "images": [
-      "DOU-006_p1.jpg"
+      {
+       "f": "DOU-006_p1.jpg",
+       "a": 1.194
+      }
      ]
     },
     {
      "id": "MEA-018",
      "title": "Kathy Moore's Sloppy Joes",
      "images": [
-      "MEA-018_p1.jpg",
-      "MEA-018_p2.jpg"
+      {
+       "f": "MEA-018_p1.jpg",
+       "a": 0.6028
+      },
+      {
+       "f": "MEA-018_p2.jpg",
+       "a": 0.5972
+      }
      ]
     },
     {
      "id": "MEA-013",
      "title": "Parmesan Fried Fish",
      "images": [
-      "MEA-013_p1.jpg",
-      "MEA-013_p2.jpg"
+      {
+       "f": "MEA-013_p1.jpg",
+       "a": 0.6028
+      },
+      {
+       "f": "MEA-013_p2.jpg",
+       "a": 0.6097
+      }
      ]
     }
    ]
@@ -77,12 +109,16 @@
    "title": "Which John? (optional)",
    "prompt": "DOU-001 is titled \"John's Beer Batter\". Do you know which John? Skip if not.",
    "options": [],
+   "marks": [],
    "cards": [
     {
      "id": "DOU-001",
      "title": "John's Beer Batter",
      "images": [
-      "DOU-001_p1.jpg"
+      {
+       "f": "DOU-001_p1.jpg",
+       "a": 1.6438
+      }
      ]
     }
    ]
@@ -96,21 +132,34 @@
     "Same person, print \"Mrs. Bopp\"",
     "Different people"
    ],
+   "marks": [],
    "cards": [
     {
      "id": "BRE-006",
      "title": "Bread",
      "images": [
-      "BRE-006_p1.jpg",
-      "BRE-006_p2.jpg"
+      {
+       "f": "BRE-006_p1.jpg",
+       "a": 1.194
+      },
+      {
+       "f": "BRE-006_p2.jpg",
+       "a": 1.194
+      }
      ]
     },
     {
      "id": "BRE-010",
      "title": "Cinnamon Rolls",
      "images": [
-      "BRE-010_p1.jpg",
-      "BRE-010_p2.jpg"
+      {
+       "f": "BRE-010_p1.jpg",
+       "a": 0.5958
+      },
+      {
+       "f": "BRE-010_p2.jpg",
+       "a": 0.5917
+      }
      ]
     }
    ]
@@ -121,12 +170,16 @@
    "title": "Whose mom?",
    "prompt": "BRE-008 Buns says \"Recipe from the kitchen of: mom's\". Whose mom?",
    "options": [],
+   "marks": [],
    "cards": [
     {
      "id": "BRE-008",
      "title": "Buns",
      "images": [
-      "BRE-008_p1.jpg"
+      {
+       "f": "BRE-008_p1.jpg",
+       "a": 1.194
+      }
      ]
     }
    ]
@@ -137,13 +190,20 @@
    "title": "Who is Nemick?",
    "prompt": "BRE-004 says \"Marilyn Valchek, Nemick's mom\" (you confirmed the reading). Who is Nemick?",
    "options": [],
+   "marks": [],
    "cards": [
     {
      "id": "BRE-004",
      "title": "Basic Yeast Dough",
      "images": [
-      "BRE-004_p1.jpg",
-      "BRE-004_p2.jpg"
+      {
+       "f": "BRE-004_p1.jpg",
+       "a": 0.6
+      },
+      {
+       "f": "BRE-004_p2.jpg",
+       "a": 1.659
+      }
      ]
     }
    ]
@@ -154,12 +214,16 @@
    "title": "Whose pencil handwriting?",
    "prompt": "BRE-009 Buns 2: you said the pencil figures are scaled measurements. Do you know whose handwriting they are?",
    "options": [],
+   "marks": [],
    "cards": [
     {
      "id": "BRE-009",
      "title": "Buns (Don't Bake on Rainy Days!)",
      "images": [
-      "BRE-009_p1.jpg"
+      {
+       "f": "BRE-009_p1.jpg",
+       "a": 0.6056
+      }
      ]
     }
    ]
@@ -173,12 +237,16 @@
     "No, that is the whole card",
     "Yes, there is another side or card"
    ],
+   "marks": [],
    "cards": [
     {
      "id": "BAR-008",
      "title": "Magic Cookie Bars",
      "images": [
-      "BAR-008_p1.jpg"
+      {
+       "f": "BAR-008_p1.jpg",
+       "a": 0.5986
+      }
      ]
     }
    ]
@@ -192,13 +260,20 @@
     "No, the card is incomplete as scanned",
     "Yes, there is another card"
    ],
+   "marks": [],
    "cards": [
     {
      "id": "BRE-012",
      "title": "Friendship Bread",
      "images": [
-      "BRE-012_p1.jpg",
-      "BRE-012_p2.jpg"
+      {
+       "f": "BRE-012_p1.jpg",
+       "a": 0.5972
+      },
+      {
+       "f": "BRE-012_p2.jpg",
+       "a": 0.6
+      }
      ]
     }
    ]
@@ -212,13 +287,20 @@
     "Peanut Butter Squares (file name)",
     "Peanut Butterscotch Squares (the card)"
    ],
+   "marks": [],
    "cards": [
     {
      "id": "BAR-010",
      "title": "Peanut Butterscotch Squares",
      "images": [
-      "BAR-010_p1.jpg",
-      "BAR-010_p2.jpg"
+      {
+       "f": "BAR-010_p1.jpg",
+       "a": 0.5986
+      },
+      {
+       "f": "BAR-010_p2.jpg",
+       "a": 0.5944
+      }
      ]
     }
    ]
@@ -232,35 +314,54 @@
     "Keep them as separate recipes",
     "Group them as versions of one recipe"
    ],
+   "marks": [],
    "cards": [
     {
      "id": "BAR-004",
      "title": "Cold Cakes",
      "images": [
-      "BAR-004_p1.jpg"
+      {
+       "f": "BAR-004_p1.jpg",
+       "a": 1.2789
+      }
      ]
     },
     {
      "id": "BAR-005",
      "title": "Cold Cakes",
      "images": [
-      "BAR-005_p1.jpg"
+      {
+       "f": "BAR-005_p1.jpg",
+       "a": 1.1862
+      }
      ]
     },
     {
      "id": "BAR-006",
      "title": "Gram's Cool Cakes",
      "images": [
-      "BAR-006_p1.jpg",
-      "BAR-006_p2.jpg"
+      {
+       "f": "BAR-006_p1.jpg",
+       "a": 1.6628
+      },
+      {
+       "f": "BAR-006_p2.jpg",
+       "a": 1.6667
+      }
      ]
     },
     {
      "id": "CAK-018",
      "title": "Cold Cakes",
      "images": [
-      "CAK-018_p1.jpg",
-      "CAK-018_p2.jpg"
+      {
+       "f": "CAK-018_p1.jpg",
+       "a": 0.5972
+      },
+      {
+       "f": "CAK-018_p2.jpg",
+       "a": 0.5972
+      }
      ]
     }
    ]
@@ -274,12 +375,16 @@
     "2 pounds",
     "2-inch (squares)"
    ],
+   "marks": [],
    "cards": [
     {
      "id": "BAR-002",
      "title": "Brownies",
      "images": [
-      "BAR-002_p1.jpg"
+      {
+       "f": "BAR-002_p1.jpg",
+       "a": 0.5958
+      }
      ]
     }
    ]
@@ -293,12 +398,16 @@
     "Keep it in Bread",
     "Move it to Cake"
    ],
+   "marks": [],
    "cards": [
     {
      "id": "BRE-001",
      "title": "Bacardi Rum Cake",
      "images": [
-      "BRE-001_p1.jpg"
+      {
+       "f": "BRE-001_p1.jpg",
+       "a": 0.6764
+      }
      ]
     }
    ]
@@ -313,12 +422,16 @@
     "Muffins",
     "Mur-fins (Muffins)"
    ],
+   "marks": [],
    "cards": [
     {
      "id": "BRE-017",
      "title": "Sweet Potato Muffins",
      "images": [
-      "BRE-017_p1.jpg"
+      {
+       "f": "BRE-017_p1.jpg",
+       "a": 0.6056
+      }
      ]
     }
    ]
@@ -332,13 +445,20 @@
     "Print as written (Corelle dish)",
     "Print \"casserole dish\""
    ],
+   "marks": [],
    "cards": [
     {
      "id": "CAS-008",
      "title": "Kathy Heindel's Chicken over rice",
      "images": [
-      "CAS-008_p1.jpg",
-      "CAS-008_p2.jpg"
+      {
+       "f": "CAS-008_p1.jpg",
+       "a": 0.6042
+      },
+      {
+       "f": "CAS-008_p2.jpg",
+       "a": 0.6028
+      }
      ]
     }
    ]
@@ -352,13 +472,20 @@
     "Print only the blue (2-pie) amounts, with the red as a note",
     "Print the blue (2-pie) and the red (1-pie) amounts"
    ],
+   "marks": [],
    "cards": [
     {
      "id": "DOU-009",
      "title": "Pizza (Dough and Sauce)",
      "images": [
-      "DOU-009_p1.jpg",
-      "DOU-009_p2.jpg"
+      {
+       "f": "DOU-009_p1.jpg",
+       "a": 0.6069
+      },
+      {
+       "f": "DOU-009_p2.jpg",
+       "a": 0.6042
+      }
      ]
     }
    ]
@@ -372,12 +499,16 @@
     "Approve the wording",
     "Reject the footnote"
    ],
+   "marks": [],
    "cards": [
     {
      "id": "DOU-006",
      "title": "Pizza Dough (Kathy Moore)",
      "images": [
-      "DOU-006_p1.jpg"
+      {
+       "f": "DOU-006_p1.jpg",
+       "a": 1.194
+      }
      ]
     }
    ]
@@ -391,12 +522,16 @@
     "Approve all three",
     "Reject (leave the amounts blank)"
    ],
+   "marks": [],
    "cards": [
     {
      "id": "BRE-016",
      "title": "Nut Rolls",
      "images": [
-      "BRE-016_p1.jpg"
+      {
+       "f": "BRE-016_p1.jpg",
+       "a": 1.198
+      }
      ]
     }
    ]
@@ -410,12 +545,16 @@
     "Print as written (no units)",
     "Print 1/2 of a 1.75 L bottle of vodka, with a footnote that the unit is not on the card"
    ],
+   "marks": [],
    "cards": [
     {
      "id": "DRI-011",
      "title": "SPIKED PUNCH",
      "images": [
-      "DRI-011_p1.jpg"
+      {
+       "f": "DRI-011_p1.jpg",
+       "a": 0.6
+      }
      ]
     }
    ]
@@ -430,13 +569,20 @@
     "Print \"Chicken Breasts\"",
     "As written with a small note, e.g. (Momma's word for breasts)"
    ],
+   "marks": [],
    "cards": [
     {
      "id": "CAS-007",
      "title": "Chicken Casserole",
      "images": [
-      "CAS-007_p1.jpg",
-      "CAS-007_p2.jpg"
+      {
+       "f": "CAS-007_p1.jpg",
+       "a": 0.6028
+      },
+      {
+       "f": "CAS-007_p2.jpg",
+       "a": 0.6028
+      }
      ]
     }
    ]
@@ -450,13 +596,20 @@
     "potatoes",
     "patatoes as written"
    ],
+   "marks": [],
    "cards": [
     {
      "id": "DOU-010",
      "title": "Shrimp Tempora (Batter)",
      "images": [
-      "DOU-010_p1.jpg",
-      "DOU-010_p2.jpg"
+      {
+       "f": "DOU-010_p1.jpg",
+       "a": 0.6028
+      },
+      {
+       "f": "DOU-010_p2.jpg",
+       "a": 0.6014
+      }
      ]
     }
    ]
@@ -471,12 +624,25 @@
     "1 t. (teaspoon)",
     "No unit"
    ],
+   "marks": [
+    {
+     "card": "SOU-005",
+     "page": 1,
+     "x0": 0.03,
+     "y0": 0.175,
+     "x1": 0.66,
+     "y1": 0.245
+    }
+   ],
    "cards": [
     {
      "id": "SOU-005",
      "title": "Portuguese Bean Soup",
      "images": [
-      "SOU-005_p1.jpg"
+      {
+       "f": "SOU-005_p1.jpg",
+       "a": 0.6028
+      }
      ]
     }
    ]
@@ -492,12 +658,25 @@
     "Ardie",
     "Andie"
    ],
+   "marks": [
+    {
+     "card": "MEA-015",
+     "page": 1,
+     "x0": 0.63,
+     "y0": 0.13,
+     "x1": 0.92,
+     "y1": 0.255
+    }
+   ],
    "cards": [
     {
      "id": "MEA-015",
      "title": "Pork Roast",
      "images": [
-      "MEA-015_p1.jpg"
+      {
+       "f": "MEA-015_p1.jpg",
+       "a": 1.194
+      }
      ]
     }
    ]
@@ -511,12 +690,25 @@
     "Anita Hahn",
     "Anita Flake"
    ],
+   "marks": [
+    {
+     "card": "CAK-019",
+     "page": 1,
+     "x0": 0.04,
+     "y0": 0.105,
+     "x1": 0.8,
+     "y1": 0.172
+    }
+   ],
    "cards": [
     {
      "id": "CAK-019",
      "title": "French Apple",
      "images": [
-      "CAK-019_p1.jpg"
+      {
+       "f": "CAK-019_p1.jpg",
+       "a": 0.6042
+      }
      ]
     }
    ]
@@ -530,12 +722,25 @@
     "Chop. / Cpd (chopped)",
     "Cored"
    ],
+   "marks": [
+    {
+     "card": "CAK-019",
+     "page": 1,
+     "x0": 0.03,
+     "y0": 0.32,
+     "x1": 0.73,
+     "y1": 0.41
+    }
+   ],
    "cards": [
     {
      "id": "CAK-019",
      "title": "French Apple",
      "images": [
-      "CAK-019_p1.jpg"
+      {
+       "f": "CAK-019_p1.jpg",
+       "a": 0.6042
+      }
      ]
     }
    ]
@@ -550,13 +755,29 @@
     "Kruszka",
     "Kreuzga"
    ],
+   "marks": [
+    {
+     "card": "CAK-032",
+     "page": 1,
+     "x0": 0.665,
+     "y0": 0,
+     "x1": 0.99,
+     "y1": 0.105
+    }
+   ],
    "cards": [
     {
      "id": "CAK-032",
      "title": "Texas Sheet Cake",
      "images": [
-      "CAK-032_p1.jpg",
-      "CAK-032_p2.jpg"
+      {
+       "f": "CAK-032_p1.jpg",
+       "a": 0.6
+      },
+      {
+       "f": "CAK-032_p2.jpg",
+       "a": 0.6042
+      }
      ]
     }
    ]
@@ -571,12 +792,25 @@
     "(original recipe x2 double)",
     "(original recipe) (I've double)"
    ],
+   "marks": [
+    {
+     "card": "COO-010",
+     "page": 1,
+     "x0": 0,
+     "y0": 0,
+     "x1": 0.81,
+     "y1": 0.11
+    }
+   ],
    "cards": [
     {
      "id": "COO-010",
      "title": "Italian Anise Cookies",
      "images": [
-      "COO-010_p1.jpg"
+      {
+       "f": "COO-010_p1.jpg",
+       "a": 0.6208
+      }
      ]
     }
    ]
@@ -591,13 +825,29 @@
     "#5",
     "S"
    ],
+   "marks": [
+    {
+     "card": "COO-025",
+     "page": 1,
+     "x0": 0.01,
+     "y0": 0.1,
+     "x1": 0.92,
+     "y1": 0.26
+    }
+   ],
    "cards": [
     {
      "id": "COO-025",
      "title": "Shaddows - Press Cookie",
      "images": [
-      "COO-025_p1.jpg",
-      "COO-025_p2.jpg"
+      {
+       "f": "COO-025_p1.jpg",
+       "a": 0.5944
+      },
+      {
+       "f": "COO-025_p2.jpg",
+       "a": 0.5889
+      }
      ]
     }
    ]
@@ -611,13 +861,29 @@
     "Madonia",
     "Madonna"
    ],
+   "marks": [
+    {
+     "card": "FUD-003",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.175,
+     "x1": 0.7,
+     "y1": 0.255
+    }
+   ],
    "cards": [
     {
      "id": "FUD-003",
      "title": "Fantasy Fudge",
      "images": [
-      "FUD-003_p1.jpg",
-      "FUD-003_p2.jpg"
+      {
+       "f": "FUD-003_p1.jpg",
+       "a": 0.5917
+      },
+      {
+       "f": "FUD-003_p2.jpg",
+       "a": 0.5958
+      }
      ]
     }
    ]
@@ -631,12 +897,25 @@
     "Dt Summer",
     "D. Summers"
    ],
+   "marks": [
+    {
+     "card": "FUD-005",
+     "page": 1,
+     "x0": 0.35,
+     "y0": 0.04,
+     "x1": 0.97,
+     "y1": 0.105
+    }
+   ],
    "cards": [
     {
      "id": "FUD-005",
      "title": "Million Dollar Fudge",
      "images": [
-      "FUD-005_p1.jpg"
+      {
+       "f": "FUD-005_p1.jpg",
+       "a": 0.5986
+      }
      ]
     }
    ]
@@ -650,12 +929,25 @@
     "Mom",
     "Lou"
    ],
+   "marks": [
+    {
+     "card": "FUD-006",
+     "page": 1,
+     "x0": 0.19,
+     "y0": 0.15,
+     "x1": 0.73,
+     "y1": 0.225
+    }
+   ],
    "cards": [
     {
      "id": "FUD-006",
      "title": "Million Dollar Fudge",
      "images": [
-      "FUD-006_p1.jpg"
+      {
+       "f": "FUD-006_p1.jpg",
+       "a": 0.5986
+      }
      ]
     }
    ]
@@ -668,12 +960,25 @@
    "options": [
     "prior (as written)"
    ],
+   "marks": [
+    {
+     "card": "JEL-007",
+     "page": 1,
+     "x0": 0.05,
+     "y0": 0.79,
+     "x1": 0.54,
+     "y1": 0.875
+    }
+   ],
    "cards": [
     {
      "id": "JEL-007",
      "title": "Mom's Orange Jello",
      "images": [
-      "JEL-007_p1.jpg"
+      {
+       "f": "JEL-007_p1.jpg",
+       "a": 0.5986
+      }
      ]
     }
    ]
@@ -687,13 +992,29 @@
     "2 c",
     "3 c"
    ],
+   "marks": [
+    {
+     "card": "PIE-002",
+     "page": 2,
+     "x0": 0.02,
+     "y0": 0.77,
+     "x1": 0.87,
+     "y1": 0.93
+    }
+   ],
    "cards": [
     {
      "id": "PIE-002",
      "title": "Apple Pie Filling",
      "images": [
-      "PIE-002_p1.jpg",
-      "PIE-002_p2.jpg"
+      {
+       "f": "PIE-002_p1.jpg",
+       "a": 0.5986
+      },
+      {
+       "f": "PIE-002_p2.jpg",
+       "a": 0.6
+      }
      ]
     }
    ]
@@ -707,13 +1028,29 @@
     "K. Moore (Kathy Moore, as on DOU-006 and MEA-018)",
     "R. Moore"
    ],
+   "marks": [
+    {
+     "card": "MEA-013",
+     "page": 1,
+     "x0": 0,
+     "y0": 0,
+     "x1": 0.21,
+     "y1": 0.055
+    }
+   ],
    "cards": [
     {
      "id": "MEA-013",
      "title": "Parmesan Fried Fish",
      "images": [
-      "MEA-013_p1.jpg",
-      "MEA-013_p2.jpg"
+      {
+       "f": "MEA-013_p1.jpg",
+       "a": 0.6028
+      },
+      {
+       "f": "MEA-013_p2.jpg",
+       "a": 0.6097
+      }
      ]
     }
    ]
@@ -728,12 +1065,25 @@
     "Bo Litton",
     "Bob Litton"
    ],
+   "marks": [
+    {
+     "card": "SAL-006",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.17,
+     "x1": 0.78,
+     "y1": 0.26
+    }
+   ],
    "cards": [
     {
      "id": "SAL-006",
      "title": "7 Layer Salad w/ Spinach",
      "images": [
-      "SAL-006_p1.jpg"
+      {
+       "f": "SAL-006_p1.jpg",
+       "a": 0.5889
+      }
      ]
     }
    ]
@@ -747,12 +1097,25 @@
     "Funton",
     "Fenton"
    ],
+   "marks": [
+    {
+     "card": "DRI-003",
+     "page": 1,
+     "x0": 0.28,
+     "y0": 0.21,
+     "x1": 0.78,
+     "y1": 0.275
+    }
+   ],
    "cards": [
     {
      "id": "DRI-003",
      "title": "Brandy Slush",
      "images": [
-      "DRI-003_p1.jpg"
+      {
+       "f": "DRI-003_p1.jpg",
+       "a": 0.5972
+      }
      ]
     }
    ]
@@ -763,12 +1126,25 @@
    "title": "APP-014: Irene Cola",
    "prompt": "\"Recipe from:\" Draft: Irene Cola.",
    "options": [],
+   "marks": [
+    {
+     "card": "APP-014",
+     "page": 1,
+     "x0": 0.28,
+     "y0": 0.18,
+     "x1": 0.8,
+     "y1": 0.275
+    }
+   ],
    "cards": [
     {
      "id": "APP-014",
      "title": "Dill Weed Dip",
      "images": [
-      "APP-014_p1.jpg"
+      {
+       "f": "APP-014_p1.jpg",
+       "a": 0.6
+      }
      ]
     }
    ]
@@ -779,12 +1155,25 @@
    "title": "APP-022: word after \"Mix -\"",
    "prompt": "Last line; the word after \"Mix -\" is unidentified (draft: [Spoon?] pumpernickel or Brown Bread).",
    "options": [],
+   "marks": [
+    {
+     "card": "APP-022",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.8,
+     "x1": 0.78,
+     "y1": 0.92
+    }
+   ],
    "cards": [
     {
      "id": "APP-022",
      "title": "Spinach Dip",
      "images": [
-      "APP-022_p1.jpg"
+      {
+       "f": "APP-022_p1.jpg",
+       "a": 0.6083
+      }
      ]
     }
    ]
@@ -797,12 +1186,25 @@
    "options": [
     "8 oz"
    ],
+   "marks": [
+    {
+     "card": "APP-021",
+     "page": 1,
+     "x0": 0.0,
+     "y0": 0.14,
+     "x1": 0.4,
+     "y1": 0.22
+    }
+   ],
    "cards": [
     {
      "id": "APP-021",
      "title": "Spinach Dip",
      "images": [
-      "APP-021_p1.jpg"
+      {
+       "f": "APP-021_p1.jpg",
+       "a": 0.6
+      }
      ]
     }
    ]
@@ -813,12 +1215,25 @@
    "title": "APP-021: spinach line",
    "prompt": "Draft: Spinach. (SM) Chopped sp. (Drained).",
    "options": [],
+   "marks": [
+    {
+     "card": "APP-021",
+     "page": 1,
+     "x0": 0.03,
+     "y0": 0.39,
+     "x1": 0.87,
+     "y1": 0.48
+    }
+   ],
    "cards": [
     {
      "id": "APP-021",
      "title": "Spinach Dip",
      "images": [
-      "APP-021_p1.jpg"
+      {
+       "f": "APP-021_p1.jpg",
+       "a": 0.6
+      }
      ]
     }
    ]
@@ -829,12 +1244,25 @@
    "title": "APP-017: \"if print remains\"",
    "prompt": "Draft: Poke, if print remains its ready.",
    "options": [],
+   "marks": [
+    {
+     "card": "APP-017",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.205,
+     "x1": 0.9,
+     "y1": 0.33
+    }
+   ],
    "cards": [
     {
      "id": "APP-017",
      "title": "Pizza Rolls",
      "images": [
-      "APP-017_p1.jpg"
+      {
+       "f": "APP-017_p1.jpg",
+       "a": 0.6083
+      }
      ]
     }
    ]
@@ -845,13 +1273,37 @@
    "title": "CAS-006: arrows after \"fry onions\"",
    "prompt": "Two arrows and a possible \"T.\" after \"fry onions\".",
    "options": [],
+   "marks": [
+    {
+     "card": "CAS-006",
+     "page": 2,
+     "x0": 0.04,
+     "y0": 0.09,
+     "x1": 0.62,
+     "y1": 0.17
+    },
+    {
+     "card": "CAS-006",
+     "page": 2,
+     "x0": 0.04,
+     "y0": 0.24,
+     "x1": 0.65,
+     "y1": 0.33
+    }
+   ],
    "cards": [
     {
      "id": "CAS-006",
      "title": "Chicken Casserole",
      "images": [
-      "CAS-006_p1.jpg",
-      "CAS-006_p2.jpg"
+      {
+       "f": "CAS-006_p1.jpg",
+       "a": 0.6014
+      },
+      {
+       "f": "CAS-006_p2.jpg",
+       "a": 0.6
+      }
      ]
     }
    ]

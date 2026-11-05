@@ -33,28 +33,49 @@ function download(text) {
 
 function Viewer({ item }) {
   const images = useMemo(
-    () => item.cards.flatMap((c) => c.images.map((f, i) => ({
-      src: `${BASE}images/${f}`,
-      label: c.images.length > 1 ? `${c.id} p${i + 1}` : c.id,
+    () => item.cards.flatMap((c) => c.images.map((im, i) => ({
+      src: BASE + 'images/' + im.f,
+      a: im.a,
+      label: c.images.length > 1 ? c.id + ' p' + (i + 1) : c.id,
       title: c.title,
+      marks: (item.marks || []).filter((m) => m.card === c.id && m.page === i + 1),
     }))),
     [item],
   )
-  const [n, setN] = useState(0)
+  const [n, setN] = useState(() => Math.max(0, images.findIndex((im) => im.marks.length)))
   const img = images[Math.min(n, images.length - 1)]
+  const flagged = (im) => im.marks.length > 0
   return (
     <section className="viewer">
       {images.length > 1 && (
         <div className="chips">
           {images.map((im, i) => (
-            <button key={im.src} className={i === n ? 'chip on' : 'chip'} onClick={() => setN(i)}>{im.label}</button>
+            <button key={im.src} className={i === n ? 'chip on' : 'chip'} onClick={() => setN(i)}>
+              {flagged(im) ? '● ' : ''}{im.label}
+            </button>
           ))}
         </div>
       )}
-      <div className="cap">{img.label} · {img.title} <span>(pinch or double-tap to zoom)</span></div>
+      <div className="cap">
+        {img.label} · {img.title}{' '}
+        <span>{flagged(img) ? '(red marks = the line in question) ' : ''}(pinch or double-tap to zoom)</span>
+      </div>
       <TransformWrapper key={img.src} minScale={1} maxScale={6} doubleClick={{ mode: 'toggle', step: 2 }} centerOnInit>
         <TransformComponent wrapperClass="zoomwrap" contentClass="zoomcontent">
-          <img src={img.src} alt={`${img.label} ${img.title}`} draggable={false} />
+          <svg className="card" viewBox={'0 0 1 ' + img.a} role="img" aria-label={img.label + ' ' + img.title}>
+            <image href={img.src} x="0" y="0" width="1" height={img.a} preserveAspectRatio="none" />
+            {img.marks.map((m, i) => {
+              const y = m.y0 * img.a
+              const h = (m.y1 - m.y0) * img.a
+              return (
+                <g key={i}>
+                  <rect x="0" y={y} width="1" height={h} fill="#d91a1a" opacity="0.1" />
+                  <rect x="0" y={y} width="0.022" height={h} fill="#d91a1a" />
+                  <rect x="0.978" y={y} width="0.022" height={h} fill="#d91a1a" />
+                </g>
+              )
+            })}
+          </svg>
         </TransformComponent>
       </TransformWrapper>
     </section>
