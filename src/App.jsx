@@ -7,6 +7,11 @@ const MORE = 'more data'
 const LATER = 'gpt later'
 const OTHER = '__other'
 
+const SEEN_KEY = 'handwritingValidation_seen_v1'
+const loadSeen = () => {
+  try { return JSON.parse(localStorage.getItem(SEEN_KEY) || '{}') } catch { return {} }
+}
+
 const load = () => {
   try { return JSON.parse(localStorage.getItem(KEY) || '{}') } catch { return {} }
 }
@@ -83,6 +88,20 @@ function Viewer({ item }) {
   )
 }
 
+function Dots({ items, p, answers, seen, onJump }) {
+  return (
+    <nav className="dots" aria-label="Questions in this section">
+      {items.map((it, i) => {
+        const st = answerOf(answers[it.id]) ? 'done' : seen[it.id] ? 'seen' : 'new'
+        const word = st === 'done' ? 'answered' : st === 'seen' ? 'seen, not answered' : 'not seen yet'
+        return (
+          <button key={it.id} className={'dot ' + st + (i === p ? ' cur' : '')} aria-label={`Question ${i + 1}, ${word}`} aria-current={i === p ? 'true' : undefined} onClick={() => onJump(i)} />
+        )
+      })}
+    </nav>
+  )
+}
+
 function Question({ item, answer, onChange }) {
   const set = (v) => onChange({ v, t: answer?.t || '' })
   const choices = [
@@ -128,6 +147,7 @@ export default function App() {
   })
   const [error, setError] = useState('')
   const [answers, setAnswers] = useState(load)
+  const [seen, setSeen] = useState(loadSeen)
   const [page, setPage] = useState(() => {
     try { return Number(sessionStorage.getItem('hv_page') || 0) } catch { return 0 }
   })
@@ -138,6 +158,15 @@ export default function App() {
   useEffect(() => {
     try { localStorage.setItem(KEY, JSON.stringify(answers)) } catch { /* private mode */ }
   }, [answers])
+  useEffect(() => {
+    try { localStorage.setItem(SEEN_KEY, JSON.stringify(seen)) } catch { /* private mode */ }
+  }, [seen])
+  useEffect(() => {
+    if (!all || !section) return
+    const list = all.filter((it) => it.section === section)
+    const it = list[Math.min(page, list.length)]
+    if (it) setSeen((s) => (s[it.id] ? s : { ...s, [it.id]: 1 }))
+  }, [all, section, page])
   useEffect(() => {
     try { sessionStorage.setItem('hv_section', section) } catch { /* ignore */ }
   }, [section])
@@ -160,10 +189,14 @@ export default function App() {
           {sections.map((sec) => {
             const list = all.filter((it) => it.section === sec)
             const n = list.filter((it) => answerOf(answers[it.id])).length
+            const sn = list.filter((it) => seen[it.id]).length
             return (
               <button key={sec} className="sec" onClick={() => { setPage(0); setSection(sec) }}>
                 <span>{sec}</span>
-                <span>{n === list.length ? '✓ ' : ''}{n} / {list.length}</span>
+                <span className="cnt">
+                  <span>{n === list.length ? '✓ ' : ''}{n} / {list.length} answered</span>
+                  <span className="sub">{sn === list.length ? 'all seen' : sn === 0 ? 'not seen yet' : `${sn} of ${list.length} seen`}</span>
+                </span>
               </button>
             )
           })}
@@ -185,6 +218,7 @@ export default function App() {
         <b>{section}</b>
         <span>{p < last ? `${p + 1} / ${last}` : 'Done'} · {done} answered</span>
       </header>
+      <Dots items={items} p={p} answers={answers} seen={seen} onJump={(i) => setPage(i)} />
       {p < last ? (
         <main key={items[p].id}>
           <Viewer item={items[p]} />

@@ -1991,6 +1991,8879 @@
      ]
     }
    ]
+  },
+  {
+   "id": "U-001",
+   "section": "Appetizers",
+   "group": "Earlier answers to confirm",
+   "title": "APP-004: p. 1, ingredient line 2, after Blue Cheese",
+   "prompt": "Is the annotation after “Blue Cheese” written “(1c)”? (p. 1, ingredient line 2, after Blue Cheese.)",
+   "options": [
+    "(1c)",
+    "(1 C.)",
+    "That is what I read also"
+   ],
+   "marks": [
+    {
+     "card": "APP-004",
+     "page": 1,
+     "x0": 0.5,
+     "y0": 0.36,
+     "x1": 0.88,
+     "y1": 0.415
+    }
+   ],
+   "cards": [
+    {
+     "id": "APP-004",
+     "title": "Cheese Ball",
+     "images": [
+      {
+       "f": "APP-004_p1.jpg",
+       "a": 1.1921
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-004",
+   "section": "Appetizers",
+   "group": "Earlier answers to confirm",
+   "title": "APP-004: p. 1, directions line 2, after “onion &”",
+   "prompt": "What are the literal letters of the abbreviation for Worcestershire? Does the phrase after it read “on slow” or “in slow”? (p. 1, directions line 2, after “onion &”.)",
+   "options": [
+    "abbreviated Worcestershire (probable meaning)",
+    "unresolved literal spelling"
+   ],
+   "marks": [
+    {
+     "card": "APP-004",
+     "page": 1,
+     "x0": 0.04,
+     "y0": 0.612,
+     "x1": 0.96,
+     "y1": 0.662
+    }
+   ],
+   "cards": [
+    {
+     "id": "APP-004",
+     "title": "Cheese Ball",
+     "images": [
+      {
+       "f": "APP-004_p1.jpg",
+       "a": 1.1921
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-005",
+   "section": "Appetizers",
+   "group": "Earlier answers to confirm",
+   "title": "APP-004: p. 1, direction beginning “Shape in Ball”",
+   "prompt": "Is that abbreviation “refrid.” or “refrig.”? (p. 1, direction beginning “Shape in Ball”.)",
+   "options": [
+    "refrid.",
+    "refrig."
+   ],
+   "marks": [
+    {
+     "card": "APP-004",
+     "page": 1,
+     "x0": 0.04,
+     "y0": 0.76,
+     "x1": 0.97,
+     "y1": 0.83
+    }
+   ],
+   "cards": [
+    {
+     "id": "APP-004",
+     "title": "Cheese Ball",
+     "images": [
+      {
+       "f": "APP-004_p1.jpg",
+       "a": 1.1921
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-APP-008-01",
+   "section": "Appetizers",
+   "group": "Earlier answers to confirm",
+   "title": "APP-008: p. 1, first ingredient line, salt measurement abbreviation",
+   "prompt": "What does the marked line say? (p. 1, first ingredient line, salt measurement abbreviation.)",
+   "options": [
+    "tps.",
+    "tsp."
+   ],
+   "marks": [
+    {
+     "card": "APP-008",
+     "page": 1,
+     "x0": 0.7,
+     "y0": 0.24,
+     "x1": 0.96,
+     "y1": 0.33
+    }
+   ],
+   "cards": [
+    {
+     "id": "APP-008",
+     "title": "Crab Meat Dip",
+     "images": [
+      {
+       "f": "APP-008_p1.jpg",
+       "a": 0.6028
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-APP-008-02",
+   "section": "Appetizers",
+   "group": "Earlier answers to confirm",
+   "title": "APP-008: p. 1, ingredient line following lemon juice",
+   "prompt": "What does the marked line say? (p. 1, ingredient line following lemon juice.)",
+   "options": [
+    "worchester",
+    "worchesters",
+    "another handwritten shortening of Worcestershire"
+   ],
+   "marks": [
+    {
+     "card": "APP-008",
+     "page": 1,
+     "x0": 0.55,
+     "y0": 0.41,
+     "x1": 0.96,
+     "y1": 0.5
+    }
+   ],
+   "cards": [
+    {
+     "id": "APP-008",
+     "title": "Crab Meat Dip",
+     "images": [
+      {
+       "f": "APP-008_p1.jpg",
+       "a": 0.6028
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-APP-009-01",
+   "section": "Appetizers",
+   "group": "Earlier answers to confirm",
+   "title": "APP-009: p. 1, top right, pencil attribution after “Recipe from the kitc…",
+   "prompt": "What is the first and last name written under “Recipe from the kitchen of”? (p. 1, top right, pencil attribution after “Recipe from the kitchen of:”.)",
+   "options": [
+    "Harry Nakayama",
+    "2) That is correct."
+   ],
+   "marks": [
+    {
+     "card": "APP-009",
+     "page": 1,
+     "x0": 0.48,
+     "y0": 0.105,
+     "x1": 0.86,
+     "y1": 0.145
+    }
+   ],
+   "cards": [
+    {
+     "id": "APP-009",
+     "title": "Crab Dip",
+     "images": [
+      {
+       "f": "APP-009_p1.jpg",
+       "a": 1.196
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-APP-011-01",
+   "section": "Appetizers",
+   "group": "Earlier answers to confirm",
+   "title": "APP-011: Cream Puff Filling.pdf, page 2, “Cr. cheese & olive filling”, s…",
+   "prompt": "What does the marked line say? (Cream Puff Filling.pdf, page 2, “Cr. cheese & olive filling”, second ingredient.)",
+   "options": [
+    "½ t. inst. chick bouillon",
+    "½ t. inst. chicken bouillon"
+   ],
+   "marks": [
+    {
+     "card": "APP-011",
+     "page": 2,
+     "x0": 0.03,
+     "y0": 0.71,
+     "x1": 0.58,
+     "y1": 0.79
+    }
+   ],
+   "cards": [
+    {
+     "id": "APP-011",
+     "title": "Cream Puff Fillings (Meat, Cucumber, Cream Cheese & Olive)",
+     "images": [
+      {
+       "f": "APP-011_p1.jpg",
+       "a": 0.6
+      },
+      {
+       "f": "APP-011_p2.jpg",
+       "a": 0.6014
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-APP-013-01",
+   "section": "Appetizers",
+   "group": "Earlier answers to confirm",
+   "title": "APP-013: p. 1, seventh ingredient (Worcestershire-type sauce)",
+   "prompt": "What is the exact handwritten spelling of the sauce ingredient? (p. 1, seventh ingredient (Worcestershire-type sauce).)",
+   "options": [
+    "worchestershire",
+    "worchestersh(i)re"
+   ],
+   "marks": [
+    {
+     "card": "APP-013",
+     "page": 1,
+     "x0": 0.32,
+     "y0": 0.55,
+     "x1": 0.92,
+     "y1": 0.64
+    }
+   ],
+   "cards": [
+    {
+     "id": "APP-013",
+     "title": "Dill Dip",
+     "images": [
+      {
+       "f": "APP-013_p1.jpg",
+       "a": 0.6569
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-APP-013-02",
+   "section": "Appetizers",
+   "group": "Earlier answers to confirm",
+   "title": "APP-013: p. 1, lower-right serving note, final two vegetable names",
+   "prompt": "The scan truncates the endings: should cookbook complete them as mushrooms and broccoli while documenting that the originals are cropped? (p. 1, lower-right serving note, final two vegetable names.)",
+   "options": [
+    "mushroom (clipped final letter)",
+    "broccoli (complete)"
+   ],
+   "marks": [
+    {
+     "card": "APP-013",
+     "page": 1,
+     "x0": 0.82,
+     "y0": 0.85,
+     "x1": 1,
+     "y1": 0.97
+    }
+   ],
+   "cards": [
+    {
+     "id": "APP-013",
+     "title": "Dill Dip",
+     "images": [
+      {
+       "f": "APP-013_p1.jpg",
+       "a": 0.6569
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-APP-014-02",
+   "section": "Appetizers",
+   "group": "Earlier answers to confirm",
+   "title": "APP-014: p1, sixth ingredient",
+   "prompt": "Literal spelling of the salt: laury or lawry? (p1, sixth ingredient.)",
+   "options": [
+    "laury salt (literal)",
+    "lawry salt (Lawry's seasoned salt)"
+   ],
+   "marks": [
+    {
+     "card": "APP-014",
+     "page": 1,
+     "x0": 0.15,
+     "y0": 0.62,
+     "x1": 0.65,
+     "y1": 0.71
+    }
+   ],
+   "cards": [
+    {
+     "id": "APP-014",
+     "title": "Dill Weed Dip",
+     "images": [
+      {
+       "f": "APP-014_p1.jpg",
+       "a": 0.6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-APP-014-03",
+   "section": "Appetizers",
+   "group": "Earlier answers to confirm",
+   "title": "APP-014: p1, seventh ingredient",
+   "prompt": "Letters in the middle of the sauce word (cookbook will correct the spelling anyway; this only affects the source transcription). (p1, seventh ingredient.)",
+   "options": [
+    "worshestershire",
+    "worchestershire"
+   ],
+   "marks": [
+    {
+     "card": "APP-014",
+     "page": 1,
+     "x0": 0.15,
+     "y0": 0.69,
+     "x1": 0.68,
+     "y1": 0.78
+    }
+   ],
+   "cards": [
+    {
+     "id": "APP-014",
+     "title": "Dill Weed Dip",
+     "images": [
+      {
+       "f": "APP-014_p1.jpg",
+       "a": 0.6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-APP-015-01",
+   "section": "Appetizers",
+   "group": "Earlier answers to confirm",
+   "title": "APP-015: p1, first ingredient, left column",
+   "prompt": "What does the marked line say? (p1, first ingredient, left column.)",
+   "options": [
+    "3/4 c.",
+    "3/2 c. (literal shape, unlikely)",
+    "3/4 cup"
+   ],
+   "marks": [
+    {
+     "card": "APP-015",
+     "page": 1,
+     "x0": 0.04,
+     "y0": 0.32,
+     "x1": 0.5,
+     "y1": 0.355
+    }
+   ],
+   "cards": [
+    {
+     "id": "APP-015",
+     "title": "Marinated Mushrooms",
+     "images": [
+      {
+       "f": "APP-015_p1.jpg",
+       "a": 1.1921
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-APP-015-02",
+   "section": "Appetizers",
+   "group": "Earlier answers to confirm",
+   "title": "APP-015: p1, \"1 med onion\" line",
+   "prompt": "Parenthetical after onion: \"fine\"? (p1, \"1 med onion\" line.)",
+   "options": [
+    "(fine) = finely chopped"
+   ],
+   "marks": [
+    {
+     "card": "APP-015",
+     "page": 1,
+     "x0": 0.05,
+     "y0": 0.43,
+     "x1": 0.52,
+     "y1": 0.47
+    }
+   ],
+   "cards": [
+    {
+     "id": "APP-015",
+     "title": "Marinated Mushrooms",
+     "images": [
+      {
+       "f": "APP-015_p1.jpg",
+       "a": 1.1921
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-APP-015-03",
+   "section": "Appetizers",
+   "group": "Earlier answers to confirm",
+   "title": "APP-015: p1, right column, first line",
+   "prompt": "Pepper amount: 1/4 or 1/2 t.? (p1, right column, first line.)",
+   "options": [
+    "1/4 t.",
+    "1/2 t."
+   ],
+   "marks": [
+    {
+     "card": "APP-015",
+     "page": 1,
+     "x0": 0.58,
+     "y0": 0.32,
+     "x1": 0.95,
+     "y1": 0.357
+    }
+   ],
+   "cards": [
+    {
+     "id": "APP-015",
+     "title": "Marinated Mushrooms",
+     "images": [
+      {
+       "f": "APP-015_p1.jpg",
+       "a": 1.1921
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-APP-016-01",
+   "section": "Appetizers",
+   "group": "Earlier answers to confirm",
+   "title": "APP-016: p1, left margin beside brace",
+   "prompt": "Margin note is tightly slanted. Is there a word between \"sides\" and \"Buns\" (e.g. \"of\")? (p1, left margin beside brace.)",
+   "options": [
+    "mix - spread on Both sides [of] Buns",
+    "mix - spread on Both sides, Buns",
+    "yes, 'of' is there"
+   ],
+   "marks": [
+    {
+     "card": "APP-016",
+     "page": 1,
+     "x0": 0.01,
+     "y0": 0.6,
+     "x1": 0.17,
+     "y1": 0.98
+    }
+   ],
+   "cards": [
+    {
+     "id": "APP-016",
+     "title": "Party Sandwich",
+     "images": [
+      {
+       "f": "APP-016_p1.jpg",
+       "a": 0.5972
+      },
+      {
+       "f": "APP-016_p2.jpg",
+       "a": 0.5944
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-APP-017-01",
+   "section": "Appetizers",
+   "group": "Earlier answers to confirm",
+   "title": "APP-017: p1, line 7 (start)",
+   "prompt": "What does the marked line say? (p1, line 7 (start).)",
+   "options": [
+    "\" is a ditto mark for \"Cover with\"",
+    "\" means \"same\" for another word"
+   ],
+   "marks": [
+    {
+     "card": "APP-017",
+     "page": 1,
+     "x0": 0.2,
+     "y0": 0.56,
+     "x1": 0.87,
+     "y1": 0.65
+    }
+   ],
+   "cards": [
+    {
+     "id": "APP-017",
+     "title": "Pizza Rolls",
+     "images": [
+      {
+       "f": "APP-017_p1.jpg",
+       "a": 0.6083
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-APP-017-03",
+   "section": "Appetizers",
+   "group": "Earlier answers to confirm",
+   "title": "APP-017: p1, title",
+   "prompt": "Is \"Jack Lambert\" a person credited for the recipe, or part of the dish name? (p1, title.)",
+   "options": [
+    "Jack Lambert (attribution) / Pizza Rolls (title)",
+    "Jack Lambert's Pizza Rolls",
+    "We will call them the author"
+   ],
+   "marks": [
+    {
+     "card": "APP-017",
+     "page": 1,
+     "x0": 0.1,
+     "y0": 0.03,
+     "x1": 0.93,
+     "y1": 0.15
+    }
+   ],
+   "cards": [
+    {
+     "id": "APP-017",
+     "title": "Pizza Rolls",
+     "images": [
+      {
+       "f": "APP-017_p1.jpg",
+       "a": 0.6083
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-APP-018-01",
+   "section": "Appetizers",
+   "group": "Earlier answers to confirm",
+   "title": "APP-018: p1, title",
+   "prompt": "Spelling of the title word. (p1, title.)",
+   "options": [
+    "Casadilla's",
+    "Casadilia's",
+    "Quesadillas"
+   ],
+   "marks": [
+    {
+     "card": "APP-018",
+     "page": 1,
+     "x0": 0.35,
+     "y0": 0,
+     "x1": 0.65,
+     "y1": 0.12
+    }
+   ],
+   "cards": [
+    {
+     "id": "APP-018",
+     "title": "Casadia's",
+     "images": [
+      {
+       "f": "APP-018_p1.jpg",
+       "a": 0.6028
+      },
+      {
+       "f": "APP-018_p2.jpg",
+       "a": 0.6014
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-APP-018-02",
+   "section": "Appetizers",
+   "group": "Earlier answers to confirm",
+   "title": "APP-018: p1, ingredient 7 (after Onion)",
+   "prompt": "Final letter: a or o? (p1, ingredient 7 (after Onion).)",
+   "options": [
+    "Cilantra (literal)",
+    "Cilantro"
+   ],
+   "marks": [
+    {
+     "card": "APP-018",
+     "page": 1,
+     "x0": 0.03,
+     "y0": 0.73,
+     "x1": 0.3,
+     "y1": 0.82
+    }
+   ],
+   "cards": [
+    {
+     "id": "APP-018",
+     "title": "Casadia's",
+     "images": [
+      {
+       "f": "APP-018_p1.jpg",
+       "a": 0.6028
+      },
+      {
+       "f": "APP-018_p2.jpg",
+       "a": 0.6014
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-APP-019-01",
+   "section": "Appetizers",
+   "group": "Earlier answers to confirm",
+   "title": "APP-019: p1, \"kitchen of\" line",
+   "prompt": "Surname: first letter D, H or B? (p1, \"kitchen of\" line.)",
+   "options": [
+    "M. Deckman",
+    "M. Heckman",
+    "M. Beckman"
+   ],
+   "marks": [
+    {
+     "card": "APP-019",
+     "page": 1,
+     "x0": 0.63,
+     "y0": 0.2,
+     "x1": 0.99,
+     "y1": 0.27
+    }
+   ],
+   "cards": [
+    {
+     "id": "APP-019",
+     "title": "Shrimp Cheese Ball",
+     "images": [
+      {
+       "f": "APP-019_p1.jpg",
+       "a": 1.196
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-APP-019-02",
+   "section": "Appetizers",
+   "group": "Earlier answers to confirm",
+   "title": "APP-019: p1, fourth ingredient",
+   "prompt": "What does the marked line say? (p1, fourth ingredient.)",
+   "options": [
+    "CH. = chopped",
+    "CH. = other"
+   ],
+   "marks": [
+    {
+     "card": "APP-019",
+     "page": 1,
+     "x0": 0.08,
+     "y0": 0.465,
+     "x1": 0.62,
+     "y1": 0.505
+    }
+   ],
+   "cards": [
+    {
+     "id": "APP-019",
+     "title": "Shrimp Cheese Ball",
+     "images": [
+      {
+       "f": "APP-019_p1.jpg",
+       "a": 1.196
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-APP-020-01",
+   "section": "Appetizers",
+   "group": "Earlier answers to confirm",
+   "title": "APP-020: p1, first ingredient",
+   "prompt": "What does the marked line say? (p1, first ingredient.)",
+   "options": [
+    "Bt. = bottle",
+    "Bot.",
+    "That's what I see, too."
+   ],
+   "marks": [
+    {
+     "card": "APP-020",
+     "page": 1,
+     "x0": 0.05,
+     "y0": 0.38,
+     "x1": 0.6,
+     "y1": 0.43
+    }
+   ],
+   "cards": [
+    {
+     "id": "APP-020",
+     "title": "Shrimp Cocktail",
+     "images": [
+      {
+       "f": "APP-020_p1.jpg",
+       "a": 1.1881
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-APP-020-02",
+   "section": "Appetizers",
+   "group": "Earlier answers to confirm",
+   "title": "APP-020: p1, fourth ingredient",
+   "prompt": "Letters near the end of the sauce word (cookbook will correct it). (p1, fourth ingredient.)",
+   "options": [
+    "worchesteshire",
+    "worchestershire"
+   ],
+   "marks": [
+    {
+     "card": "APP-020",
+     "page": 1,
+     "x0": 0.05,
+     "y0": 0.505,
+     "x1": 0.66,
+     "y1": 0.55
+    }
+   ],
+   "cards": [
+    {
+     "id": "APP-020",
+     "title": "Shrimp Cocktail",
+     "images": [
+      {
+       "f": "APP-020_p1.jpg",
+       "a": 1.1881
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-APP-022-01",
+   "section": "Appetizers",
+   "group": "Earlier answers to confirm",
+   "title": "APP-022: p1, line 5, last word",
+   "prompt": "What does the marked line say? (p1, line 5, last word.)",
+   "options": [
+    "Chestnut (clipped by edge)",
+    "Chestnuts",
+    "That's 'water chestnuts'"
+   ],
+   "marks": [
+    {
+     "card": "APP-022",
+     "page": 1,
+     "x0": 0.84,
+     "y0": 0.48,
+     "x1": 1,
+     "y1": 0.56
+    }
+   ],
+   "cards": [
+    {
+     "id": "APP-022",
+     "title": "Spinach Dip",
+     "images": [
+      {
+       "f": "APP-022_p1.jpg",
+       "a": 0.6083
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-APP-022-02",
+   "section": "Appetizers",
+   "group": "Earlier answers to confirm",
+   "title": "APP-022: p1, line 6, first abbreviation",
+   "prompt": "What does the marked line say? (p1, line 6, first abbreviation.)",
+   "options": [
+    "gr. = green",
+    "gn."
+   ],
+   "marks": [
+    {
+     "card": "APP-022",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.575,
+     "x1": 0.3,
+     "y1": 0.645
+    }
+   ],
+   "cards": [
+    {
+     "id": "APP-022",
+     "title": "Spinach Dip",
+     "images": [
+      {
+       "f": "APP-022_p1.jpg",
+       "a": 0.6083
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-APP-023-01",
+   "section": "Appetizers",
+   "group": "Earlier answers to confirm",
+   "title": "APP-023: p1, fifth line under Blend",
+   "prompt": "Unit before \"hot sauce\": t. or oz.? (p1, fifth line under Blend.)",
+   "options": [
+    "1/2 t.",
+    "1/2 oz."
+   ],
+   "marks": [
+    {
+     "card": "APP-023",
+     "page": 1,
+     "x0": 0.24,
+     "y0": 0.585,
+     "x1": 0.67,
+     "y1": 0.655
+    }
+   ],
+   "cards": [
+    {
+     "id": "APP-023",
+     "title": "Tuna Paté",
+     "images": [
+      {
+       "f": "APP-023_p1.jpg",
+       "a": 0.5972
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-APP-023-02",
+   "section": "Appetizers",
+   "group": "Earlier answers to confirm",
+   "title": "APP-023: p1, last line, last word",
+   "prompt": "Letters in the cracker brand. (p1, last line, last word.)",
+   "options": [
+    "Triskets",
+    "Triscuits",
+    "She misspelled Triscuits"
+   ],
+   "marks": [
+    {
+     "card": "APP-023",
+     "page": 1,
+     "x0": 0.7,
+     "y0": 0.91,
+     "x1": 0.95,
+     "y1": 1
+    }
+   ],
+   "cards": [
+    {
+     "id": "APP-023",
+     "title": "Tuna Paté",
+     "images": [
+      {
+       "f": "APP-023_p1.jpg",
+       "a": 0.5972
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-002-01",
+   "section": "Casserole",
+   "group": "Earlier answers to confirm",
+   "title": "CAS-002: p1, line 3 (chicken), clipped words at right edge",
+   "prompt": "What does the marked line say? (p1, line 3 (chicken), clipped words at right edge.)",
+   "options": [
+    "STRIPS",
+    "strips / pieces"
+   ],
+   "marks": [
+    {
+     "card": "CAS-002",
+     "page": 1,
+     "x0": 0.72,
+     "y0": 0.33,
+     "x1": 1,
+     "y1": 0.48
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAS-002",
+     "title": "Cajun Chicken Pasta",
+     "images": [
+      {
+       "f": "CAS-002_p1.jpg",
+       "a": 0.5889
+      },
+      {
+       "f": "CAS-002_p2.jpg",
+       "a": 1.659
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-002-02",
+   "section": "Casserole",
+   "group": "Earlier answers to confirm",
+   "title": "CAS-002: p1, shallot line, unit",
+   "prompt": "What does the marked line say? (p1, shallot line, unit.)",
+   "options": [
+    "3 tsp.",
+    "3 Tbsp. (tbp.)",
+    "tlp. (literal)"
+   ],
+   "marks": [
+    {
+     "card": "CAS-002",
+     "page": 1,
+     "x0": 0.03,
+     "y0": 0.57,
+     "x1": 0.15,
+     "y1": 0.66
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAS-002",
+     "title": "Cajun Chicken Pasta",
+     "images": [
+      {
+       "f": "CAS-002_p1.jpg",
+       "a": 0.5889
+      },
+      {
+       "f": "CAS-002_p2.jpg",
+       "a": 1.659
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-002-03",
+   "section": "Casserole",
+   "group": "Earlier answers to confirm",
+   "title": "CAS-002: p2, line 4 (start)",
+   "prompt": "What does the marked line say? (p2, line 4 (start).)",
+   "options": [
+    "3 halotts (literal)",
+    "Shalotts (the \"3\" is an S)",
+    "Shallots"
+   ],
+   "marks": [
+    {
+     "card": "CAS-002",
+     "page": 2,
+     "x0": 0.02,
+     "y0": 0.25,
+     "x1": 0.4,
+     "y1": 0.32
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAS-002",
+     "title": "Cajun Chicken Pasta",
+     "images": [
+      {
+       "f": "CAS-002_p1.jpg",
+       "a": 0.5889
+      },
+      {
+       "f": "CAS-002_p2.jpg",
+       "a": 1.659
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-003-01",
+   "section": "Casserole",
+   "group": "Earlier answers to confirm",
+   "title": "CAS-003: p1, zucchini line, word before \"Sliced\"",
+   "prompt": "What does the marked line say? (p1, zucchini line, word before \"Sliced\".)",
+   "options": [
+    "cubed",
+    "unpeeled",
+    "biased"
+   ],
+   "marks": [
+    {
+     "card": "CAS-003",
+     "page": 1,
+     "x0": 0.43,
+     "y0": 0.4,
+     "x1": 0.63,
+     "y1": 0.49
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAS-003",
+     "title": "Cheesy Garden Casserole",
+     "images": [
+      {
+       "f": "CAS-003_p1.jpg",
+       "a": 0.6083
+      },
+      {
+       "f": "CAS-003_p2.jpg",
+       "a": 0.5986
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-005-01",
+   "section": "Casserole",
+   "group": "Earlier answers to confirm",
+   "title": "CAS-005: p1, line 4, mark between \"2 -\" and \"onion ring st.\"",
+   "prompt": "What does the marked line say? (p1, line 4, mark between \"2 -\" and \"onion ring st.\".)",
+   "options": [
+    "2 - 1",
+    "2 - T",
+    "nothing / just a dash"
+   ],
+   "marks": [
+    {
+     "card": "CAS-005",
+     "page": 1,
+     "x0": 0.03,
+     "y0": 0.5,
+     "x1": 0.16,
+     "y1": 0.59
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAS-005",
+     "title": "Chicken Catcatore",
+     "images": [
+      {
+       "f": "CAS-005_p1.jpg",
+       "a": 0.6083
+      },
+      {
+       "f": "CAS-005_p2.jpg",
+       "a": 0.6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-005-02",
+   "section": "Casserole",
+   "group": "Earlier answers to confirm",
+   "title": "CAS-005: p1, last line, quantity",
+   "prompt": "What does the marked line say? (p1, last line, quantity.)",
+   "options": [
+    "1 - 3 oz",
+    "1 - 8 oz",
+    "1-3 oz mush"
+   ],
+   "marks": [
+    {
+     "card": "CAS-005",
+     "page": 1,
+     "x0": 0.03,
+     "y0": 0.83,
+     "x1": 0.22,
+     "y1": 0.92
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAS-005",
+     "title": "Chicken Catcatore",
+     "images": [
+      {
+       "f": "CAS-005_p1.jpg",
+       "a": 0.6083
+      },
+      {
+       "f": "CAS-005_p2.jpg",
+       "a": 0.6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-006-01",
+   "section": "Casserole",
+   "group": "Earlier answers to confirm",
+   "title": "CAS-006: p1, first ingredient",
+   "prompt": "What does the marked line say? (p1, first ingredient.)",
+   "options": [
+    "fryer",
+    "fryer'",
+    "frys'"
+   ],
+   "marks": [
+    {
+     "card": "CAS-006",
+     "page": 1,
+     "x0": 0.03,
+     "y0": 0.2,
+     "x1": 0.56,
+     "y1": 0.32
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAS-006",
+     "title": "Chicken Casserole",
+     "images": [
+      {
+       "f": "CAS-006_p1.jpg",
+       "a": 0.6014
+      },
+      {
+       "f": "CAS-006_p2.jpg",
+       "a": 0.6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-007-01",
+   "section": "Casserole",
+   "group": "Earlier answers to confirm",
+   "title": "CAS-007: p1, line 2 (rice)",
+   "prompt": "What does the marked line say? (p1, line 2 (rice).)",
+   "options": [
+    "2 C.",
+    "3 C."
+   ],
+   "marks": [
+    {
+     "card": "CAS-007",
+     "page": 1,
+     "x0": 0.03,
+     "y0": 0.25,
+     "x1": 0.5,
+     "y1": 0.34
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAS-007",
+     "title": "Chicken Casserole",
+     "images": [
+      {
+       "f": "CAS-007_p1.jpg",
+       "a": 0.6028
+      },
+      {
+       "f": "CAS-007_p2.jpg",
+       "a": 0.6028
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-007-02",
+   "section": "Casserole",
+   "group": "Earlier answers to confirm",
+   "title": "CAS-007: p1, soup line",
+   "prompt": "What does the marked line say? (p1, soup line.)",
+   "options": [
+    "CHICK (= chicken)",
+    "CHICKEN"
+   ],
+   "marks": [
+    {
+     "card": "CAS-007",
+     "page": 1,
+     "x0": 0.05,
+     "y0": 0.74,
+     "x1": 0.72,
+     "y1": 0.84
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAS-007",
+     "title": "Chicken Casserole",
+     "images": [
+      {
+       "f": "CAS-007_p1.jpg",
+       "a": 0.6028
+      },
+      {
+       "f": "CAS-007_p2.jpg",
+       "a": 0.6028
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-007-03",
+   "section": "Casserole",
+   "group": "Earlier answers to confirm",
+   "title": "CAS-007: p1, mayo line, first digit",
+   "prompt": "What does the marked line say? (p1, mayo line, first digit.)",
+   "options": [
+    "2/3",
+    "1/3"
+   ],
+   "marks": [
+    {
+     "card": "CAS-007",
+     "page": 1,
+     "x0": 0.04,
+     "y0": 0.82,
+     "x1": 0.35,
+     "y1": 0.91
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAS-007",
+     "title": "Chicken Casserole",
+     "images": [
+      {
+       "f": "CAS-007_p1.jpg",
+       "a": 0.6028
+      },
+      {
+       "f": "CAS-007_p2.jpg",
+       "a": 0.6028
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-008-01",
+   "section": "Casserole",
+   "group": "Earlier answers to confirm",
+   "title": "CAS-008: p1, title, first letter of surname (also K. Heindel/Weindel on …",
+   "prompt": "What does the marked line say? (p1, title, first letter of surname (also K. Heindel/Weindel on CAS-014).)",
+   "options": [
+    "D",
+    "H",
+    "W",
+    "B"
+   ],
+   "marks": [
+    {
+     "card": "CAS-008",
+     "page": 1,
+     "x0": 0.19,
+     "y0": 0.05,
+     "x1": 0.4,
+     "y1": 0.19
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAS-008",
+     "title": "Kathy Heindel's Chicken over rice",
+     "images": [
+      {
+       "f": "CAS-008_p1.jpg",
+       "a": 0.6042
+      },
+      {
+       "f": "CAS-008_p2.jpg",
+       "a": 0.6028
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-008-02",
+   "section": "Casserole",
+   "group": "Earlier answers to confirm",
+   "title": "CAS-008: p1, line 4",
+   "prompt": "What does the marked line say? (p1, line 4.)",
+   "options": [
+    "Corelle (the dish brand)",
+    "carrelle (literal)",
+    "casserole (misspelled)"
+   ],
+   "marks": [
+    {
+     "card": "CAS-008",
+     "page": 1,
+     "x0": 0.01,
+     "y0": 0.34,
+     "x1": 0.6,
+     "y1": 0.42
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAS-008",
+     "title": "Kathy Heindel's Chicken over rice",
+     "images": [
+      {
+       "f": "CAS-008_p1.jpg",
+       "a": 0.6042
+      },
+      {
+       "f": "CAS-008_p2.jpg",
+       "a": 0.6028
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-008-03",
+   "section": "Casserole",
+   "group": "Earlier answers to confirm",
+   "title": "CAS-008: p1, poultry quantity",
+   "prompt": "What does the marked line say? (p1, poultry quantity.)",
+   "options": [
+    "1 t.",
+    "1/t."
+   ],
+   "marks": [
+    {
+     "card": "CAS-008",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.74,
+     "x1": 0.33,
+     "y1": 0.85
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAS-008",
+     "title": "Kathy Heindel's Chicken over rice",
+     "images": [
+      {
+       "f": "CAS-008_p1.jpg",
+       "a": 0.6042
+      },
+      {
+       "f": "CAS-008_p2.jpg",
+       "a": 0.6028
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-009-01",
+   "section": "Casserole",
+   "group": "Earlier answers to confirm",
+   "title": "CAS-009: p1, upper left, handwritten date",
+   "prompt": "What does the marked line say? (p1, upper left, handwritten date.)",
+   "options": [
+    "8/02",
+    "4/02",
+    "6/02"
+   ],
+   "marks": [
+    {
+     "card": "CAS-009",
+     "page": 1,
+     "x0": 0.1,
+     "y0": 0.058,
+     "x1": 0.27,
+     "y1": 0.163
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAS-009",
+     "title": "Jack Beans",
+     "images": [
+      {
+       "f": "CAS-009_p1.jpg",
+       "a": 1.5618
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-011-01",
+   "section": "Casserole",
+   "group": "Earlier answers to confirm",
+   "title": "CAS-011: p1, line 3, quantity word",
+   "prompt": "What does the marked line say? (p1, line 3, quantity word.)",
+   "options": [
+    "1 1/2 Fine ch.",
+    "1 1/2 Five ch."
+   ],
+   "marks": [
+    {
+     "card": "CAS-011",
+     "page": 1,
+     "x0": 0.01,
+     "y0": 0.41,
+     "x1": 0.3,
+     "y1": 0.5
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAS-011",
+     "title": "stroganoff",
+     "images": [
+      {
+       "f": "CAS-011_p1.jpg",
+       "a": 0.5972
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-011-02",
+   "section": "Casserole",
+   "group": "Earlier answers to confirm",
+   "title": "CAS-011: p1, line 7-8, end of \"Cover with ...\"",
+   "prompt": "What does the marked line say? (p1, line 7-8, end of \"Cover with ...\".)",
+   "options": [
+    "H2O"
+   ],
+   "marks": [
+    {
+     "card": "CAS-011",
+     "page": 1,
+     "x0": 0.52,
+     "y0": 0.66,
+     "x1": 0.88,
+     "y1": 0.75
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAS-011",
+     "title": "stroganoff",
+     "images": [
+      {
+       "f": "CAS-011_p1.jpg",
+       "a": 0.5972
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-011-03",
+   "section": "Casserole",
+   "group": "Earlier answers to confirm",
+   "title": "CAS-011: p1, last line",
+   "prompt": "What does the marked line say? (p1, last line.)",
+   "options": [
+    "before serv.",
+    "before serving"
+   ],
+   "marks": [
+    {
+     "card": "CAS-011",
+     "page": 1,
+     "x0": 0.5,
+     "y0": 0.875,
+     "x1": 0.85,
+     "y1": 0.99
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAS-011",
+     "title": "stroganoff",
+     "images": [
+      {
+       "f": "CAS-011_p1.jpg",
+       "a": 0.5972
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-012-01",
+   "section": "Casserole",
+   "group": "Earlier answers to confirm",
+   "title": "CAS-012: p2, line 1, first word",
+   "prompt": "What does the marked line say? (p2, line 1, first word.)",
+   "options": [
+    "trim",
+    "frim"
+   ],
+   "marks": [
+    {
+     "card": "CAS-012",
+     "page": 2,
+     "x0": 0.03,
+     "y0": 0.02,
+     "x1": 0.2,
+     "y1": 0.09
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAS-012",
+     "title": "Stroganoff Stew",
+     "images": [
+      {
+       "f": "CAS-012_p1.jpg",
+       "a": 0.6
+      },
+      {
+       "f": "CAS-012_p2.jpg",
+       "a": 0.6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-012-02",
+   "section": "Casserole",
+   "group": "Earlier answers to confirm",
+   "title": "CAS-012: p2, line 3, end",
+   "prompt": "What does the marked line say? (p2, line 3, end.)",
+   "options": [
+    "paprika) as written",
+    "paprika,"
+   ],
+   "marks": [
+    {
+     "card": "CAS-012",
+     "page": 2,
+     "x0": 0.55,
+     "y0": 0.2,
+     "x1": 0.94,
+     "y1": 0.28
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAS-012",
+     "title": "Stroganoff Stew",
+     "images": [
+      {
+       "f": "CAS-012_p1.jpg",
+       "a": 0.6
+      },
+      {
+       "f": "CAS-012_p2.jpg",
+       "a": 0.6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-013-01",
+   "section": "Casserole",
+   "group": "Earlier answers to confirm",
+   "title": "CAS-013: p1, small blue note below \"place in caserole dish.\"",
+   "prompt": "What does the marked line say? (p1, small blue note below \"place in caserole dish.\".)",
+   "options": [
+    "ungrease",
+    "un-grease / \"ungreased\""
+   ],
+   "marks": [
+    {
+     "card": "CAS-013",
+     "page": 1,
+     "x0": 0.05,
+     "y0": 0.925,
+     "x1": 0.4,
+     "y1": 1
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAS-013",
+     "title": "tater tot Special",
+     "images": [
+      {
+       "f": "CAS-013_p1.jpg",
+       "a": 0.6042
+      },
+      {
+       "f": "CAS-013_p2.jpg",
+       "a": 0.6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-014-01",
+   "section": "Casserole",
+   "group": "Earlier answers to confirm",
+   "title": "CAS-014: p1, upper left, first letter of surname (also Kathy Deindel/Wei…",
+   "prompt": "What does the marked line say? (p1, upper left, first letter of surname (also Kathy Deindel/Weindel on CAS-008).)",
+   "options": [
+    "H",
+    "D",
+    "W",
+    "B"
+   ],
+   "marks": [
+    {
+     "card": "CAS-014",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0,
+     "x1": 0.21,
+     "y1": 0.08
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAS-014",
+     "title": "3 BEAN CASSEROLE",
+     "images": [
+      {
+       "f": "CAS-014_p1.jpg",
+       "a": 0.6111
+      },
+      {
+       "f": "CAS-014_p2.jpg",
+       "a": 0.6028
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-014-02",
+   "section": "Casserole",
+   "group": "Earlier answers to confirm",
+   "title": "CAS-014: p1, line 3, count",
+   "prompt": "What does the marked line say? (p1, line 3, count.)",
+   "options": [
+    "3",
+    "2"
+   ],
+   "marks": [
+    {
+     "card": "CAS-014",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.415,
+     "x1": 0.22,
+     "y1": 0.5
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAS-014",
+     "title": "3 BEAN CASSEROLE",
+     "images": [
+      {
+       "f": "CAS-014_p1.jpg",
+       "a": 0.6111
+      },
+      {
+       "f": "CAS-014_p2.jpg",
+       "a": 0.6028
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-014-03",
+   "section": "Casserole",
+   "group": "Earlier answers to confirm",
+   "title": "CAS-014: p1, line 2, weight",
+   "prompt": "What does the marked line say? (p1, line 2, weight.)",
+   "options": [
+    "13.3 oz",
+    "13.5 oz"
+   ],
+   "marks": [
+    {
+     "card": "CAS-014",
+     "page": 1,
+     "x0": 0.77,
+     "y0": 0.35,
+     "x1": 0.98,
+     "y1": 0.44
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAS-014",
+     "title": "3 BEAN CASSEROLE",
+     "images": [
+      {
+       "f": "CAS-014_p1.jpg",
+       "a": 0.6111
+      },
+      {
+       "f": "CAS-014_p2.jpg",
+       "a": 0.6028
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-014-04",
+   "section": "Casserole",
+   "group": "Earlier answers to confirm",
+   "title": "CAS-014: p1, line 9 (brown sugar)",
+   "prompt": "What does the marked line say? (p1, line 9 (brown sugar).)",
+   "options": [
+    "1/4",
+    "1/2",
+    "1/3"
+   ],
+   "marks": [
+    {
+     "card": "CAS-014",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.83,
+     "x1": 0.6,
+     "y1": 0.91
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAS-014",
+     "title": "3 BEAN CASSEROLE",
+     "images": [
+      {
+       "f": "CAS-014_p1.jpg",
+       "a": 0.6111
+      },
+      {
+       "f": "CAS-014_p2.jpg",
+       "a": 0.6028
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-014-05",
+   "section": "Casserole",
+   "group": "Earlier answers to confirm",
+   "title": "CAS-014: p2, line 1, temperature",
+   "prompt": "What does the marked line say? (p2, line 1, temperature.)",
+   "options": [
+    "400°",
+    "350°",
+    "450°",
+    "400 deg"
+   ],
+   "marks": [
+    {
+     "card": "CAS-014",
+     "page": 2,
+     "x0": 0.03,
+     "y0": 0,
+     "x1": 0.3,
+     "y1": 0.07
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAS-014",
+     "title": "3 BEAN CASSEROLE",
+     "images": [
+      {
+       "f": "CAS-014_p1.jpg",
+       "a": 0.6111
+      },
+      {
+       "f": "CAS-014_p2.jpg",
+       "a": 0.6028
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-015-01",
+   "section": "Casserole",
+   "group": "Earlier answers to confirm",
+   "title": "CAS-015: p2, line 2",
+   "prompt": "What does the marked line say? (p2, line 2.)",
+   "options": [
+    "slash and caret as written",
+    "comma"
+   ],
+   "marks": [
+    {
+     "card": "CAS-015",
+     "page": 2,
+     "x0": 0.01,
+     "y0": 0.06,
+     "x1": 0.82,
+     "y1": 0.18
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAS-015",
+     "title": "Tomatoe-Pepper Chicken",
+     "images": [
+      {
+       "f": "CAS-015_p1.jpg",
+       "a": 0.6056
+      },
+      {
+       "f": "CAS-015_p2.jpg",
+       "a": 0.6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-016-01",
+   "section": "Casserole",
+   "group": "Earlier answers to confirm",
+   "title": "CAS-016: p1, ingredient 3, unit",
+   "prompt": "What does the marked line say? (p1, ingredient 3, unit.)",
+   "options": [
+    "Bx (= box)",
+    "Bk",
+    "2 bx"
+   ],
+   "marks": [
+    {
+     "card": "CAS-016",
+     "page": 1,
+     "x0": 0.05,
+     "y0": 0.41,
+     "x1": 0.28,
+     "y1": 0.49
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAS-016",
+     "title": "macaroni & tuna",
+     "images": [
+      {
+       "f": "CAS-016_p1.jpg",
+       "a": 0.6028
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-017-01",
+   "section": "Casserole",
+   "group": "Earlier answers to confirm",
+   "title": "CAS-017: p1, scribbled-out line above \"mushrooms soup\"",
+   "prompt": "What does the marked line say? (p1, scribbled-out line above \"mushrooms soup\".)",
+   "options": [
+    "1 can",
+    "1 c.",
+    "leave blank"
+   ],
+   "marks": [
+    {
+     "card": "CAS-017",
+     "page": 1,
+     "x0": 0.07,
+     "y0": 0.39,
+     "x1": 0.17,
+     "y1": 0.435
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAS-017",
+     "title": "Tuna Noodle",
+     "images": [
+      {
+       "f": "CAS-017_p1.jpg",
+       "a": 1.198
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAS-018-01",
+   "section": "Casserole",
+   "group": "Earlier answers to confirm",
+   "title": "CAS-018: p1, \"salt - Pepper ? PAPRIKA + FLOUR\"",
+   "prompt": "What does the marked line say? (p1, \"salt - Pepper ? PAPRIKA + FLOUR\".)",
+   "options": [
+    "&",
+    "!",
+    "+"
+   ],
+   "marks": [
+    {
+     "card": "CAS-018",
+     "page": 1,
+     "x0": 0.26,
+     "y0": 0.335,
+     "x1": 0.91,
+     "y1": 0.405
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAS-018",
+     "title": "Veal Paprika CASSEROLE",
+     "images": [
+      {
+       "f": "CAS-018_p1.jpg",
+       "a": 0.5972
+      },
+      {
+       "f": "CAS-018_p2.jpg",
+       "a": 0.6014
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DOU-001-01",
+   "section": "Doughs",
+   "group": "Earlier answers to confirm",
+   "title": "DOU-001: line \"3/4 - 2/3 Beer\", the 2 of 2/3",
+   "prompt": "What does the marked line say? (line \"3/4 - 2/3 Beer\", the 2 of 2/3.)",
+   "options": [
+    "2/3",
+    "1/3"
+   ],
+   "marks": [
+    {
+     "card": "DOU-001",
+     "page": 1,
+     "x0": 0.25,
+     "y0": 0.354,
+     "x1": 0.38,
+     "y1": 0.41
+    }
+   ],
+   "cards": [
+    {
+     "id": "DOU-001",
+     "title": "John's Beer Batter",
+     "images": [
+      {
+       "f": "DOU-001_p1.jpg",
+       "a": 1.6438
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DOU-001-02",
+   "section": "Doughs",
+   "group": "Earlier answers to confirm",
+   "title": "DOU-001: 3rd ingredient line, quantity before \"B. powder\"",
+   "prompt": "What does the marked line say? (3rd ingredient line, quantity before \"B. powder\".)",
+   "options": [
+    "1 t.",
+    "2 t.",
+    "1 T."
+   ],
+   "marks": [
+    {
+     "card": "DOU-001",
+     "page": 1,
+     "x0": 0.05,
+     "y0": 0.145,
+     "x1": 0.18,
+     "y1": 0.19
+    }
+   ],
+   "cards": [
+    {
+     "id": "DOU-001",
+     "title": "John's Beer Batter",
+     "images": [
+      {
+       "f": "DOU-001_p1.jpg",
+       "a": 1.6438
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DOU-002-01",
+   "section": "Doughs",
+   "group": "Earlier answers to confirm",
+   "title": "DOU-002: ingredient lines 4 and 5 (shortening, milk), amounts over the c…",
+   "prompt": "What does the marked line say? (ingredient lines 4 and 5 (shortening, milk), amounts over the card fold.)",
+   "options": [
+    "1/4 and 3/4",
+    "1/2 and 3/4",
+    "1/3 and 2/3"
+   ],
+   "marks": [
+    {
+     "card": "DOU-002",
+     "page": 1,
+     "x0": 0.03,
+     "y0": 0.475,
+     "x1": 0.2,
+     "y1": 0.55
+    }
+   ],
+   "cards": [
+    {
+     "id": "DOU-002",
+     "title": "Biscuit",
+     "images": [
+      {
+       "f": "DOU-002_p1.jpg",
+       "a": 1.1921
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DOU-002-02",
+   "section": "Doughs",
+   "group": "Earlier answers to confirm",
+   "title": "DOU-002: 3rd line under \"450°\", second word",
+   "prompt": "What does the marked line say? (3rd line under \"450°\", second word.)",
+   "options": [
+    "knead dough",
+    "knead douds (literal)"
+   ],
+   "marks": [
+    {
+     "card": "DOU-002",
+     "page": 1,
+     "x0": 0.26,
+     "y0": 0.68,
+     "x1": 0.42,
+     "y1": 0.73
+    }
+   ],
+   "cards": [
+    {
+     "id": "DOU-002",
+     "title": "Biscuit",
+     "images": [
+      {
+       "f": "DOU-002_p1.jpg",
+       "a": 1.1921
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DOU-002-03",
+   "section": "Doughs",
+   "group": "Earlier answers to confirm",
+   "title": "DOU-002: title line (light blue)",
+   "prompt": "What does the marked line say? (title line (light blue).)",
+   "options": [
+    "Bisquit (literal)",
+    "Biscuit"
+   ],
+   "marks": [
+    {
+     "card": "DOU-002",
+     "page": 1,
+     "x0": 0.05,
+     "y0": 0.175,
+     "x1": 0.25,
+     "y1": 0.245
+    }
+   ],
+   "cards": [
+    {
+     "id": "DOU-002",
+     "title": "Biscuit",
+     "images": [
+      {
+       "f": "DOU-002_p1.jpg",
+       "a": 1.1921
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DOU-002-04",
+   "section": "Doughs",
+   "group": "Earlier answers to confirm",
+   "title": "DOU-002: milk line, end",
+   "prompt": "What does the marked line say? (milk line, end.)",
+   "options": [
+    "no paren, tail swirl",
+    "paren as written"
+   ],
+   "marks": [
+    {
+     "card": "DOU-002",
+     "page": 1,
+     "x0": 0.19,
+     "y0": 0.507,
+     "x1": 0.42,
+     "y1": 0.553
+    }
+   ],
+   "cards": [
+    {
+     "id": "DOU-002",
+     "title": "Biscuit",
+     "images": [
+      {
+       "f": "DOU-002_p1.jpg",
+       "a": 1.1921
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DOU-003-01",
+   "section": "Doughs",
+   "group": "Earlier answers to confirm",
+   "title": "DOU-003: line 4, between \"egg\" and \"pound\"",
+   "prompt": "What does the marked line say? (line 4, between \"egg\" and \"pound\".)",
+   "options": [
+    "1 egg per pound cheese",
+    "1 egg per per pound cheese",
+    "something else crossed out",
+    "1 egg per **2** pound cheese"
+   ],
+   "marks": [
+    {
+     "card": "DOU-003",
+     "page": 1,
+     "x0": 0.33,
+     "y0": 0.327,
+     "x1": 0.54,
+     "y1": 0.42
+    }
+   ],
+   "cards": [
+    {
+     "id": "DOU-003",
+     "title": "Gnocchi",
+     "images": [
+      {
+       "f": "DOU-003_p1.jpg",
+       "a": 1.2224
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DOU-003-02",
+   "section": "Doughs",
+   "group": "Earlier answers to confirm",
+   "title": "DOU-003: \"roll into 1/2\" snake in\" line, second line (after \"flour\")",
+   "prompt": "What does the marked line say? (\"roll into 1/2\" snake in\" line, second line (after \"flour\").)",
+   "options": [
+    "dry",
+    "cut",
+    "dip"
+   ],
+   "marks": [
+    {
+     "card": "DOU-003",
+     "page": 1,
+     "x0": 0.05,
+     "y0": 0.71,
+     "x1": 0.95,
+     "y1": 0.81
+    }
+   ],
+   "cards": [
+    {
+     "id": "DOU-003",
+     "title": "Gnocchi",
+     "images": [
+      {
+       "f": "DOU-003_p1.jpg",
+       "a": 1.2224
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DOU-004-01",
+   "section": "Doughs",
+   "group": "Earlier answers to confirm",
+   "title": "DOU-004: line 2, the number before \"egg yolk\"",
+   "prompt": "What does the marked line say? (line 2, the number before \"egg yolk\".)",
+   "options": [
+    "3",
+    "2"
+   ],
+   "marks": [
+    {
+     "card": "DOU-004",
+     "page": 1,
+     "x0": 0.04,
+     "y0": 0.4,
+     "x1": 0.12,
+     "y1": 0.443
+    }
+   ],
+   "cards": [
+    {
+     "id": "DOU-004",
+     "title": "Pierogi Dough",
+     "images": [
+      {
+       "f": "DOU-004_p1.jpg",
+       "a": 1.202
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DOU-004-02",
+   "section": "Doughs",
+   "group": "Earlier answers to confirm",
+   "title": "DOU-004: first word of the \"knead well\" line",
+   "prompt": "What does the marked line say? (first word of the \"knead well\" line.)",
+   "options": [
+    "Nead (literal)",
+    "Knead"
+   ],
+   "marks": [
+    {
+     "card": "DOU-004",
+     "page": 1,
+     "x0": 0.04,
+     "y0": 0.548,
+     "x1": 0.18,
+     "y1": 0.586
+    }
+   ],
+   "cards": [
+    {
+     "id": "DOU-004",
+     "title": "Pierogi Dough",
+     "images": [
+      {
+       "f": "DOU-004_p1.jpg",
+       "a": 1.202
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DOU-004-03",
+   "section": "Doughs",
+   "group": "Earlier answers to confirm",
+   "title": "DOU-004: \"brush olive oil.\" last word",
+   "prompt": "What does the marked line say? (\"brush olive oil.\" last word.)",
+   "options": [
+    "oil.",
+    "oit."
+   ],
+   "marks": [
+    {
+     "card": "DOU-004",
+     "page": 1,
+     "x0": 0.52,
+     "y0": 0.62,
+     "x1": 0.65,
+     "y1": 0.658
+    }
+   ],
+   "cards": [
+    {
+     "id": "DOU-004",
+     "title": "Pierogi Dough",
+     "images": [
+      {
+       "f": "DOU-004_p1.jpg",
+       "a": 1.202
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DOU-006-01",
+   "section": "Doughs",
+   "group": "Earlier answers to confirm",
+   "title": "DOU-006: water line, abbreviation before \"water\" (\"1 C. __ water (1/4 wa…",
+   "prompt": "What does the marked line say? (water line, abbreviation before \"water\" (\"1 C. __ water (1/4 warm-yeast)\").)",
+   "options": [
+    "Wt.",
+    "ht. (hot)",
+    "lt. (lukewarm)"
+   ],
+   "marks": [
+    {
+     "card": "DOU-006",
+     "page": 1,
+     "x0": 0.2,
+     "y0": 0.425,
+     "x1": 0.32,
+     "y1": 0.47
+    }
+   ],
+   "cards": [
+    {
+     "id": "DOU-006",
+     "title": "Pizza Dough (Kathy Moore)",
+     "images": [
+      {
+       "f": "DOU-006_p1.jpg",
+       "a": 1.194
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DOU-006-02",
+   "section": "Doughs",
+   "group": "Earlier answers to confirm",
+   "title": "DOU-006: last instruction, first word",
+   "prompt": "What does the marked line say? (last instruction, first word.)",
+   "options": [
+    "lightly",
+    "lotty (literal)",
+    "lotly (literal)"
+   ],
+   "marks": [
+    {
+     "card": "DOU-006",
+     "page": 1,
+     "x0": 0.06,
+     "y0": 0.815,
+     "x1": 0.18,
+     "y1": 0.87
+    }
+   ],
+   "cards": [
+    {
+     "id": "DOU-006",
+     "title": "Pizza Dough (Kathy Moore)",
+     "images": [
+      {
+       "f": "DOU-006_p1.jpg",
+       "a": 1.194
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DOU-006-03",
+   "section": "Doughs",
+   "group": "Earlier answers to confirm",
+   "title": "DOU-006: first three ingredient lines (very faint ink, lines overlap)",
+   "prompt": "What does the marked line say? (first three ingredient lines (very faint ink, lines overlap).)",
+   "options": [
+    "as read"
+   ],
+   "marks": [
+    {
+     "card": "DOU-006",
+     "page": 1,
+     "x0": 0.05,
+     "y0": 0.31,
+     "x1": 0.4,
+     "y1": 0.41
+    }
+   ],
+   "cards": [
+    {
+     "id": "DOU-006",
+     "title": "Pizza Dough (Kathy Moore)",
+     "images": [
+      {
+       "f": "DOU-006_p1.jpg",
+       "a": 1.194
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DOU-008-01",
+   "section": "Doughs",
+   "group": "Earlier answers to confirm",
+   "title": "DOU-008: milk line, the 2 of 2/3",
+   "prompt": "What does the marked line say? (milk line, the 2 of 2/3.)",
+   "options": [
+    "2/3",
+    "1/3",
+    "3/4"
+   ],
+   "marks": [
+    {
+     "card": "DOU-008",
+     "page": 1,
+     "x0": 0.03,
+     "y0": 0.426,
+     "x1": 0.35,
+     "y1": 0.465
+    }
+   ],
+   "cards": [
+    {
+     "id": "DOU-008",
+     "title": "Pizza (Dough, 450°)",
+     "images": [
+      {
+       "f": "DOU-008_p1.jpg",
+       "a": 1.194
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DOU-008-02",
+   "section": "Doughs",
+   "group": "Earlier answers to confirm",
+   "title": "DOU-008: salad oil line, quantity and \"& 2 T\"",
+   "prompt": "What does the marked line say? (salad oil line, quantity and \"& 2 T\".)",
+   "options": [
+    "1/4 C and 2 T",
+    "1/2 C and 2 T",
+    "1/4 C and 2 t."
+   ],
+   "marks": [
+    {
+     "card": "DOU-008",
+     "page": 1,
+     "x0": 0.03,
+     "y0": 0.46,
+     "x1": 0.68,
+     "y1": 0.503
+    }
+   ],
+   "cards": [
+    {
+     "id": "DOU-008",
+     "title": "Pizza (Dough, 450°)",
+     "images": [
+      {
+       "f": "DOU-008_p1.jpg",
+       "a": 1.194
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DOU-008-03",
+   "section": "Doughs",
+   "group": "Earlier answers to confirm",
+   "title": "DOU-008: second oregano line in the topping list, the unit",
+   "prompt": "What does the marked line say? (second oregano line in the topping list, the unit.)",
+   "options": [
+    "1/2 c (as written)",
+    "1/2 t."
+   ],
+   "marks": [
+    {
+     "card": "DOU-008",
+     "page": 1,
+     "x0": 0.1,
+     "y0": 0.765,
+     "x1": 0.5,
+     "y1": 0.8
+    }
+   ],
+   "cards": [
+    {
+     "id": "DOU-008",
+     "title": "Pizza (Dough, 450°)",
+     "images": [
+      {
+       "f": "DOU-008_p1.jpg",
+       "a": 1.194
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DOU-008-04",
+   "section": "Doughs",
+   "group": "Earlier answers to confirm",
+   "title": "DOU-008: \"parmas. Cheese\" line",
+   "prompt": "What does the marked line say? (\"parmas. Cheese\" line.)",
+   "options": [
+    "parmas. (literal)",
+    "parmes.",
+    "parmas. (short for parmesan)"
+   ],
+   "marks": [
+    {
+     "card": "DOU-008",
+     "page": 1,
+     "x0": 0.1,
+     "y0": 0.62,
+     "x1": 0.66,
+     "y1": 0.662
+    }
+   ],
+   "cards": [
+    {
+     "id": "DOU-008",
+     "title": "Pizza (Dough, 450°)",
+     "images": [
+      {
+       "f": "DOU-008_p1.jpg",
+       "a": 1.194
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DOU-008-05",
+   "section": "Doughs",
+   "group": "Earlier answers to confirm",
+   "title": "DOU-008: \"Chopped onion.\" line",
+   "prompt": "What does the marked line say? (\"Chopped onion.\" line.)",
+   "options": [
+    "onion.",
+    "onion. (Good job there!)"
+   ],
+   "marks": [
+    {
+     "card": "DOU-008",
+     "page": 1,
+     "x0": 0.11,
+     "y0": 0.68,
+     "x1": 0.7,
+     "y1": 0.72
+    }
+   ],
+   "cards": [
+    {
+     "id": "DOU-008",
+     "title": "Pizza (Dough, 450°)",
+     "images": [
+      {
+       "f": "DOU-008_p1.jpg",
+       "a": 1.194
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DOU-009-01",
+   "section": "Doughs",
+   "group": "Earlier answers to confirm",
+   "title": "DOU-009: p1, \"Large Mixing Bowl\" line, shortening amount (red and blue d…",
+   "prompt": "What does the marked line say? (p1, \"Large Mixing Bowl\" line, shortening amount (red and blue digits overlap).)",
+   "options": [
+    "blue 2 tbls, red 1",
+    "blue 1 tbls, red 1/2",
+    "blue 1 1/2 tbls"
+   ],
+   "marks": [
+    {
+     "card": "DOU-009",
+     "page": 1,
+     "x0": 0.42,
+     "y0": 0.245,
+     "x1": 0.63,
+     "y1": 0.37
+    }
+   ],
+   "cards": [
+    {
+     "id": "DOU-009",
+     "title": "Pizza (Dough and Sauce)",
+     "images": [
+      {
+       "f": "DOU-009_p1.jpg",
+       "a": 0.6069
+      },
+      {
+       "f": "DOU-009_p2.jpg",
+       "a": 0.6042
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DOU-010-01",
+   "section": "Doughs",
+   "group": "Earlier answers to confirm",
+   "title": "DOU-010: p1, \"3/4 C. H2O\" line, first digit",
+   "prompt": "What does the marked line say? (p1, \"3/4 C. H2O\" line, first digit.)",
+   "options": [
+    "3/4",
+    "2/4"
+   ],
+   "marks": [
+    {
+     "card": "DOU-010",
+     "page": 1,
+     "x0": 0.01,
+     "y0": 0.595,
+     "x1": 0.22,
+     "y1": 0.665
+    }
+   ],
+   "cards": [
+    {
+     "id": "DOU-010",
+     "title": "Shrimp Tempora (Batter)",
+     "images": [
+      {
+       "f": "DOU-010_p1.jpg",
+       "a": 0.6028
+      },
+      {
+       "f": "DOU-010_p2.jpg",
+       "a": 0.6014
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-002-01",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-002: p1, last line \"16 - 2\" Brownie\"",
+   "prompt": "What does the marked line say? (p1, last line \"16 - 2\" Brownie\".)",
+   "options": [
+    "2\" (16 two-inch brownies)",
+    "2# (something else)"
+   ],
+   "marks": [
+    {
+     "card": "BAR-002",
+     "page": 1,
+     "x0": 0.32,
+     "y0": 0.86,
+     "x1": 0.73,
+     "y1": 0.97
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-002",
+     "title": "Brownies",
+     "images": [
+      {
+       "f": "BAR-002_p1.jpg",
+       "a": 0.5958
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-003-01",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-003: p1, direction line 6 \"THIS (DO NOT PRESS DOWN)\"",
+   "prompt": "What does the marked line say? (p1, direction line 6 \"THIS (DO NOT PRESS DOWN)\".)",
+   "options": [
+    "NOT",
+    "NO",
+    "N'T"
+   ],
+   "marks": [
+    {
+     "card": "BAR-003",
+     "page": 1,
+     "x0": 0.08,
+     "y0": 0.655,
+     "x1": 0.69,
+     "y1": 0.695
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-003",
+     "title": "Chocolate Chip Cheese Squares",
+     "images": [
+      {
+       "f": "BAR-003_p1.jpg",
+       "a": 1.1803
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-003-02",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-003: p1, direction line 7 \"BAKE + WHEN COOL\"",
+   "prompt": "What does the marked line say? (p1, direction line 7 \"BAKE + WHEN COOL\".)",
+   "options": [
+    "WHEN",
+    "WHILE"
+   ],
+   "marks": [
+    {
+     "card": "BAR-003",
+     "page": 1,
+     "x0": 0.08,
+     "y0": 0.695,
+     "x1": 0.52,
+     "y1": 0.74
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-003",
+     "title": "Chocolate Chip Cheese Squares",
+     "images": [
+      {
+       "f": "BAR-003_p1.jpg",
+       "a": 1.1803
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-003-03",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-003: p1, direction line 3 \"BEAT CREAM CHEESE EGGS SUGAR\"",
+   "prompt": "What does the marked line say? (p1, direction line 3 \"BEAT CREAM CHEESE EGGS SUGAR\".)",
+   "options": [
+    "no commas",
+    "comma after EGGS only",
+    "commas after CHEESE and EGGS"
+   ],
+   "marks": [
+    {
+     "card": "BAR-003",
+     "page": 1,
+     "x0": 0.08,
+     "y0": 0.565,
+     "x1": 0.85,
+     "y1": 0.605
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-003",
+     "title": "Chocolate Chip Cheese Squares",
+     "images": [
+      {
+       "f": "BAR-003_p1.jpg",
+       "a": 1.1803
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-003-04",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-003: p1, directions lines 1, 4, 5, 7 (the joining symbol in \"DOUGH +…",
+   "prompt": "What does the marked line say? (p1, directions lines 1, 4, 5, 7 (the joining symbol in \"DOUGH + PAT\", \"CREAMY + SPREAD\", \"DOUGH + PLACE\", \"BAKE + WHEN\").)",
+   "options": [
+    "&",
+    "+",
+    "& (letterform: y)"
+   ],
+   "marks": [
+    {
+     "card": "BAR-003",
+     "page": 1,
+     "x0": 0.66,
+     "y0": 0.5,
+     "x1": 0.8,
+     "y1": 0.54
+    },
+    {
+     "card": "BAR-003",
+     "page": 1,
+     "x0": 0.2,
+     "y0": 0.595,
+     "x1": 0.34,
+     "y1": 0.635
+    },
+    {
+     "card": "BAR-003",
+     "page": 1,
+     "x0": 0.6,
+     "y0": 0.625,
+     "x1": 0.72,
+     "y1": 0.667
+    },
+    {
+     "card": "BAR-003",
+     "page": 1,
+     "x0": 0.18,
+     "y0": 0.695,
+     "x1": 0.3,
+     "y1": 0.74
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-003",
+     "title": "Chocolate Chip Cheese Squares",
+     "images": [
+      {
+       "f": "BAR-003_p1.jpg",
+       "a": 1.1803
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-004-01",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-004: p1, line 4 \"6 egg yeast\"",
+   "prompt": "What does the marked line say? (p1, line 4 \"6 egg yeast\".)",
+   "options": [
+    "yeast (as written; means yolks?)",
+    "yolks",
+    "yolk"
+   ],
+   "marks": [
+    {
+     "card": "BAR-004",
+     "page": 1,
+     "x0": 0.21,
+     "y0": 0.205,
+     "x1": 0.47,
+     "y1": 0.25
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-004",
+     "title": "Cold Cakes",
+     "images": [
+      {
+       "f": "BAR-004_p1.jpg",
+       "a": 1.2789
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-004-02",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-004: p1, line 5 \"2C. sour cream -\"",
+   "prompt": "What does the marked line say? (p1, line 5 \"2C. sour cream -\".)",
+   "options": [
+    "sour cream, not crossed out",
+    "sour cream, crossed out (deleted)"
+   ],
+   "marks": [
+    {
+     "card": "BAR-004",
+     "page": 1,
+     "x0": 0.09,
+     "y0": 0.238,
+     "x1": 0.5,
+     "y1": 0.27
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-004",
+     "title": "Cold Cakes",
+     "images": [
+      {
+       "f": "BAR-004_p1.jpg",
+       "a": 1.2789
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-004-03",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-004: p1, line 2 \"cut 12 pcs.\"",
+   "prompt": "What does the marked line say? (p1, line 2 \"cut 12 pcs.\".)",
+   "options": [
+    "pcs,",
+    "pcs."
+   ],
+   "marks": [
+    {
+     "card": "BAR-004",
+     "page": 1,
+     "x0": 0.53,
+     "y0": 0.1,
+     "x1": 0.89,
+     "y1": 0.155
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-004",
+     "title": "Cold Cakes",
+     "images": [
+      {
+       "f": "BAR-004_p1.jpg",
+       "a": 1.2789
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-004-04",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-004: p1, rolls line \"rolls in sug/powd sugar\"",
+   "prompt": "What does the marked line say? (p1, rolls line \"rolls in sug/powd sugar\".)",
+   "options": [
+    "pwd",
+    "powd"
+   ],
+   "marks": [
+    {
+     "card": "BAR-004",
+     "page": 1,
+     "x0": 0.49,
+     "y0": 0.455,
+     "x1": 0.94,
+     "y1": 0.498
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-004",
+     "title": "Cold Cakes",
+     "images": [
+      {
+       "f": "BAR-004_p1.jpg",
+       "a": 1.2789
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-004-05",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-004: p1, lines 3 and 7 (\"crisco + 1cup butter\", \"SCALD + COOL\")",
+   "prompt": "What does the marked line say? (p1, lines 3 and 7 (\"crisco + 1cup butter\", \"SCALD + COOL\").)",
+   "options": [
+    "&",
+    "+",
+    "& (letterform: y)"
+   ],
+   "marks": [
+    {
+     "card": "BAR-004",
+     "page": 1,
+     "x0": 0.19,
+     "y0": 0.165,
+     "x1": 0.96,
+     "y1": 0.22
+    },
+    {
+     "card": "BAR-004",
+     "page": 1,
+     "x0": 0.22,
+     "y0": 0.305,
+     "x1": 0.7,
+     "y1": 0.345
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-004",
+     "title": "Cold Cakes",
+     "images": [
+      {
+       "f": "BAR-004_p1.jpg",
+       "a": 1.2789
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-005-01",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-005: p1, line 7 \"6 egg yolk - (3 whole eggs)\"",
+   "prompt": "What does the marked line say? (p1, line 7 \"6 egg yolk - (3 whole eggs)\".)",
+   "options": [
+    "yolk",
+    "yolks"
+   ],
+   "marks": [
+    {
+     "card": "BAR-005",
+     "page": 1,
+     "x0": 0.05,
+     "y0": 0.385,
+     "x1": 0.92,
+     "y1": 0.445
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-005",
+     "title": "Cold Cakes",
+     "images": [
+      {
+       "f": "BAR-005_p1.jpg",
+       "a": 1.1862
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-005-02",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-005: p1, direction \"Chill - 7 hours\"",
+   "prompt": "What does the marked line say? (p1, direction \"Chill - 7 hours\".)",
+   "options": [
+    "7 hours",
+    "2 hours",
+    "7 hours (letterform: y)"
+   ],
+   "marks": [
+    {
+     "card": "BAR-005",
+     "page": 1,
+     "x0": 0.06,
+     "y0": 0.795,
+     "x1": 0.55,
+     "y1": 0.845
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-005",
+     "title": "Cold Cakes",
+     "images": [
+      {
+       "f": "BAR-005_p1.jpg",
+       "a": 1.1862
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-005-03",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-005: p1, pencil note right of \"1 cup milk\"",
+   "prompt": "What does the marked line say? (p1, pencil note right of \"1 cup milk\".)",
+   "options": [
+    "(4T. sour cream",
+    "(4T. S cream (abbreviation for sour cream)"
+   ],
+   "marks": [
+    {
+     "card": "BAR-005",
+     "page": 1,
+     "x0": 0.66,
+     "y0": 0.555,
+     "x1": 0.9,
+     "y1": 0.615
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-005",
+     "title": "Cold Cakes",
+     "images": [
+      {
+       "f": "BAR-005_p1.jpg",
+       "a": 1.1862
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-005-04",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-005: p1, line 6 \"6 cups flour)\"",
+   "prompt": "What does the marked line say? (p1, line 6 \"6 cups flour)\".)",
+   "options": [
+    "a closing parenthesis",
+    "a bracket or stray stroke (leave it out of the cookbook)"
+   ],
+   "marks": [
+    {
+     "card": "BAR-005",
+     "page": 1,
+     "x0": 0.08,
+     "y0": 0.34,
+     "x1": 0.56,
+     "y1": 0.405
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-005",
+     "title": "Cold Cakes",
+     "images": [
+      {
+       "f": "BAR-005_p1.jpg",
+       "a": 1.1862
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-005-05",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-005: p1, direction \"add reast of ingred\"",
+   "prompt": "What does the marked line say? (p1, direction \"add reast of ingred\".)",
+   "options": [
+    "reast (literal; means rest)",
+    "rest"
+   ],
+   "marks": [
+    {
+     "card": "BAR-005",
+     "page": 1,
+     "x0": 0.45,
+     "y0": 0.685,
+     "x1": 1,
+     "y1": 0.755
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-005",
+     "title": "Cold Cakes",
+     "images": [
+      {
+       "f": "BAR-005_p1.jpg",
+       "a": 1.1862
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-006-01",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-006: p1, title \"Gram's Cool CAKES\"",
+   "prompt": "What does the marked line say? (p1, title \"Gram's Cool CAKES\".)",
+   "options": [
+    "Cool (as written)",
+    "Cold"
+   ],
+   "marks": [
+    {
+     "card": "BAR-006",
+     "page": 1,
+     "x0": 0.49,
+     "y0": 0.012,
+     "x1": 0.62,
+     "y1": 0.055
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-006",
+     "title": "Gram's Cool Cakes",
+     "images": [
+      {
+       "f": "BAR-006_p1.jpg",
+       "a": 1.6628
+      },
+      {
+       "f": "BAR-006_p2.jpg",
+       "a": 1.6667
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-006-02",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-006: p1, butter line \"1 pd (4stick] Butter\"",
+   "prompt": "What does the marked line say? (p1, butter line \"1 pd (4stick] Butter\".)",
+   "options": [
+    "(4stick] as written",
+    "(4stick) (the closing mark is a parenthesis)"
+   ],
+   "marks": [
+    {
+     "card": "BAR-006",
+     "page": 1,
+     "x0": 0.04,
+     "y0": 0.33,
+     "x1": 0.42,
+     "y1": 0.385
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-006",
+     "title": "Gram's Cool Cakes",
+     "images": [
+      {
+       "f": "BAR-006_p1.jpg",
+       "a": 1.6628
+      },
+      {
+       "f": "BAR-006_p2.jpg",
+       "a": 1.6667
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-006-03",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-006: p2, apricot line \"2pkg APRICOT\"",
+   "prompt": "What does the marked line say? (p2, apricot line \"2pkg APRICOT\".)",
+   "options": [
+    "2pkG",
+    "2pkg"
+   ],
+   "marks": [
+    {
+     "card": "BAR-006",
+     "page": 2,
+     "x0": 0.05,
+     "y0": 0.403,
+     "x1": 0.45,
+     "y1": 0.45
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-006",
+     "title": "Gram's Cool Cakes",
+     "images": [
+      {
+       "f": "BAR-006_p1.jpg",
+       "a": 1.6628
+      },
+      {
+       "f": "BAR-006_p2.jpg",
+       "a": 1.6667
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-006-04",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-006: p2, last line \"Then stir sugar to taste\"",
+   "prompt": "What does the marked line say? (p2, last line \"Then stir sugar to taste\".)",
+   "options": [
+    "taste, with ta rewritten over itself",
+    "ta crossed out (literal \"to ste\")"
+   ],
+   "marks": [
+    {
+     "card": "BAR-006",
+     "page": 2,
+     "x0": 0.06,
+     "y0": 0.64,
+     "x1": 0.87,
+     "y1": 0.705
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-006",
+     "title": "Gram's Cool Cakes",
+     "images": [
+      {
+       "f": "BAR-006_p1.jpg",
+       "a": 1.6628
+      },
+      {
+       "f": "BAR-006_p2.jpg",
+       "a": 1.6667
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-007-01",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-007: p1, line 3 \"3 t. sugar\" (crust)",
+   "prompt": "What does the marked line say? (p1, line 3 \"3 t. sugar\" (crust).)",
+   "options": [
+    "3 t. (teaspoons)",
+    "3 T. (tablespoons)"
+   ],
+   "marks": [
+    {
+     "card": "BAR-007",
+     "page": 1,
+     "x0": 0.04,
+     "y0": 0.36,
+     "x1": 0.32,
+     "y1": 0.46
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-007",
+     "title": "Lemon Squares",
+     "images": [
+      {
+       "f": "BAR-007_p1.jpg",
+       "a": 0.5972
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-007-02",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-007: p1, line 2 \"1 C butter\"",
+   "prompt": "What does the marked line say? (p1, line 2 \"1 C butter\".)",
+   "options": [
+    "c (lower case)",
+    "C (capital)",
+    "1 c butter"
+   ],
+   "marks": [
+    {
+     "card": "BAR-007",
+     "page": 1,
+     "x0": 0.04,
+     "y0": 0.29,
+     "x1": 0.34,
+     "y1": 0.375
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-007",
+     "title": "Lemon Squares",
+     "images": [
+      {
+       "f": "BAR-007_p1.jpg",
+       "a": 0.5972
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-008-01",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-008: p1, top edge \"350° - __ min\" (baking time)",
+   "prompt": "What does the marked line say? (p1, top edge \"350° - __ min\" (baking time).)",
+   "options": [
+    "25",
+    "20",
+    "8",
+    "unreadable (leave blank; the printed Eagle Brand label BAR-009 says 25)"
+   ],
+   "marks": [
+    {
+     "card": "BAR-008",
+     "page": 1,
+     "x0": 0.5,
+     "y0": 0,
+     "x1": 0.85,
+     "y1": 0.09
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-008",
+     "title": "Magic Cookie Bars",
+     "images": [
+      {
+       "f": "BAR-008_p1.jpg",
+       "a": 0.5986
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-008-02",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-008: p1, chips line \"Choc or butterscotch chips\"",
+   "prompt": "What does the marked line say? (p1, chips line \"Choc or butterscotch chips\".)",
+   "options": [
+    "butterscotch",
+    "butterscoth (literal missing c)"
+   ],
+   "marks": [
+    {
+     "card": "BAR-008",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.5,
+     "x1": 0.84,
+     "y1": 0.59
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-008",
+     "title": "Magic Cookie Bars",
+     "images": [
+      {
+       "f": "BAR-008_p1.jpg",
+       "a": 0.5986
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-010-01",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-010: p2, line 3 \"13x9x2 in. baking pan\"",
+   "prompt": "What does the marked line say? (p2, line 3 \"13x9x2 in. baking pan\".)",
+   "options": [
+    "bakingpan (run together)",
+    "baking pan"
+   ],
+   "marks": [
+    {
+     "card": "BAR-010",
+     "page": 2,
+     "x0": 0.52,
+     "y0": 0.16,
+     "x1": 0.78,
+     "y1": 0.27
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-010",
+     "title": "Peanut Butterscotch Squares",
+     "images": [
+      {
+       "f": "BAR-010_p1.jpg",
+       "a": 0.5986
+      },
+      {
+       "f": "BAR-010_p2.jpg",
+       "a": 0.5944
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-011-01",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-011: p1 \"greased + floured\"; p2 \"+ 1c. Chop nuts\", \"+ cook 2 min.\"",
+   "prompt": "What does the marked line say? (p1 \"greased + floured\"; p2 \"+ 1c. Chop nuts\", \"+ cook 2 min.\".)",
+   "options": [
+    "&",
+    "+",
+    "& (letterform: y)"
+   ],
+   "marks": [
+    {
+     "card": "BAR-011",
+     "page": 1,
+     "x0": 0.58,
+     "y0": 0.64,
+     "x1": 1,
+     "y1": 0.8
+    },
+    {
+     "card": "BAR-011",
+     "page": 2,
+     "x0": 0.03,
+     "y0": 0.1,
+     "x1": 0.56,
+     "y1": 0.23
+    },
+    {
+     "card": "BAR-011",
+     "page": 2,
+     "x0": 0.49,
+     "y0": 0.57,
+     "x1": 0.92,
+     "y1": 0.66
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-011",
+     "title": "Pineapple Coconut Squares",
+     "images": [
+      {
+       "f": "BAR-011_p1.jpg",
+       "a": 0.6014
+      },
+      {
+       "f": "BAR-011_p2.jpg",
+       "a": 0.6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-011-02",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-011: p2, \"dribBle frosting\"",
+   "prompt": "What does the marked line say? (p2, \"dribBle frosting\".)",
+   "options": [
+    "dribble",
+    "dribBle"
+   ],
+   "marks": [
+    {
+     "card": "BAR-011",
+     "page": 2,
+     "x0": 0.05,
+     "y0": 0.81,
+     "x1": 0.54,
+     "y1": 0.94
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-011",
+     "title": "Pineapple Coconut Squares",
+     "images": [
+      {
+       "f": "BAR-011_p1.jpg",
+       "a": 0.6014
+      },
+      {
+       "f": "BAR-011_p2.jpg",
+       "a": 0.6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-012-01",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-012: p1, last line right \"/ 1/4C. butter softened\" (topping)",
+   "prompt": "What does the marked line say? (p1, last line right \"/ 1/4C. butter softened\" (topping).)",
+   "options": [
+    "1/4 C. butter",
+    "1 1/4 C. butter",
+    "1/4 C. butter (letterform: y)"
+   ],
+   "marks": [
+    {
+     "card": "BAR-012",
+     "page": 1,
+     "x0": 0.5,
+     "y0": 0.89,
+     "x1": 1,
+     "y1": 1
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-012",
+     "title": "Pumpkin Pie Bars",
+     "images": [
+      {
+       "f": "BAR-012_p1.jpg",
+       "a": 0.5944
+      },
+      {
+       "f": "BAR-012_p2.jpg",
+       "a": 0.5917
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-012-02",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-012: p1, top line \"350° - greas. flour 13x9\"",
+   "prompt": "What does the marked line say? (p1, top line \"350° - greas. flour 13x9\".)",
+   "options": [
+    "grease",
+    "greas.",
+    "greased"
+   ],
+   "marks": [
+    {
+     "card": "BAR-012",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0,
+     "x1": 0.62,
+     "y1": 0.11
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-012",
+     "title": "Pumpkin Pie Bars",
+     "images": [
+      {
+       "f": "BAR-012_p1.jpg",
+       "a": 0.5944
+      },
+      {
+       "f": "BAR-012_p2.jpg",
+       "a": 0.5917
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-012-03",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-012: p1, sugar line \"1C sugar Divided\"",
+   "prompt": "What does the marked line say? (p1, sugar line \"1C sugar Divided\".)",
+   "options": [
+    "Divided",
+    "DiVided",
+    "DIVided"
+   ],
+   "marks": [
+    {
+     "card": "BAR-012",
+     "page": 1,
+     "x0": 0.04,
+     "y0": 0.575,
+     "x1": 0.52,
+     "y1": 0.665
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-012",
+     "title": "Pumpkin Pie Bars",
+     "images": [
+      {
+       "f": "BAR-012_p1.jpg",
+       "a": 0.5944
+      },
+      {
+       "f": "BAR-012_p2.jpg",
+       "a": 0.5917
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-012-04",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-012: p2, \"cinnimon\"",
+   "prompt": "What does the marked line say? (p2, \"cinnimon\".)",
+   "options": [
+    "cinnimon (literal)",
+    "cinnamon"
+   ],
+   "marks": [
+    {
+     "card": "BAR-012",
+     "page": 2,
+     "x0": 0.5,
+     "y0": 0.28,
+     "x1": 0.74,
+     "y1": 0.365
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-012",
+     "title": "Pumpkin Pie Bars",
+     "images": [
+      {
+       "f": "BAR-012_p1.jpg",
+       "a": 0.5944
+      },
+      {
+       "f": "BAR-012_p2.jpg",
+       "a": 0.5917
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-012-05",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-012: p2, lines 2-6 (\"Butter + Beaten egg\", \"sugar +\", \"milk + cinnim…",
+   "prompt": "What does the marked line say? (p2, lines 2-6 (\"Butter + Beaten egg\", \"sugar +\", \"milk + cinnimon\", \"walnuts +\").)",
+   "options": [
+    "&",
+    "+",
+    "& (letterform: y)"
+   ],
+   "marks": [
+    {
+     "card": "BAR-012",
+     "page": 2,
+     "x0": 0.01,
+     "y0": 0.09,
+     "x1": 0.99,
+     "y1": 0.48
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-012",
+     "title": "Pumpkin Pie Bars",
+     "images": [
+      {
+       "f": "BAR-012_p1.jpg",
+       "a": 0.5944
+      },
+      {
+       "f": "BAR-012_p2.jpg",
+       "a": 0.5917
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-013-01",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-013: p1, topping column \"1T. van.\"",
+   "prompt": "What does the marked line say? (p1, topping column \"1T. van.\".)",
+   "options": [
+    "1 T. vanilla (tablespoon, as written)",
+    "she meant 1 t. (teaspoon)",
+    "1 T. vanilla (letterform: y)"
+   ],
+   "marks": [
+    {
+     "card": "BAR-013",
+     "page": 1,
+     "x0": 0.46,
+     "y0": 0.655,
+     "x1": 0.66,
+     "y1": 0.735
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-013",
+     "title": "Southern Pecan Bars",
+     "images": [
+      {
+       "f": "BAR-013_p1.jpg",
+       "a": 0.6069
+      },
+      {
+       "f": "BAR-013_p2.jpg",
+       "a": 0.5944
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-013-02",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-013: p1 and p2, capital R inside words (FlouR, sugaR, powdeR, cRumbl…",
+   "prompt": "What does the marked line say? (p1 and p2, capital R inside words (FlouR, sugaR, powdeR, cRumbly, pouR over cRust, SpRinkle) and other case (BAKing, MIN, BROWN).)",
+   "options": [
+    "keep the capital R shapes as written",
+    "lower case (the R is just her letter shape)"
+   ],
+   "marks": [
+    {
+     "card": "BAR-013",
+     "page": 1,
+     "x0": 0.13,
+     "y0": 0.12,
+     "x1": 0.57,
+     "y1": 0.2
+    },
+    {
+     "card": "BAR-013",
+     "page": 1,
+     "x0": 0.4,
+     "y0": 0.2,
+     "x1": 0.6,
+     "y1": 0.3
+    },
+    {
+     "card": "BAR-013",
+     "page": 1,
+     "x0": 0.35,
+     "y0": 0.47,
+     "x1": 0.57,
+     "y1": 0.57
+    },
+    {
+     "card": "BAR-013",
+     "page": 1,
+     "x0": 0.12,
+     "y0": 0.73,
+     "x1": 0.3,
+     "y1": 0.82
+    },
+    {
+     "card": "BAR-013",
+     "page": 2,
+     "x0": 0.5,
+     "y0": 0.06,
+     "x1": 0.95,
+     "y1": 0.17
+    },
+    {
+     "card": "BAR-013",
+     "page": 2,
+     "x0": 0.02,
+     "y0": 0.585,
+     "x1": 0.45,
+     "y1": 0.665
+    },
+    {
+     "card": "BAR-013",
+     "page": 2,
+     "x0": 0.02,
+     "y0": 0.665,
+     "x1": 0.6,
+     "y1": 0.74
+    },
+    {
+     "card": "BAR-013",
+     "page": 2,
+     "x0": 0.02,
+     "y0": 0.755,
+     "x1": 0.58,
+     "y1": 0.84
+    },
+    {
+     "card": "BAR-013",
+     "page": 2,
+     "x0": 0.64,
+     "y0": 0.15,
+     "x1": 0.87,
+     "y1": 0.25
+    },
+    {
+     "card": "BAR-013",
+     "page": 2,
+     "x0": 0.03,
+     "y0": 0.25,
+     "x1": 0.58,
+     "y1": 0.33
+    },
+    {
+     "card": "BAR-013",
+     "page": 2,
+     "x0": 0.62,
+     "y0": 0.76,
+     "x1": 0.96,
+     "y1": 0.94
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-013",
+     "title": "Southern Pecan Bars",
+     "images": [
+      {
+       "f": "BAR-013_p1.jpg",
+       "a": 0.6069
+      },
+      {
+       "f": "BAR-013_p2.jpg",
+       "a": 0.5944
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BAR-013-03",
+   "section": "Bars",
+   "group": "Earlier answers to confirm",
+   "title": "BAR-013: p1, \"Topping/\"",
+   "prompt": "What does the marked line say? (p1, \"Topping/\".)",
+   "options": [
+    "Topping/",
+    "Topping (the slash is an underline flourish)",
+    "TOPPING/"
+   ],
+   "marks": [
+    {
+     "card": "BAR-013",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.56,
+     "x1": 0.27,
+     "y1": 0.65
+    }
+   ],
+   "cards": [
+    {
+     "id": "BAR-013",
+     "title": "Southern Pecan Bars",
+     "images": [
+      {
+       "f": "BAR-013_p1.jpg",
+       "a": 0.6069
+      },
+      {
+       "f": "BAR-013_p2.jpg",
+       "a": 0.5944
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-003-01",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-003: p1, first ingredient \"2/3C shortenin'\"",
+   "prompt": "What does the marked line say? (p1, first ingredient \"2/3C shortenin'\".)",
+   "options": [
+    "2/3 C",
+    "1/3 C"
+   ],
+   "marks": [
+    {
+     "card": "BRE-003",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.23,
+     "x1": 0.36,
+     "y1": 0.32
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-003",
+     "title": "Banana Nut Bread",
+     "images": [
+      {
+       "f": "BRE-003_p1.jpg",
+       "a": 0.6014
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-003-02",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-003: p1, left column \"1t. BB. powder\"",
+   "prompt": "What does the marked line say? (p1, left column \"1t. BB. powder\".)",
+   "options": [
+    "Bk.",
+    "BB.",
+    "B.P."
+   ],
+   "marks": [
+    {
+     "card": "BRE-003",
+     "page": 1,
+     "x0": 0.03,
+     "y0": 0.52,
+     "x1": 0.4,
+     "y1": 0.63
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-003",
+     "title": "Banana Nut Bread",
+     "images": [
+      {
+       "f": "BRE-003_p1.jpg",
+       "a": 0.6014
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-003-03",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-003: p1, first ingredient",
+   "prompt": "What does the marked line say? (p1, first ingredient.)",
+   "options": [
+    "Shortenin'",
+    "shortenin'",
+    "Shortening"
+   ],
+   "marks": [
+    {
+     "card": "BRE-003",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.23,
+     "x1": 0.36,
+     "y1": 0.32
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-003",
+     "title": "Banana Nut Bread",
+     "images": [
+      {
+       "f": "BRE-003_p1.jpg",
+       "a": 0.6014
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-003-04",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-003: p1, directions \"shortenin' + sugar\", \"Banana's + nuts\"",
+   "prompt": "What does the marked line say? (p1, directions \"shortenin' + sugar\", \"Banana's + nuts\".)",
+   "options": [
+    "&",
+    "+",
+    "& (letterform: &)"
+   ],
+   "marks": [
+    {
+     "card": "BRE-003",
+     "page": 1,
+     "x0": 0.03,
+     "y0": 0.66,
+     "x1": 0.75,
+     "y1": 0.77
+    },
+    {
+     "card": "BRE-003",
+     "page": 1,
+     "x0": 0.03,
+     "y0": 0.8,
+     "x1": 0.62,
+     "y1": 0.9
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-003",
+     "title": "Banana Nut Bread",
+     "images": [
+      {
+       "f": "BRE-003_p1.jpg",
+       "a": 0.6014
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-004-01",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-004: p1, diagonal name at lower right \"Marilyn Valchek / Nemick's mo…",
+   "prompt": "What does the marked line say? (p1, diagonal name at lower right \"Marilyn Valchek / Nemick's mom\".)",
+   "options": [
+    "Valchek",
+    "Valcheck",
+    "Nemick's",
+    "Remick's"
+   ],
+   "marks": [
+    {
+     "card": "BRE-004",
+     "page": 1,
+     "x0": 0.57,
+     "y0": 0.5,
+     "x1": 0.95,
+     "y1": 0.96
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-004",
+     "title": "Basic Yeast Dough",
+     "images": [
+      {
+       "f": "BRE-004_p1.jpg",
+       "a": 0.6
+      },
+      {
+       "f": "BRE-004_p2.jpg",
+       "a": 1.659
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-004-02",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-004: p2, line 6 \"refg. overnite (rise - double\"",
+   "prompt": "What does the marked line say? (p2, line 6 \"refg. overnite (rise - double\".)",
+   "options": [
+    "(rise - double)",
+    "(rise - double (unclosed)"
+   ],
+   "marks": [
+    {
+     "card": "BRE-004",
+     "page": 2,
+     "x0": 0.03,
+     "y0": 0.275,
+     "x1": 0.97,
+     "y1": 0.345
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-004",
+     "title": "Basic Yeast Dough",
+     "images": [
+      {
+       "f": "BRE-004_p1.jpg",
+       "a": 0.6
+      },
+      {
+       "f": "BRE-004_p2.jpg",
+       "a": 1.659
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-004-03",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-004: p2, line 13 \"sprinkle with melted\"",
+   "prompt": "What does the marked line say? (p2, line 13 \"sprinkle with melted\".)",
+   "options": [
+    "melted.",
+    "melted"
+   ],
+   "marks": [
+    {
+     "card": "BRE-004",
+     "page": 2,
+     "x0": 0.03,
+     "y0": 0.74,
+     "x1": 0.97,
+     "y1": 0.8
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-004",
+     "title": "Basic Yeast Dough",
+     "images": [
+      {
+       "f": "BRE-004_p1.jpg",
+       "a": 0.6
+      },
+      {
+       "f": "BRE-004_p2.jpg",
+       "a": 1.659
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-004-04",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-004: p2, \"top + sides\" and \"+ sprinkle with melted\"",
+   "prompt": "What does the marked line say? (p2, \"top + sides\" and \"+ sprinkle with melted\".)",
+   "options": [
+    "&",
+    "+",
+    "& (letterform: &)"
+   ],
+   "marks": [
+    {
+     "card": "BRE-004",
+     "page": 2,
+     "x0": 0.03,
+     "y0": 0.17,
+     "x1": 0.95,
+     "y1": 0.25
+    },
+    {
+     "card": "BRE-004",
+     "page": 2,
+     "x0": 0.03,
+     "y0": 0.74,
+     "x1": 0.97,
+     "y1": 0.8
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-004",
+     "title": "Basic Yeast Dough",
+     "images": [
+      {
+       "f": "BRE-004_p1.jpg",
+       "a": 0.6
+      },
+      {
+       "f": "BRE-004_p2.jpg",
+       "a": 1.659
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-005-01",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-005: p1, line 8 \"1 1/2 sticks margarine\" (first digit under a heavy …",
+   "prompt": "What does the marked line say? (p1, line 8 \"1 1/2 sticks margarine\" (first digit under a heavy ink blot).)",
+   "options": [
+    "1 1/2 sticks",
+    "1/2 stick"
+   ],
+   "marks": [
+    {
+     "card": "BRE-005",
+     "page": 1,
+     "x0": 0.05,
+     "y0": 0.62,
+     "x1": 0.62,
+     "y1": 0.72
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-005",
+     "title": "Bea's Scones",
+     "images": [
+      {
+       "f": "BRE-005_p1.jpg",
+       "a": 0.6028
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-005-02",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-005: p1, line 3 \"1 1/2t cream of tartar\" (blotted)",
+   "prompt": "What does the marked line say? (p1, line 3 \"1 1/2t cream of tartar\" (blotted).)",
+   "options": [
+    "1 1/2 t (teaspoons)",
+    "1/2 t",
+    "1 1/2 T"
+   ],
+   "marks": [
+    {
+     "card": "BRE-005",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.22,
+     "x1": 0.58,
+     "y1": 0.31
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-005",
+     "title": "Bea's Scones",
+     "images": [
+      {
+       "f": "BRE-005_p1.jpg",
+       "a": 0.6028
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-005-03",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-005: p1, left-margin marks on the cream of tartar and buttermilk lin…",
+   "prompt": "What does the marked line say? (p1, left-margin marks on the cream of tartar and buttermilk lines.)",
+   "options": [
+    "* and x (two different marks)",
+    "* and * (the same mark twice)"
+   ],
+   "marks": [
+    {
+     "card": "BRE-005",
+     "page": 1,
+     "x0": 0.01,
+     "y0": 0.22,
+     "x1": 0.09,
+     "y1": 0.31
+    },
+    {
+     "card": "BRE-005",
+     "page": 1,
+     "x0": 0.01,
+     "y0": 0.46,
+     "x1": 0.09,
+     "y1": 0.55
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-005",
+     "title": "Bea's Scones",
+     "images": [
+      {
+       "f": "BRE-005_p1.jpg",
+       "a": 0.6028
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-006-01",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-006: p1, kitchen-of line \"Mrs. Bopp\"",
+   "prompt": "What does the marked line say? (p1, kitchen-of line \"Mrs. Bopp\".)",
+   "options": [
+    "Bopp",
+    "Bapp",
+    "Bopp (letterform: y)"
+   ],
+   "marks": [
+    {
+     "card": "BRE-006",
+     "page": 1,
+     "x0": 0.63,
+     "y0": 0.2,
+     "x1": 0.95,
+     "y1": 0.28
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-006",
+     "title": "Bread",
+     "images": [
+      {
+       "f": "BRE-006_p1.jpg",
+       "a": 1.194
+      },
+      {
+       "f": "BRE-006_p2.jpg",
+       "a": 1.194
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-006-02",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-006: p1, first ingredient \"5-6 C. flour (5 1/2)\"",
+   "prompt": "What does the marked line say? (p1, first ingredient \"5-6 C. flour (5 1/2)\".)",
+   "options": [
+    "(5 1/2)",
+    "(3 1/2)"
+   ],
+   "marks": [
+    {
+     "card": "BRE-006",
+     "page": 1,
+     "x0": 0.38,
+     "y0": 0.31,
+     "x1": 0.56,
+     "y1": 0.37
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-006",
+     "title": "Bread",
+     "images": [
+      {
+       "f": "BRE-006_p1.jpg",
+       "a": 1.194
+      },
+      {
+       "f": "BRE-006_p2.jpg",
+       "a": 1.194
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-006-03",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-006: p1, step (2) last line \"mix together. nead well.\"",
+   "prompt": "What does the marked line say? (p1, step (2) last line \"mix together. nead well.\".)",
+   "options": [
+    "real well (mix together really well)",
+    "nead well (knead well)",
+    "mix together real well."
+   ],
+   "marks": [
+    {
+     "card": "BRE-006",
+     "page": 1,
+     "x0": 0.05,
+     "y0": 0.82,
+     "x1": 0.77,
+     "y1": 0.88
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-006",
+     "title": "Bread",
+     "images": [
+      {
+       "f": "BRE-006_p1.jpg",
+       "a": 1.194
+      },
+      {
+       "f": "BRE-006_p2.jpg",
+       "a": 1.194
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-006-04",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-006: p1, step (2) \"has settled + starts to work\"",
+   "prompt": "What does the marked line say? (p1, step (2) \"has settled + starts to work\".)",
+   "options": [
+    "Started",
+    "starts"
+   ],
+   "marks": [
+    {
+     "card": "BRE-006",
+     "page": 1,
+     "x0": 0.07,
+     "y0": 0.75,
+     "x1": 0.95,
+     "y1": 0.81
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-006",
+     "title": "Bread",
+     "images": [
+      {
+       "f": "BRE-006_p1.jpg",
+       "a": 1.194
+      },
+      {
+       "f": "BRE-006_p2.jpg",
+       "a": 1.194
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-006-05",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-006: p1, steps (1) and (2) (\"yeast + warm water\", \"mix + let set\", \"…",
+   "prompt": "What does the marked line say? (p1, steps (1) and (2) (\"yeast + warm water\", \"mix + let set\", \"flour + salt\", \"settled + starts\").)",
+   "options": [
+    "&",
+    "+",
+    "& (letterform: &)"
+   ],
+   "marks": [
+    {
+     "card": "BRE-006",
+     "page": 1,
+     "x0": 0.05,
+     "y0": 0.56,
+     "x1": 0.97,
+     "y1": 0.66
+    },
+    {
+     "card": "BRE-006",
+     "page": 1,
+     "x0": 0.04,
+     "y0": 0.68,
+     "x1": 0.97,
+     "y1": 0.81
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-006",
+     "title": "Bread",
+     "images": [
+      {
+       "f": "BRE-006_p1.jpg",
+       "a": 1.194
+      },
+      {
+       "f": "BRE-006_p2.jpg",
+       "a": 1.194
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-007-01",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-007: p1, left column \"1/4 oil (liq.)\"",
+   "prompt": "What does the marked line say? (p1, left column \"1/4 oil (liq.)\".)",
+   "options": [
+    "as written (cookbook says 1/4 cup oil, as on BRE-006)",
+    "as written, no unit added",
+    "1/4 c oil"
+   ],
+   "marks": [
+    {
+     "card": "BRE-007",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.37,
+     "x1": 0.33,
+     "y1": 0.48
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-007",
+     "title": "Bread",
+     "images": [
+      {
+       "f": "BRE-007_p1.jpg",
+       "a": 0.5972
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-009-01",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-009: p1, time line \"400° - 15 min\"",
+   "prompt": "What does the marked line say? (p1, time line \"400° - 15 min\".)",
+   "options": [
+    "15 min",
+    "25 min",
+    "45 min",
+    "15 min (letterform: y)"
+   ],
+   "marks": [
+    {
+     "card": "BRE-009",
+     "page": 1,
+     "x0": 0.46,
+     "y0": 0.1,
+     "x1": 0.77,
+     "y1": 0.17
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-009",
+     "title": "Buns (Don't Bake on Rainy Days!)",
+     "images": [
+      {
+       "f": "BRE-009_p1.jpg",
+       "a": 0.6056
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-009-02",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-009: p1, \"(5) 1/2 4C. Flour let raise 15 min\"",
+   "prompt": "What does the marked line say? (p1, \"(5) 1/2 4C. Flour let raise 15 min\".)",
+   "options": [
+    "75 min (1 hr 15 min, as on BRE-008 Buns)",
+    "15 min"
+   ],
+   "marks": [
+    {
+     "card": "BRE-009",
+     "page": 1,
+     "x0": 0.33,
+     "y0": 0.73,
+     "x1": 0.72,
+     "y1": 0.81
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-009",
+     "title": "Buns (Don't Bake on Rainy Days!)",
+     "images": [
+      {
+       "f": "BRE-009_p1.jpg",
+       "a": 0.6056
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-009-03",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-009: p1, flour line, pencil \"(5)\" and \"1/2\" before the ink \"4C.\"",
+   "prompt": "What does the marked line say? (p1, flour line, pencil \"(5)\" and \"1/2\" before the ink \"4C.\".)",
+   "options": [
+    "ink 4 C. flour; pencil batch uses 5 1/2 C.",
+    "ink 4 C.; pencil batch uses 5 C.; the 1/2 belongs to something else",
+    "ink 4 1/2 C."
+   ],
+   "marks": [
+    {
+     "card": "BRE-009",
+     "page": 1,
+     "x0": 0.01,
+     "y0": 0.72,
+     "x1": 0.33,
+     "y1": 0.81
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-009",
+     "title": "Buns (Don't Bake on Rainy Days!)",
+     "images": [
+      {
+       "f": "BRE-009_p1.jpg",
+       "a": 0.6056
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-009-04",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-009: p1, left-margin pencil line \"_T. SUGAR\"",
+   "prompt": "What does the marked line say? (p1, left-margin pencil line \"_T. SUGAR\".)",
+   "options": [
+    "2 T.",
+    "3 T.",
+    "5 T.",
+    "3T"
+   ],
+   "marks": [
+    {
+     "card": "BRE-009",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.34,
+     "x1": 0.19,
+     "y1": 0.42
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-009",
+     "title": "Buns (Don't Bake on Rainy Days!)",
+     "images": [
+      {
+       "f": "BRE-009_p1.jpg",
+       "a": 0.6056
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-009-05",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-009: p1, \"Dissolve 8\"",
+   "prompt": "What does the marked line say? (p1, \"Dissolve 8\".)",
+   "options": [
+    "Dissolve &",
+    "Dissolve 8",
+    "Dissolve:"
+   ],
+   "marks": [
+    {
+     "card": "BRE-009",
+     "page": 1,
+     "x0": 0.05,
+     "y0": 0.16,
+     "x1": 0.31,
+     "y1": 0.24
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-009",
+     "title": "Buns (Don't Bake on Rainy Days!)",
+     "images": [
+      {
+       "f": "BRE-009_p1.jpg",
+       "a": 0.6056
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-009-06",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-009: p1, title \"Buns (Don't Bake on Rainy Days)\"",
+   "prompt": "What does the marked line say? (p1, title \"Buns (Don't Bake on Rainy Days)\".)",
+   "options": [
+    "Days!)",
+    "Days)"
+   ],
+   "marks": [
+    {
+     "card": "BRE-009",
+     "page": 1,
+     "x0": 0.26,
+     "y0": 0.04,
+     "x1": 0.93,
+     "y1": 0.11
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-009",
+     "title": "Buns (Don't Bake on Rainy Days!)",
+     "images": [
+      {
+       "f": "BRE-009_p1.jpg",
+       "a": 0.6056
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-009-07",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-009: p1, pencil \"2C. H2O w\" and \"1T crisco\"",
+   "prompt": "What does the marked line say? (p1, pencil \"2C. H2O w\" and \"1T crisco\".)",
+   "options": [
+    "H2O w. and Crisco",
+    "H2O w and crisco",
+    "\"2C. H2O w\" and \"1T crisco\""
+   ],
+   "marks": [
+    {
+     "card": "BRE-009",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.28,
+     "x1": 0.2,
+     "y1": 0.37
+    },
+    {
+     "card": "BRE-009",
+     "page": 1,
+     "x0": 0.15,
+     "y0": 0.52,
+     "x1": 0.45,
+     "y1": 0.61
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-009",
+     "title": "Buns (Don't Bake on Rainy Days!)",
+     "images": [
+      {
+       "f": "BRE-009_p1.jpg",
+       "a": 0.6056
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-009-08",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-009: p1, \"shape + let raise\"",
+   "prompt": "What does the marked line say? (p1, \"shape + let raise\".)",
+   "options": [
+    "&",
+    "+",
+    "& (letterform: &)"
+   ],
+   "marks": [
+    {
+     "card": "BRE-009",
+     "page": 1,
+     "x0": 0.04,
+     "y0": 0.82,
+     "x1": 0.5,
+     "y1": 0.89
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-009",
+     "title": "Buns (Don't Bake on Rainy Days!)",
+     "images": [
+      {
+       "f": "BRE-009_p1.jpg",
+       "a": 0.6056
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-010-01",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-010: p1, line 1 \"Mrs Bopps bread dough\"",
+   "prompt": "What does the marked line say? (p1, line 1 \"Mrs Bopps bread dough\".)",
+   "options": [
+    "Miss Bopps",
+    "Mrs Bopps"
+   ],
+   "marks": [
+    {
+     "card": "BRE-010",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.3,
+     "x1": 0.62,
+     "y1": 0.41
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-010",
+     "title": "Cinnamon Rolls",
+     "images": [
+      {
+       "f": "BRE-010_p1.jpg",
+       "a": 0.5958
+      },
+      {
+       "f": "BRE-010_p2.jpg",
+       "a": 0.5917
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-010-02",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-010: p1, line 2 \"divide into 3 * or 4 sect.\"",
+   "prompt": "What does the marked line say? (p1, line 2 \"divide into 3 * or 4 sect.\".)",
+   "options": [
+    "an ink blot (leave it out)",
+    "an asterisk",
+    "3 or 4"
+   ],
+   "marks": [
+    {
+     "card": "BRE-010",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.41,
+     "x1": 0.72,
+     "y1": 0.51
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-010",
+     "title": "Cinnamon Rolls",
+     "images": [
+      {
+       "f": "BRE-010_p1.jpg",
+       "a": 0.5958
+      },
+      {
+       "f": "BRE-010_p2.jpg",
+       "a": 0.5917
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-010-03",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-010: p1, line 5 \"Brown + reg. sugar\"",
+   "prompt": "What does the marked line say? (p1, line 5 \"Brown + reg. sugar\".)",
+   "options": [
+    "& (Brown and reg. sugar)",
+    "a",
+    "+",
+    "& (letterform: &)"
+   ],
+   "marks": [
+    {
+     "card": "BRE-010",
+     "page": 1,
+     "x0": 0.03,
+     "y0": 0.66,
+     "x1": 0.85,
+     "y1": 0.76
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-010",
+     "title": "Cinnamon Rolls",
+     "images": [
+      {
+       "f": "BRE-010_p1.jpg",
+       "a": 0.5958
+      },
+      {
+       "f": "BRE-010_p2.jpg",
+       "a": 0.5917
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-010-04",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-010: p2, \"Pans + raise\"",
+   "prompt": "What does the marked line say? (p2, \"Pans + raise\".)",
+   "options": [
+    "&",
+    "+",
+    "& (letterform: &)"
+   ],
+   "marks": [
+    {
+     "card": "BRE-010",
+     "page": 2,
+     "x0": 0.45,
+     "y0": 0.22,
+     "x1": 0.86,
+     "y1": 0.33
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-010",
+     "title": "Cinnamon Rolls",
+     "images": [
+      {
+       "f": "BRE-010_p1.jpg",
+       "a": 0.5958
+      },
+      {
+       "f": "BRE-010_p2.jpg",
+       "a": 0.5917
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-011-01",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-011: p1, kitchen-of name \"Joan Heyde\"",
+   "prompt": "What does the marked line say? (p1, kitchen-of name \"Joan Heyde\".)",
+   "options": [
+    "Heyde",
+    "Hyde",
+    "Hayde",
+    "Heyde (letterform: y)"
+   ],
+   "marks": [
+    {
+     "card": "BRE-011",
+     "page": 1,
+     "x0": 0.47,
+     "y0": 0.08,
+     "x1": 0.85,
+     "y1": 0.18
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-011",
+     "title": "Corn Bread",
+     "images": [
+      {
+       "f": "BRE-011_p1.jpg",
+       "a": 0.5958
+      },
+      {
+       "f": "BRE-011_p2.jpg",
+       "a": 0.5944
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-011-02",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-011: p1, \"1/2 t. soda\" (the t is overwritten)",
+   "prompt": "What does the marked line say? (p1, \"1/2 t. soda\" (the t is overwritten).)",
+   "options": [
+    "1/2 t. (teaspoon)",
+    "1/2 T. (tablespoon)",
+    "1/2 t. (letterform: y)"
+   ],
+   "marks": [
+    {
+     "card": "BRE-011",
+     "page": 1,
+     "x0": 0.28,
+     "y0": 0.6,
+     "x1": 0.65,
+     "y1": 0.69
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-011",
+     "title": "Corn Bread",
+     "images": [
+      {
+       "f": "BRE-011_p1.jpg",
+       "a": 0.5958
+      },
+      {
+       "f": "BRE-011_p2.jpg",
+       "a": 0.5944
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-011-03",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-011: p1, directions \"Mix cornmeal ... crisco\"",
+   "prompt": "What does the marked line say? (p1, directions \"Mix cornmeal ... crisco\".)",
+   "options": [
+    "Cornmeal, Crisco",
+    "cornmeal, crisco"
+   ],
+   "marks": [
+    {
+     "card": "BRE-011",
+     "page": 1,
+     "x0": 0.03,
+     "y0": 0.69,
+     "x1": 0.99,
+     "y1": 0.87
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-011",
+     "title": "Corn Bread",
+     "images": [
+      {
+       "f": "BRE-011_p1.jpg",
+       "a": 0.5958
+      },
+      {
+       "f": "BRE-011_p2.jpg",
+       "a": 0.5944
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-011-04",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-011: p2, \"Mix well + turn into\"",
+   "prompt": "What does the marked line say? (p2, \"Mix well + turn into\".)",
+   "options": [
+    "&",
+    "+",
+    "& (letterform: &)"
+   ],
+   "marks": [
+    {
+     "card": "BRE-011",
+     "page": 2,
+     "x0": 0.02,
+     "y0": 0.04,
+     "x1": 0.72,
+     "y1": 0.2
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-011",
+     "title": "Corn Bread",
+     "images": [
+      {
+       "f": "BRE-011_p1.jpg",
+       "a": 0.5958
+      },
+      {
+       "f": "BRE-011_p2.jpg",
+       "a": 0.5944
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-012-01",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-012: p1, glaze \"3/4 T. cinnamon\"",
+   "prompt": "What does the marked line say? (p1, glaze \"3/4 T. cinnamon\".)",
+   "options": [
+    "3/4 T. (tablespoon, as written)",
+    "3/4 t. (teaspoon)",
+    "3/4 T. (letterform: y)"
+   ],
+   "marks": [
+    {
+     "card": "BRE-012",
+     "page": 1,
+     "x0": 0.08,
+     "y0": 0.71,
+     "x1": 0.53,
+     "y1": 0.78
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-012",
+     "title": "Friendship Bread",
+     "images": [
+      {
+       "f": "BRE-012_p1.jpg",
+       "a": 0.5972
+      },
+      {
+       "f": "BRE-012_p2.jpg",
+       "a": 0.6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-012-02",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-012: p1, \"3/4 C Brown sugar\"",
+   "prompt": "What does the marked line say? (p1, \"3/4 C Brown sugar\".)",
+   "options": [
+    "c",
+    "C",
+    "3/4 c Brown sugar"
+   ],
+   "marks": [
+    {
+     "card": "BRE-012",
+     "page": 1,
+     "x0": 0.07,
+     "y0": 0.79,
+     "x1": 0.6,
+     "y1": 0.875
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-012",
+     "title": "Friendship Bread",
+     "images": [
+      {
+       "f": "BRE-012_p1.jpg",
+       "a": 0.5972
+      },
+      {
+       "f": "BRE-012_p2.jpg",
+       "a": 0.6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-013-01",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-013: p2, name at lower right",
+   "prompt": "What does the marked line say? (p2, name at lower right.)",
+   "options": [
+    "Pam Eils",
+    "Pam Eib"
+   ],
+   "marks": [
+    {
+     "card": "BRE-013",
+     "page": 2,
+     "x0": 0.64,
+     "y0": 0.86,
+     "x1": 0.9,
+     "y1": 0.99
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-013",
+     "title": "Gooey Buns",
+     "images": [
+      {
+       "f": "BRE-013_p1.jpg",
+       "a": 0.5944
+      },
+      {
+       "f": "BRE-013_p2.jpg",
+       "a": 0.5958
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-013-02",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-013: p1, \"Boil + Cool\"",
+   "prompt": "What does the marked line say? (p1, \"Boil + Cool\".)",
+   "options": [
+    "&",
+    "+",
+    "& (letterform: &)"
+   ],
+   "marks": [
+    {
+     "card": "BRE-013",
+     "page": 1,
+     "x0": 0.64,
+     "y0": 0.68,
+     "x1": 0.86,
+     "y1": 0.88
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-013",
+     "title": "Gooey Buns",
+     "images": [
+      {
+       "f": "BRE-013_p1.jpg",
+       "a": 0.5944
+      },
+      {
+       "f": "BRE-013_p2.jpg",
+       "a": 0.5958
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-014-01",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-014: p1, \"1 tT. caraway seeds\"",
+   "prompt": "What does the marked line say? (p1, \"1 tT. caraway seeds\".)",
+   "options": [
+    "1 T. (the t is corrected to T)",
+    "1 t. (the T is the correction)",
+    "1 T (letterform: y)"
+   ],
+   "marks": [
+    {
+     "card": "BRE-014",
+     "page": 1,
+     "x0": 0.08,
+     "y0": 0.54,
+     "x1": 0.62,
+     "y1": 0.59
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-014",
+     "title": "Irish Bread",
+     "images": [
+      {
+       "f": "BRE-014_p1.jpg",
+       "a": 1.194
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-014-02",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-014: p1, time line \"375° (45-60 MIN.\"",
+   "prompt": "What does the marked line say? (p1, time line \"375° (45-60 MIN.\".)",
+   "options": [
+    "min.",
+    "MIN."
+   ],
+   "marks": [
+    {
+     "card": "BRE-014",
+     "page": 1,
+     "x0": 0.62,
+     "y0": 0.325,
+     "x1": 0.97,
+     "y1": 0.365
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-014",
+     "title": "Irish Bread",
+     "images": [
+      {
+       "f": "BRE-014_p1.jpg",
+       "a": 1.194
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-014-03",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-014: p1, directions \"buttermilk + melted butter\"",
+   "prompt": "What does the marked line say? (p1, directions \"buttermilk + melted butter\".)",
+   "options": [
+    "&",
+    "+",
+    "& (letterform: &)"
+   ],
+   "marks": [
+    {
+     "card": "BRE-014",
+     "page": 1,
+     "x0": 0.04,
+     "y0": 0.8,
+     "x1": 0.85,
+     "y1": 0.85
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-014",
+     "title": "Irish Bread",
+     "images": [
+      {
+       "f": "BRE-014_p1.jpg",
+       "a": 1.194
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-015-01",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-015: p1, line 3 \"add 1T salt ; 1/2c sugar ; 3C water\"",
+   "prompt": "What does the marked line say? (p1, line 3 \"add 1T salt ; 1/2c sugar ; 3C water\".)",
+   "options": [
+    "& (and)",
+    ";",
+    "& (letterform: &)"
+   ],
+   "marks": [
+    {
+     "card": "BRE-015",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.33,
+     "x1": 0.93,
+     "y1": 0.42
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-015",
+     "title": "Jewish Braided Bread",
+     "images": [
+      {
+       "f": "BRE-015_p1.jpg",
+       "a": 0.5931
+      },
+      {
+       "f": "BRE-015_p2.jpg",
+       "a": 0.5903
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-015-02",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-015: p1, last line at the card edge \"until double (one\"",
+   "prompt": "What does the marked line say? (p1, last line at the card edge \"until double (one\".)",
+   "options": [
+    "(over) (turn the card over)",
+    "(one)",
+    "(once)"
+   ],
+   "marks": [
+    {
+     "card": "BRE-015",
+     "page": 1,
+     "x0": 0.55,
+     "y0": 0.92,
+     "x1": 0.99,
+     "y1": 1
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-015",
+     "title": "Jewish Braided Bread",
+     "images": [
+      {
+       "f": "BRE-015_p1.jpg",
+       "a": 0.5931
+      },
+      {
+       "f": "BRE-015_p2.jpg",
+       "a": 0.5903
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-017-01",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-017: p1, word above the title \"MURFINS\"",
+   "prompt": "What does the marked line say? (p1, word above the title \"MURFINS\".)",
+   "options": [
+    "MUrfins",
+    "MURFINS",
+    "Murfins",
+    "Mur-fins"
+   ],
+   "marks": [
+    {
+     "card": "BRE-017",
+     "page": 1,
+     "x0": 0.42,
+     "y0": 0.005,
+     "x1": 0.6,
+     "y1": 0.06
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-017",
+     "title": "Sweet Potato Muffins",
+     "images": [
+      {
+       "f": "BRE-017_p1.jpg",
+       "a": 0.6056
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-017-02",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-017: p1, top right \"400° 55 MIN\" for muffins",
+   "prompt": "What does the marked line say? (p1, top right \"400° 55 MIN\" for muffins.)",
+   "options": [
+    "as written (55 min)",
+    "it is for a loaf, not muffins"
+   ],
+   "marks": [
+    {
+     "card": "BRE-017",
+     "page": 1,
+     "x0": 0.72,
+     "y0": 0.005,
+     "x1": 0.99,
+     "y1": 0.075
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-017",
+     "title": "Sweet Potato Muffins",
+     "images": [
+      {
+       "f": "BRE-017_p1.jpg",
+       "a": 0.6056
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-017-03",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-017: p1, \"2 1/2c. sugar\" and \"cream butter + sugar\"",
+   "prompt": "What does the marked line say? (p1, \"2 1/2c. sugar\" and \"cream butter + sugar\".)",
+   "options": [
+    "Sugar and &",
+    "sugar and +"
+   ],
+   "marks": [
+    {
+     "card": "BRE-017",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.235,
+     "x1": 0.35,
+     "y1": 0.31
+    },
+    {
+     "card": "BRE-017",
+     "page": 1,
+     "x0": 0.49,
+     "y0": 0.18,
+     "x1": 0.93,
+     "y1": 0.255
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-017",
+     "title": "Sweet Potato Muffins",
+     "images": [
+      {
+       "f": "BRE-017_p1.jpg",
+       "a": 0.6056
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-BRE-018-01",
+   "section": "Bread",
+   "group": "Earlier answers to confirm",
+   "title": "BRE-018: p1, typed fraction before \"tsp. baking powder\"",
+   "prompt": "What does the marked line say? (p1, typed fraction before \"tsp. baking powder\".)",
+   "options": [
+    "1/4 tsp.",
+    "1/2 tsp."
+   ],
+   "marks": [
+    {
+     "card": "BRE-018",
+     "page": 1,
+     "x0": 0.15,
+     "y0": 0.46,
+     "x1": 0.52,
+     "y1": 0.505
+    }
+   ],
+   "cards": [
+    {
+     "id": "BRE-018",
+     "title": "Zucchini Bread",
+     "images": [
+      {
+       "f": "BRE-018_p1.jpg",
+       "a": 1.2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAK-001-01",
+   "section": "Cake",
+   "group": "Earlier answers to confirm",
+   "title": "CAK-001: p2, \"Crack egg over - + mix\", \"+ mix\", \"vanilla + oil\"",
+   "prompt": "What does the marked line say? (p2, \"Crack egg over - + mix\", \"+ mix\", \"vanilla + oil\".)",
+   "options": [
+    "&",
+    "+"
+   ],
+   "marks": [
+    {
+     "card": "CAK-001",
+     "page": 2,
+     "x0": 0.03,
+     "y0": 0.02,
+     "x1": 0.93,
+     "y1": 0.56
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAK-001",
+     "title": "Apple Walnut Cake",
+     "images": [
+      {
+       "f": "CAK-001_p1.jpg",
+       "a": 0.5917
+      },
+      {
+       "f": "CAK-001_p2.jpg",
+       "a": 0.5903
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAK-002-01",
+   "section": "Cake",
+   "group": "Earlier answers to confirm",
+   "title": "CAK-002: p1/p2, \"crackers + Butter\", \"sugar + Vanilla\", \"nuts + Cherries\"",
+   "prompt": "What does the marked line say? (p1/p2, \"crackers + Butter\", \"sugar + Vanilla\", \"nuts + Cherries\".)",
+   "options": [
+    "&",
+    "+"
+   ],
+   "marks": [
+    {
+     "card": "CAK-002",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.69,
+     "x1": 0.95,
+     "y1": 0.89
+    },
+    {
+     "card": "CAK-002",
+     "page": 2,
+     "x0": 0.03,
+     "y0": 0.235,
+     "x1": 0.97,
+     "y1": 0.37
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAK-002",
+     "title": "Banana Split Cake",
+     "images": [
+      {
+       "f": "CAK-002_p1.jpg",
+       "a": 0.6
+      },
+      {
+       "f": "CAK-002_p2.jpg",
+       "a": 0.5986
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAK-004-01",
+   "section": "Cake",
+   "group": "Earlier answers to confirm",
+   "title": "CAK-004: p1, kitchen-of line \"_50° 55 min.\"",
+   "prompt": "What does the marked line say? (p1, kitchen-of line \"_50° 55 min.\".)",
+   "options": [
+    "250° (as written)",
+    "350°",
+    "as written, but she meant 350°"
+   ],
+   "marks": [
+    {
+     "card": "CAK-004",
+     "page": 1,
+     "x0": 0.04,
+     "y0": 0.105,
+     "x1": 0.74,
+     "y1": 0.175
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAK-004",
+     "title": "Carrot Cake",
+     "images": [
+      {
+       "f": "CAK-004_p1.jpg",
+       "a": 0.6
+      },
+      {
+       "f": "CAK-004_p2.jpg",
+       "a": 0.5986
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAK-005-01",
+   "section": "Cake",
+   "group": "Earlier answers to confirm",
+   "title": "CAK-005: p1, faint pencil title \"Ann's Cheese cake\"",
+   "prompt": "What does the marked line say? (p1, faint pencil title \"Ann's Cheese cake\".)",
+   "options": [
+    "Ann's",
+    "Anni's"
+   ],
+   "marks": [
+    {
+     "card": "CAK-005",
+     "page": 1,
+     "x0": 0.09,
+     "y0": 0.04,
+     "x1": 0.97,
+     "y1": 0.135
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAK-005",
+     "title": "Ann's Cheese Cake",
+     "images": [
+      {
+       "f": "CAK-005_p1.jpg",
+       "a": 0.6111
+      },
+      {
+       "f": "CAK-005_p2.jpg",
+       "a": 0.6028
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAK-006-01",
+   "section": "Cake",
+   "group": "Earlier answers to confirm",
+   "title": "CAK-006: p1, crust \"3T. melted Butter\" (first digit written over)",
+   "prompt": "What does the marked line say? (p1, crust \"3T. melted Butter\" (first digit written over).)",
+   "options": [
+    "3 T.",
+    "2 T."
+   ],
+   "marks": [
+    {
+     "card": "CAK-006",
+     "page": 1,
+     "x0": 0.05,
+     "y0": 0.37,
+     "x1": 0.47,
+     "y1": 0.455
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAK-006",
+     "title": "Cheese Cake",
+     "images": [
+      {
+       "f": "CAK-006_p1.jpg",
+       "a": 0.5958
+      },
+      {
+       "f": "CAK-006_p2.jpg",
+       "a": 0.5944
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAK-006-02",
+   "section": "Cake",
+   "group": "Earlier answers to confirm",
+   "title": "CAK-006: p2, topping \"1/2C. sugar\" (a stroke before 1/2)",
+   "prompt": "What does the marked line say? (p2, topping \"1/2C. sugar\" (a stroke before 1/2).)",
+   "options": [
+    "1/2 C.",
+    "1 1/2 C."
+   ],
+   "marks": [
+    {
+     "card": "CAK-006",
+     "page": 2,
+     "x0": 0.31,
+     "y0": 0.48,
+     "x1": 0.58,
+     "y1": 0.59
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAK-006",
+     "title": "Cheese Cake",
+     "images": [
+      {
+       "f": "CAK-006_p1.jpg",
+       "a": 0.5958
+      },
+      {
+       "f": "CAK-006_p2.jpg",
+       "a": 0.5944
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAK-007-01",
+   "section": "Cake",
+   "group": "Earlier answers to confirm",
+   "title": "CAK-007: p1, kitchen-of name \"K. HEINDEI\"",
+   "prompt": "What does the marked line say? (p1, kitchen-of name \"K. HEINDEI\".)",
+   "options": [
+    "K. Heindel",
+    "K. Heindei (as the letters look)"
+   ],
+   "marks": [
+    {
+     "card": "CAK-007",
+     "page": 1,
+     "x0": 0.65,
+     "y0": 0.14,
+     "x1": 0.92,
+     "y1": 0.26
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAK-007",
+     "title": "Cheese Cake",
+     "images": [
+      {
+       "f": "CAK-007_p1.jpg",
+       "a": 1.194
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAK-009-01",
+   "section": "Cake",
+   "group": "Earlier answers to confirm",
+   "title": "CAK-009: p1, kitchen-of line \"_50° 1/2-1 hr\"",
+   "prompt": "What does the marked line say? (p1, kitchen-of line \"_50° 1/2-1 hr\".)",
+   "options": [
+    "250° (as written)",
+    "350°",
+    "as written, but she meant 350°"
+   ],
+   "marks": [
+    {
+     "card": "CAK-009",
+     "page": 1,
+     "x0": 0.04,
+     "y0": 0.105,
+     "x1": 0.83,
+     "y1": 0.175
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAK-009",
+     "title": "Cherry Sheet Cake",
+     "images": [
+      {
+       "f": "CAK-009_p1.jpg",
+       "a": 0.6028
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAK-012-01",
+   "section": "Cake",
+   "group": "Earlier answers to confirm",
+   "title": "CAK-012: p1, kitchen-of line \"_50° - 30-40 min.\"",
+   "prompt": "What does the marked line say? (p1, kitchen-of line \"_50° - 30-40 min.\".)",
+   "options": [
+    "250° (as written)",
+    "350°",
+    "as written, but she meant 350°"
+   ],
+   "marks": [
+    {
+     "card": "CAK-012",
+     "page": 1,
+     "x0": 0.04,
+     "y0": 0.105,
+     "x1": 0.74,
+     "y1": 0.175
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAK-012",
+     "title": "Chocolate Cake",
+     "images": [
+      {
+       "f": "CAK-012_p1.jpg",
+       "a": 0.6028
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAK-012-02",
+   "section": "Cake",
+   "group": "Earlier answers to confirm",
+   "title": "CAK-012: p1, \"1/2T salt\"",
+   "prompt": "What does the marked line say? (p1, \"1/2T salt\".)",
+   "options": [
+    "1/2 T. (tablespoon, as written)",
+    "1/2 t. (teaspoon)"
+   ],
+   "marks": [
+    {
+     "card": "CAK-012",
+     "page": 1,
+     "x0": 0.045,
+     "y0": 0.525,
+     "x1": 0.69,
+     "y1": 0.61
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAK-012",
+     "title": "Chocolate Cake",
+     "images": [
+      {
+       "f": "CAK-012_p1.jpg",
+       "a": 0.6028
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAK-015-01",
+   "section": "Cake",
+   "group": "Earlier answers to confirm",
+   "title": "CAK-015: p1, icing \"remove heat + add - 1T. sugar\"",
+   "prompt": "What does the marked line say? (p1, icing \"remove heat + add - 1T. sugar\".)",
+   "options": [
+    "1 T. sugar (as written)",
+    "1 lb. sugar (as on CAK-032 Texas Sheet Cake icing)"
+   ],
+   "marks": [
+    {
+     "card": "CAK-015",
+     "page": 1,
+     "x0": 0.055,
+     "y0": 0.833,
+     "x1": 0.91,
+     "y1": 0.877
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAK-015",
+     "title": "Choc Sheet Cake",
+     "images": [
+      {
+       "f": "CAK-015_p1.jpg",
+       "a": 1.198
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAK-016-01",
+   "section": "Cake",
+   "group": "Earlier answers to confirm",
+   "title": "CAK-016: p1, bottom line in black felt-tip \"LET COOL 6 BEFORE TOPPING\"",
+   "prompt": "What does the marked line say? (p1, bottom line in black felt-tip \"LET COOL 6 BEFORE TOPPING\".)",
+   "options": [
+    "6 (6 hours? no unit)",
+    "& (LET COOL & BEFORE TOPPING)",
+    "!"
+   ],
+   "marks": [
+    {
+     "card": "CAK-016",
+     "page": 1,
+     "x0": 0.065,
+     "y0": 0.9,
+     "x1": 0.99,
+     "y1": 0.995
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAK-016",
+     "title": "Clifford Cheesecake",
+     "images": [
+      {
+       "f": "CAK-016_p1.jpg",
+       "a": 0.5917
+      },
+      {
+       "f": "CAK-016_p2.jpg",
+       "a": 0.5931
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAK-017-01",
+   "section": "Cake",
+   "group": "Earlier answers to confirm",
+   "title": "CAK-017: p1, sugar line, green handwriting over the typed 1/2",
+   "prompt": "What does the marked line say? (p1, sugar line, green handwriting over the typed 1/2.)",
+   "options": [
+    "3/4 c. (the green correction)",
+    "1/2 c. (the typed amount)",
+    "1 c."
+   ],
+   "marks": [
+    {
+     "card": "CAK-017",
+     "page": 1,
+     "x0": 0.065,
+     "y0": 0.218,
+     "x1": 0.5,
+     "y1": 0.258
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAK-017",
+     "title": "Coffee Cake",
+     "images": [
+      {
+       "f": "CAK-017_p1.jpg",
+       "a": 1.2522
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAK-018-02",
+   "section": "Cake",
+   "group": "Earlier answers to confirm",
+   "title": "CAK-018: p2, line 1 \"(on sugar + powder sugar)\"",
+   "prompt": "What does the marked line say? (p2, line 1 \"(on sugar + powder sugar)\".)",
+   "options": [
+    "&",
+    "?",
+    "+"
+   ],
+   "marks": [
+    {
+     "card": "CAK-018",
+     "page": 2,
+     "x0": 0.03,
+     "y0": 0,
+     "x1": 0.82,
+     "y1": 0.11
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAK-018",
+     "title": "Cold Cakes",
+     "images": [
+      {
+       "f": "CAK-018_p1.jpg",
+       "a": 0.5972
+      },
+      {
+       "f": "CAK-018_p2.jpg",
+       "a": 0.5972
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAK-021-01",
+   "section": "Cake",
+   "group": "Earlier answers to confirm",
+   "title": "CAK-021: p1, topping \"3t cinnamon\"",
+   "prompt": "What does the marked line say? (p1, topping \"3t cinnamon\".)",
+   "options": [
+    "3 t",
+    "2 t"
+   ],
+   "marks": [
+    {
+     "card": "CAK-021",
+     "page": 1,
+     "x0": 0.03,
+     "y0": 0.5,
+     "x1": 0.66,
+     "y1": 0.59
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAK-021",
+     "title": "Jewish Coffee Cake",
+     "images": [
+      {
+       "f": "CAK-021_p1.jpg",
+       "a": 0.6069
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAK-021-02",
+   "section": "Cake",
+   "group": "Earlier answers to confirm",
+   "title": "CAK-021: p1, word written sideways beside the topping brace",
+   "prompt": "What does the marked line say? (p1, word written sideways beside the topping brace.)",
+   "options": [
+    "mixture",
+    "mix here"
+   ],
+   "marks": [
+    {
+     "card": "CAK-021",
+     "page": 1,
+     "x0": 0.335,
+     "y0": 0.37,
+     "x1": 0.415,
+     "y1": 0.605
+    },
+    {
+     "card": "CAK-021",
+     "page": 1,
+     "x0": 0.4,
+     "y0": 0.47,
+     "x1": 0.7,
+     "y1": 0.6
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAK-021",
+     "title": "Jewish Coffee Cake",
+     "images": [
+      {
+       "f": "CAK-021_p1.jpg",
+       "a": 0.6069
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAK-024-01",
+   "section": "Cake",
+   "group": "Earlier answers to confirm",
+   "title": "CAK-024: p2, \"(reserve 3T. juice) (3 oz. can)\"",
+   "prompt": "What does the marked line say? (p2, \"(reserve 3T. juice) (3 oz. can)\".)",
+   "options": [
+    "3 oz. (as written)",
+    "30 oz.",
+    "29 oz."
+   ],
+   "marks": [
+    {
+     "card": "CAK-024",
+     "page": 2,
+     "x0": 0.015,
+     "y0": 0.31,
+     "x1": 0.8,
+     "y1": 0.43
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAK-024",
+     "title": "Peaches & Cream Cake",
+     "images": [
+      {
+       "f": "CAK-024_p1.jpg",
+       "a": 0.6042
+      },
+      {
+       "f": "CAK-024_p2.jpg",
+       "a": 0.6014
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAK-027-01",
+   "section": "Cake",
+   "group": "Earlier answers to confirm",
+   "title": "CAK-027: p1, top line \"Bake _50 - 30-35 min\"",
+   "prompt": "What does the marked line say? (p1, top line \"Bake _50 - 30-35 min\".)",
+   "options": [
+    "250° (as written)",
+    "350°",
+    "as written, but she meant 350°"
+   ],
+   "marks": [
+    {
+     "card": "CAK-027",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.12,
+     "x1": 0.97,
+     "y1": 0.23
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAK-027",
+     "title": "Pineapple-Nut Cake",
+     "images": [
+      {
+       "f": "CAK-027_p1.jpg",
+       "a": 0.5958
+      },
+      {
+       "f": "CAK-027_p2.jpg",
+       "a": 0.5944
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAK-028-01",
+   "section": "Cake",
+   "group": "Earlier answers to confirm",
+   "title": "CAK-028: p1, kitchen-of name \"BALLEIN\"",
+   "prompt": "What does the marked line say? (p1, kitchen-of name \"BALLEIN\".)",
+   "options": [
+    "Ballein"
+   ],
+   "marks": [
+    {
+     "card": "CAK-028",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.15,
+     "x1": 0.64,
+     "y1": 0.235
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAK-028",
+     "title": "Kathy's Pudding Cake",
+     "images": [
+      {
+       "f": "CAK-028_p1.jpg",
+       "a": 0.5972
+      },
+      {
+       "f": "CAK-028_p2.jpg",
+       "a": 0.5958
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAK-029-01",
+   "section": "Cake",
+   "group": "Earlier answers to confirm",
+   "title": "CAK-029: p1, line 4 \"2 mix + press into 13x9\\\" pan\"",
+   "prompt": "What does the marked line say? (p1, line 4 \"2 mix + press into 13x9\\\" pan\".)",
+   "options": [
+    "2 (a step number)",
+    "&"
+   ],
+   "marks": [
+    {
+     "card": "CAK-029",
+     "page": 1,
+     "x0": 0.04,
+     "y0": 0.31,
+     "x1": 0.77,
+     "y1": 0.405
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAK-029",
+     "title": "Pumpkin Cake",
+     "images": [
+      {
+       "f": "CAK-029_p1.jpg",
+       "a": 0.6
+      },
+      {
+       "f": "CAK-029_p2.jpg",
+       "a": 0.6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAN-013-02",
+   "section": "Candy",
+   "group": "Earlier answers to confirm",
+   "title": "CAN-013: p2, second microwave time \"microwave 1_ min\" (a character scrib…",
+   "prompt": "What does the marked line say? (p2, second microwave time \"microwave 1_ min\" (a character scribbled over).)",
+   "options": [
+    "1 1/2 min",
+    "1 min"
+   ],
+   "marks": [
+    {
+     "card": "CAN-013",
+     "page": 2,
+     "x0": 0.18,
+     "y0": 0.53,
+     "x1": 0.66,
+     "y1": 0.635
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAN-013",
+     "title": "Microwave Carmel Corn",
+     "images": [
+      {
+       "f": "CAN-013_p1.jpg",
+       "a": 0.5958
+      },
+      {
+       "f": "CAN-013_p2.jpg",
+       "a": 0.6056
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-CAN-015-01",
+   "section": "Candy",
+   "group": "Earlier answers to confirm",
+   "title": "CAN-015: p1, coating \"3/4c parafin wax\" with \"2c chocchip (12oz)\"",
+   "prompt": "What does the marked line say? (p1, coating \"3/4c parafin wax\" with \"2c chocchip (12oz)\".)",
+   "options": [
+    "3/4 c (as written)",
+    "something smaller (e.g. 3/4 bar or 1/4 c)"
+   ],
+   "marks": [
+    {
+     "card": "CAN-015",
+     "page": 1,
+     "x0": 0.13,
+     "y0": 0.535,
+     "x1": 0.92,
+     "y1": 0.648
+    }
+   ],
+   "cards": [
+    {
+     "id": "CAN-015",
+     "title": "Peanut Butter Balls [No Bake]",
+     "images": [
+      {
+       "f": "CAN-015_p1.jpg",
+       "a": 1.659
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-COO-003-01",
+   "section": "Cookies",
+   "group": "Earlier answers to confirm",
+   "title": "COO-003: p1, handwritten amounts before \"c. white sugar\" and \"c. brown s…",
+   "prompt": "What does the marked line say? (p1, handwritten amounts before \"c. white sugar\" and \"c. brown sugar\".)",
+   "options": [
+    "2/3 c. each",
+    "4/3 c. each (1 1/3 c.)",
+    "3/4 c. each"
+   ],
+   "marks": [
+    {
+     "card": "COO-003",
+     "page": 1,
+     "x0": 0.07,
+     "y0": 0.645,
+     "x1": 0.5,
+     "y1": 0.765
+    }
+   ],
+   "cards": [
+    {
+     "id": "COO-003",
+     "title": "Choc. Chip Cookies",
+     "images": [
+      {
+       "f": "COO-003_p1.jpg",
+       "a": 0.7736
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-COO-006-01",
+   "section": "Cookies",
+   "group": "Earlier answers to confirm",
+   "title": "COO-006: p1, first line \"3 C. Flour\"",
+   "prompt": "What does the marked line say? (p1, first line \"3 C. Flour\".)",
+   "options": [
+    "3 C.",
+    "2 C."
+   ],
+   "marks": [
+    {
+     "card": "COO-006",
+     "page": 1,
+     "x0": 0,
+     "y0": 0.02,
+     "x1": 0.9,
+     "y1": 0.1
+    }
+   ],
+   "cards": [
+    {
+     "id": "COO-006",
+     "title": "Cut-out Cookies",
+     "images": [
+      {
+       "f": "COO-006_p1.jpg",
+       "a": 1.2654
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-COO-006-02",
+   "section": "Cookies",
+   "group": "Earlier answers to confirm",
+   "title": "COO-006: p1, \"3T. cream\" (squeezed between lines)",
+   "prompt": "What does the marked line say? (p1, \"3T. cream\" (squeezed between lines).)",
+   "options": [
+    "3 T.",
+    "2 T."
+   ],
+   "marks": [
+    {
+     "card": "COO-006",
+     "page": 1,
+     "x0": 0.03,
+     "y0": 0.515,
+     "x1": 0.42,
+     "y1": 0.595
+    }
+   ],
+   "cards": [
+    {
+     "id": "COO-006",
+     "title": "Cut-out Cookies",
+     "images": [
+      {
+       "f": "COO-006_p1.jpg",
+       "a": 1.2654
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-COO-006-03",
+   "section": "Cookies",
+   "group": "Earlier answers to confirm",
+   "title": "COO-006: p1, \"1 T. vanilla\"",
+   "prompt": "What does the marked line say? (p1, \"1 T. vanilla\".)",
+   "options": [
+    "1 T. (tablespoon, as written)",
+    "1 t. (teaspoon)"
+   ],
+   "marks": [
+    {
+     "card": "COO-006",
+     "page": 1,
+     "x0": 0.03,
+     "y0": 0.565,
+     "x1": 0.44,
+     "y1": 0.635
+    }
+   ],
+   "cards": [
+    {
+     "id": "COO-006",
+     "title": "Cut-out Cookies",
+     "images": [
+      {
+       "f": "COO-006_p1.jpg",
+       "a": 1.2654
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-COO-007-01",
+   "section": "Cookies",
+   "group": "Earlier answers to confirm",
+   "title": "COO-007: p1 title and p2 \"Bake 375\"",
+   "prompt": "What does the marked line say? (p1 title and p2 \"Bake 375\".)",
+   "options": [
+    "375°",
+    "325°"
+   ],
+   "marks": [
+    {
+     "card": "COO-007",
+     "page": 1,
+     "x0": 0.15,
+     "y0": 0.02,
+     "x1": 0.96,
+     "y1": 0.13
+    },
+    {
+     "card": "COO-007",
+     "page": 2,
+     "x0": 0.04,
+     "y0": 0.22,
+     "x1": 0.98,
+     "y1": 0.33
+    }
+   ],
+   "cards": [
+    {
+     "id": "COO-007",
+     "title": "Eat'n Park Sugar Cookies",
+     "images": [
+      {
+       "f": "COO-007_p1.jpg",
+       "a": 0.6028
+      },
+      {
+       "f": "COO-007_p2.jpg",
+       "a": 0.5972
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-COO-009-01",
+   "section": "Cookies",
+   "group": "Earlier answers to confirm",
+   "title": "COO-009: p1 top left and p2 \"Bake 375° - 12-15 min.\"",
+   "prompt": "What does the marked line say? (p1 top left and p2 \"Bake 375° - 12-15 min.\".)",
+   "options": [
+    "375°",
+    "325°"
+   ],
+   "marks": [
+    {
+     "card": "COO-009",
+     "page": 1,
+     "x0": 0,
+     "y0": 0,
+     "x1": 0.105,
+     "y1": 0.17
+    },
+    {
+     "card": "COO-009",
+     "page": 2,
+     "x0": 0.06,
+     "y0": 0.215,
+     "x1": 0.7,
+     "y1": 0.3
+    }
+   ],
+   "cards": [
+    {
+     "id": "COO-009",
+     "title": "Gram Spargal's Filled Cookies",
+     "images": [
+      {
+       "f": "COO-009_p1.jpg",
+       "a": 0.6139
+      },
+      {
+       "f": "COO-009_p2.jpg",
+       "a": 0.6014
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-COO-009-02",
+   "section": "Cookies",
+   "group": "Earlier answers to confirm",
+   "title": "COO-009: p2, \"then 1/4t. DOUGH.\"",
+   "prompt": "What does the marked line say? (p2, \"then 1/4t. DOUGH.\".)",
+   "options": [
+    "1/4 t. dough",
+    "1/2 t. dough"
+   ],
+   "marks": [
+    {
+     "card": "COO-009",
+     "page": 2,
+     "x0": 0,
+     "y0": 0.11,
+     "x1": 0.43,
+     "y1": 0.195
+    }
+   ],
+   "cards": [
+    {
+     "id": "COO-009",
+     "title": "Gram Spargal's Filled Cookies",
+     "images": [
+      {
+       "f": "COO-009_p1.jpg",
+       "a": 0.6139
+      },
+      {
+       "f": "COO-009_p2.jpg",
+       "a": 0.6014
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-COO-009-03",
+   "section": "Cookies",
+   "group": "Earlier answers to confirm",
+   "title": "COO-009: p1, title name \"Gram Spargal's\"",
+   "prompt": "What does the marked line say? (p1, title name \"Gram Spargal's\".)",
+   "options": [
+    "Spargal",
+    "Spargel"
+   ],
+   "marks": [
+    {
+     "card": "COO-009",
+     "page": 1,
+     "x0": 0.15,
+     "y0": 0.05,
+     "x1": 0.9,
+     "y1": 0.17
+    }
+   ],
+   "cards": [
+    {
+     "id": "COO-009",
+     "title": "Gram Spargal's Filled Cookies",
+     "images": [
+      {
+       "f": "COO-009_p1.jpg",
+       "a": 0.6139
+      },
+      {
+       "f": "COO-009_p2.jpg",
+       "a": 0.6014
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-COO-011-01",
+   "section": "Cookies",
+   "group": "Earlier answers to confirm",
+   "title": "COO-011: p2, \"Flatten ... to 1/4\\\"\" (fraction written over)",
+   "prompt": "What does the marked line say? (p2, \"Flatten ... to 1/4\\\"\" (fraction written over).)",
+   "options": [
+    "1/4\"",
+    "1/2\""
+   ],
+   "marks": [
+    {
+     "card": "COO-011",
+     "page": 2,
+     "x0": 0.02,
+     "y0": 0.48,
+     "x1": 0.94,
+     "y1": 0.69
+    }
+   ],
+   "cards": [
+    {
+     "id": "COO-011",
+     "title": "Kathie's Potato Chip Cookies",
+     "images": [
+      {
+       "f": "COO-011_p1.jpg",
+       "a": 0.5903
+      },
+      {
+       "f": "COO-011_p2.jpg",
+       "a": 0.5889
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-COO-016-01",
+   "section": "Cookies",
+   "group": "Earlier answers to confirm",
+   "title": "COO-016: p1, \"aprox 4C Flour\" (the 4 written over)",
+   "prompt": "What does the marked line say? (p1, \"aprox 4C Flour\" (the 4 written over).)",
+   "options": [
+    "4 C (the correction)",
+    "3 C"
+   ],
+   "marks": [
+    {
+     "card": "COO-016",
+     "page": 1,
+     "x0": 0.16,
+     "y0": 0.595,
+     "x1": 0.55,
+     "y1": 0.67
+    }
+   ],
+   "cards": [
+    {
+     "id": "COO-016",
+     "title": "Omma Sugar Cookie",
+     "images": [
+      {
+       "f": "COO-016_p1.jpg",
+       "a": 0.6361
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-COO-018-01",
+   "section": "Cookies",
+   "group": "Earlier answers to confirm",
+   "title": "COO-018: p1, \"Recipe from: Mom H\"",
+   "prompt": "What does the marked line say? (p1, \"Recipe from: Mom H\".)",
+   "options": [
+    "Mom H",
+    "Mom N",
+    "Mom W"
+   ],
+   "marks": [
+    {
+     "card": "COO-018",
+     "page": 1,
+     "x0": 0.29,
+     "y0": 0.1,
+     "x1": 0.94,
+     "y1": 0.145
+    }
+   ],
+   "cards": [
+    {
+     "id": "COO-018",
+     "title": "Peanut Butter Cups",
+     "images": [
+      {
+       "f": "COO-018_p1.jpg",
+       "a": 1.196
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-COO-023-01",
+   "section": "Cookies",
+   "group": "Earlier answers to confirm",
+   "title": "COO-023: p1, \"1_ cup pumpkin\" (a blot after the 1)",
+   "prompt": "What does the marked line say? (p1, \"1_ cup pumpkin\" (a blot after the 1).)",
+   "options": [
+    "1 cup",
+    "1 1/2 cup",
+    "1 1/4 cup"
+   ],
+   "marks": [
+    {
+     "card": "COO-023",
+     "page": 1,
+     "x0": 0,
+     "y0": 0.32,
+     "x1": 0.47,
+     "y1": 0.38
+    }
+   ],
+   "cards": [
+    {
+     "id": "COO-023",
+     "title": "Pumpkin Cookies",
+     "images": [
+      {
+       "f": "COO-023_p1.jpg",
+       "a": 1.6628
+      },
+      {
+       "f": "COO-023_p2.jpg",
+       "a": 1.6628
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-COO-023-02",
+   "section": "Cookies",
+   "group": "Earlier answers to confirm",
+   "title": "COO-023: p1, attribution \"Gram Ballein\"",
+   "prompt": "What does the marked line say? (p1, attribution \"Gram Ballein\".)",
+   "options": [
+    "Ballein (as on CAK-028)"
+   ],
+   "marks": [
+    {
+     "card": "COO-023",
+     "page": 1,
+     "x0": 0.49,
+     "y0": 0.065,
+     "x1": 0.94,
+     "y1": 0.11
+    }
+   ],
+   "cards": [
+    {
+     "id": "COO-023",
+     "title": "Pumpkin Cookies",
+     "images": [
+      {
+       "f": "COO-023_p1.jpg",
+       "a": 1.6628
+      },
+      {
+       "f": "COO-023_p2.jpg",
+       "a": 1.6628
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-COO-026-01",
+   "section": "Cookies",
+   "group": "Earlier answers to confirm",
+   "title": "COO-026: p1, \"1/2 t. Salt\"",
+   "prompt": "What does the marked line say? (p1, \"1/2 t. Salt\".)",
+   "options": [
+    "1/2 t.",
+    "1/4 t."
+   ],
+   "marks": [
+    {
+     "card": "COO-026",
+     "page": 1,
+     "x0": 0,
+     "y0": 0.375,
+     "x1": 0.3,
+     "y1": 0.455
+    }
+   ],
+   "cards": [
+    {
+     "id": "COO-026",
+     "title": "Spritz",
+     "images": [
+      {
+       "f": "COO-026_p1.jpg",
+       "a": 0.5931
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-COO-028-01",
+   "section": "Cookies",
+   "group": "Earlier answers to confirm",
+   "title": "COO-028: p1, \"1 1/2t Van.\"",
+   "prompt": "What does the marked line say? (p1, \"1 1/2t Van.\".)",
+   "options": [
+    "1 1/2 t",
+    "1 1/4 t"
+   ],
+   "marks": [
+    {
+     "card": "COO-028",
+     "page": 1,
+     "x0": 0.01,
+     "y0": 0.475,
+     "x1": 0.26,
+     "y1": 0.555
+    }
+   ],
+   "cards": [
+    {
+     "id": "COO-028",
+     "title": "Sugar Cookies (For Silhouettes)",
+     "images": [
+      {
+       "f": "COO-028_p1.jpg",
+       "a": 0.5944
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-COO-030-01",
+   "section": "Cookies",
+   "group": "Earlier answers to confirm",
+   "title": "COO-030: p1, title name \"Gram Kerners\"",
+   "prompt": "What does the marked line say? (p1, title name \"Gram Kerners\".)",
+   "options": [
+    "Kerner",
+    "Herner",
+    "Werner"
+   ],
+   "marks": [
+    {
+     "card": "COO-030",
+     "page": 1,
+     "x0": 0.07,
+     "y0": 0.055,
+     "x1": 0.42,
+     "y1": 0.115
+    }
+   ],
+   "cards": [
+    {
+     "id": "COO-030",
+     "title": "Gram Werner's Unbaked Cookies",
+     "images": [
+      {
+       "f": "COO-030_p1.jpg",
+       "a": 0.8514
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DRI-001-01",
+   "section": "Drinks",
+   "group": "Earlier answers to confirm",
+   "title": "DRI-001: p1, line 2, after \"juice\"",
+   "prompt": "What does the marked line say? (p1, line 2, after \"juice\".)",
+   "options": [
+    "(THE SIZE)",
+    "(HIC SIZE)",
+    "Hi-C Size (like the brand)"
+   ],
+   "marks": [
+    {
+     "card": "DRI-001",
+     "page": 1,
+     "x0": 0.6,
+     "y0": 0.22,
+     "x1": 0.9,
+     "y1": 0.35
+    }
+   ],
+   "cards": [
+    {
+     "id": "DRI-001",
+     "title": "Banana Slush",
+     "images": [
+      {
+       "f": "DRI-001_p1.jpg",
+       "a": 0.6083
+      },
+      {
+       "f": "DRI-001_p2.jpg",
+       "a": 0.6069
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DRI-002-01",
+   "section": "Drinks",
+   "group": "Earlier answers to confirm",
+   "title": "DRI-002: p1, line 1, number of tea bags",
+   "prompt": "What does the marked line say? (p1, line 1, number of tea bags.)",
+   "options": [
+    "2 tea bags",
+    "3 tea bags"
+   ],
+   "marks": [
+    {
+     "card": "DRI-002",
+     "page": 1,
+     "x0": 0.3,
+     "y0": 0.24,
+     "x1": 0.45,
+     "y1": 0.33
+    }
+   ],
+   "cards": [
+    {
+     "id": "DRI-002",
+     "title": "Bourbon Slush (no title on the card; from filename)",
+     "images": [
+      {
+       "f": "DRI-002_p1.jpg",
+       "a": 0.575
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DRI-003-02",
+   "section": "Drinks",
+   "group": "Earlier answers to confirm",
+   "title": "DRI-003: p1, line 3, cups of water before the brace",
+   "prompt": "What does the marked line say? (p1, line 3, cups of water before the brace.)",
+   "options": [
+    "7 c. water",
+    "1 c. water"
+   ],
+   "marks": [
+    {
+     "card": "DRI-003",
+     "page": 1,
+     "x0": 0.2,
+     "y0": 0.26,
+     "x1": 0.7,
+     "y1": 0.34
+    }
+   ],
+   "cards": [
+    {
+     "id": "DRI-003",
+     "title": "Brandy Slush",
+     "images": [
+      {
+       "f": "DRI-003_p1.jpg",
+       "a": 0.5972
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DRI-003-03",
+   "section": "Drinks",
+   "group": "Earlier answers to confirm",
+   "title": "DRI-003: p1, line 11, hours to freeze",
+   "prompt": "What does the marked line say? (p1, line 11, hours to freeze.)",
+   "options": [
+    "48 hrs.",
+    "480 hrs.",
+    "48 hours (48 hours, 2 days)"
+   ],
+   "marks": [
+    {
+     "card": "DRI-003",
+     "page": 1,
+     "x0": 0.03,
+     "y0": 0.77,
+     "x1": 0.5,
+     "y1": 0.86
+    }
+   ],
+   "cards": [
+    {
+     "id": "DRI-003",
+     "title": "Brandy Slush",
+     "images": [
+      {
+       "f": "DRI-003_p1.jpg",
+       "a": 0.5972
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DRI-005-01",
+   "section": "Drinks",
+   "group": "Earlier answers to confirm",
+   "title": "DRI-005: p1, line 2, \"3 Fr. lemonade\" (no unit after the 3)",
+   "prompt": "What does the marked line say? (p1, line 2, \"3 Fr. lemonade\" (no unit after the 3).)",
+   "options": [
+    "3 cans frozen lemonade",
+    "3 c. (cups) frozen lemonade"
+   ],
+   "marks": [
+    {
+     "card": "DRI-005",
+     "page": 1,
+     "x0": 0.03,
+     "y0": 0.09,
+     "x1": 0.35,
+     "y1": 0.17
+    }
+   ],
+   "cards": [
+    {
+     "id": "DRI-005",
+     "title": "Fruit Punch",
+     "images": [
+      {
+       "f": "DRI-005_p1.jpg",
+       "a": 0.6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DRI-007-02",
+   "section": "Drinks",
+   "group": "Earlier answers to confirm",
+   "title": "DRI-007: p1, line 6, mark between \"a\" and \"cask\"",
+   "prompt": "What does the marked line say? (p1, line 6, mark between \"a\" and \"cask\".)",
+   "options": [
+    "crossed out 1",
+    "crossed out b",
+    "crossed out 5 (size)",
+    "unreadable, leave as unclear"
+   ],
+   "marks": [
+    {
+     "card": "DRI-007",
+     "page": 1,
+     "x0": 0.35,
+     "y0": 0.665,
+     "x1": 0.6,
+     "y1": 0.745
+    }
+   ],
+   "cards": [
+    {
+     "id": "DRI-007",
+     "title": "Grape Wine",
+     "images": [
+      {
+       "f": "DRI-007_p1.jpg",
+       "a": 0.6014
+      },
+      {
+       "f": "DRI-007_p2.jpg",
+       "a": 0.6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DRI-007-03",
+   "section": "Drinks",
+   "group": "Earlier answers to confirm",
+   "title": "DRI-007: p2, line 6, crossing out",
+   "prompt": "What does the marked line say? (p2, line 6, crossing out.)",
+   "options": [
+    "only \"disturb.\" is crossed out",
+    "\"disturb. Stop\" is crossed out"
+   ],
+   "marks": [
+    {
+     "card": "DRI-007",
+     "page": 2,
+     "x0": 0.55,
+     "y0": 0.455,
+     "x1": 0.9,
+     "y1": 0.56
+    }
+   ],
+   "cards": [
+    {
+     "id": "DRI-007",
+     "title": "Grape Wine",
+     "images": [
+      {
+       "f": "DRI-007_p1.jpg",
+       "a": 0.6014
+      },
+      {
+       "f": "DRI-007_p2.jpg",
+       "a": 0.6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DRI-008-01",
+   "section": "Drinks",
+   "group": "Earlier answers to confirm",
+   "title": "DRI-008: p1, line 7, unit after 3/4",
+   "prompt": "What does the marked line say? (p1, line 7, unit after 3/4.)",
+   "options": [
+    "3/4 t. (teaspoon)",
+    "3/4 T. (tablespoon)"
+   ],
+   "marks": [
+    {
+     "card": "DRI-008",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.59,
+     "x1": 0.35,
+     "y1": 0.665
+    }
+   ],
+   "cards": [
+    {
+     "id": "DRI-008",
+     "title": "hot cocoa",
+     "images": [
+      {
+       "f": "DRI-008_p1.jpg",
+       "a": 0.6028
+      },
+      {
+       "f": "DRI-008_p2.jpg",
+       "a": 0.6028
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DRI-009-01",
+   "section": "Drinks",
+   "group": "Earlier answers to confirm",
+   "title": "DRI-009: p1, line 5, \"1/2 t. sugar\"",
+   "prompt": "What does the marked line say? (p1, line 5, \"1/2 t. sugar\".)",
+   "options": [
+    "1/2 t. (teaspoon)",
+    "1/2 T. (tablespoon)",
+    "correct"
+   ],
+   "marks": [
+    {
+     "card": "DRI-009",
+     "page": 1,
+     "x0": 0.07,
+     "y0": 0.395,
+     "x1": 0.4,
+     "y1": 0.43
+    }
+   ],
+   "cards": [
+    {
+     "id": "DRI-009",
+     "title": "Hot todie",
+     "images": [
+      {
+       "f": "DRI-009_p1.jpg",
+       "a": 1.194
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-DRI-011-01",
+   "section": "Drinks",
+   "group": "Earlier answers to confirm",
+   "title": "DRI-011: top line, \"4 1/2 gallon\"",
+   "prompt": "What does the marked line say? (top line, \"4 1/2 gallon\".)",
+   "options": [
+    "4 1/2 gallon"
+   ],
+   "marks": [
+    {
+     "card": "DRI-011",
+     "page": 1,
+     "x0": 0.35,
+     "y0": 0.07,
+     "x1": 0.65,
+     "y1": 0.16
+    }
+   ],
+   "cards": [
+    {
+     "id": "DRI-011",
+     "title": "SPIKED PUNCH",
+     "images": [
+      {
+       "f": "DRI-011_p1.jpg",
+       "a": 0.6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-FUD-002-01",
+   "section": "Fudge",
+   "group": "Earlier answers to confirm",
+   "title": "FUD-002: p2, \"3 stick oleo\"",
+   "prompt": "What does the marked line say? (p2, \"3 stick oleo\".)",
+   "options": [
+    "3 stick",
+    "2 stick"
+   ],
+   "marks": [
+    {
+     "card": "FUD-002",
+     "page": 2,
+     "x0": 0.07,
+     "y0": 0.115,
+     "x1": 0.66,
+     "y1": 0.18
+    }
+   ],
+   "cards": [
+    {
+     "id": "FUD-002",
+     "title": "Cindy's Fudge",
+     "images": [
+      {
+       "f": "FUD-002_p1.jpg",
+       "a": 1.659
+      },
+      {
+       "f": "FUD-002_p2.jpg",
+       "a": 1.6705
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-FUD-003-01",
+   "section": "Fudge",
+   "group": "Earlier answers to confirm",
+   "title": "FUD-003: p1, \"Boil 5 min.\" (the digit is circled)",
+   "prompt": "What does the marked line say? (p1, \"Boil 5 min.\" (the digit is circled).)",
+   "options": [
+    "5 min.",
+    "3 min."
+   ],
+   "marks": [
+    {
+     "card": "FUD-003",
+     "page": 1,
+     "x0": 0.015,
+     "y0": 0.835,
+     "x1": 0.8,
+     "y1": 0.925
+    }
+   ],
+   "cards": [
+    {
+     "id": "FUD-003",
+     "title": "Fantasy Fudge",
+     "images": [
+      {
+       "f": "FUD-003_p1.jpg",
+       "a": 0.5917
+      },
+      {
+       "f": "FUD-003_p2.jpg",
+       "a": 0.5958
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-JEL-004-01",
+   "section": "Jello - Pudding",
+   "group": "Earlier answers to confirm",
+   "title": "JEL-004: p2, signature \"Father Phil ____ 1989\"",
+   "prompt": "What does the marked line say? (p2, signature \"Father Phil ____ 1989\".)",
+   "options": [
+    "Pritt",
+    "Pruitt"
+   ],
+   "marks": [
+    {
+     "card": "JEL-004",
+     "page": 2,
+     "x0": 0.4,
+     "y0": 0.49,
+     "x1": 0.87,
+     "y1": 0.78
+    }
+   ],
+   "cards": [
+    {
+     "id": "JEL-004",
+     "title": "Dirt (Father Phil's)",
+     "images": [
+      {
+       "f": "JEL-004_p1.jpg",
+       "a": 0.5986
+      },
+      {
+       "f": "JEL-004_p2.jpg",
+       "a": 0.5958
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-PAS-003-01",
+   "section": "Pastries",
+   "group": "Earlier answers to confirm",
+   "title": "PAS-003: p1, faint pencil title \"Aunt M_kie Nut Rolls\"",
+   "prompt": "What does the marked line say? (p1, faint pencil title \"Aunt M_kie Nut Rolls\".)",
+   "options": [
+    "Mickie (as in the filename)",
+    "Mikie"
+   ],
+   "marks": [
+    {
+     "card": "PAS-003",
+     "page": 1,
+     "x0": 0.12,
+     "y0": 0,
+     "x1": 0.82,
+     "y1": 0.035
+    }
+   ],
+   "cards": [
+    {
+     "id": "PAS-003",
+     "title": "Aunt Mickie's Nut Rolls",
+     "images": [
+      {
+       "f": "PAS-003_p1.jpg",
+       "a": 1.9512
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-PAS-003-02",
+   "section": "Pastries",
+   "group": "Earlier answers to confirm",
+   "title": "PAS-003: p1, butter line \"2 3T. butter\"",
+   "prompt": "What does the marked line say? (p1, butter line \"2 3T. butter\".)",
+   "options": [
+    "3 T. (the 2 is struck or a stray)",
+    "2 T.",
+    "2 sticks"
+   ],
+   "marks": [
+    {
+     "card": "PAS-003",
+     "page": 1,
+     "x0": 0.04,
+     "y0": 0.295,
+     "x1": 0.58,
+     "y1": 0.35
+    }
+   ],
+   "cards": [
+    {
+     "id": "PAS-003",
+     "title": "Aunt Mickie's Nut Rolls",
+     "images": [
+      {
+       "f": "PAS-003_p1.jpg",
+       "a": 1.9512
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-PAS-003-03",
+   "section": "Pastries",
+   "group": "Earlier answers to confirm",
+   "title": "PAS-003: p1, red sideways note at the right \"RAISE (_ Before Rolling\"",
+   "prompt": "What does the marked line say? (p1, red sideways note at the right \"RAISE (_ Before Rolling\".)",
+   "options": [
+    "RAISE (1 hr) before rolling",
+    "RAISE (not) before rolling"
+   ],
+   "marks": [
+    {
+     "card": "PAS-003",
+     "page": 1,
+     "x0": 0.89,
+     "y0": 0.44,
+     "x1": 0.99,
+     "y1": 0.91
+    }
+   ],
+   "cards": [
+    {
+     "id": "PAS-003",
+     "title": "Aunt Mickie's Nut Rolls",
+     "images": [
+      {
+       "f": "PAS-003_p1.jpg",
+       "a": 1.9512
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-PAS-005-01",
+   "section": "Pastries",
+   "group": "Earlier answers to confirm",
+   "title": "PAS-005: p2, filling \"_ egg yolk (sl. beaten)\" (first digit blotted)",
+   "prompt": "What does the marked line say? (p2, filling \"_ egg yolk (sl. beaten)\" (first digit blotted).)",
+   "options": [
+    "4 egg yolks",
+    "1 egg yolk"
+   ],
+   "marks": [
+    {
+     "card": "PAS-005",
+     "page": 2,
+     "x0": 0,
+     "y0": 0.66,
+     "x1": 0.38,
+     "y1": 0.755
+    }
+   ],
+   "cards": [
+    {
+     "id": "PAS-005",
+     "title": "Cream Puffs",
+     "images": [
+      {
+       "f": "PAS-005_p1.jpg",
+       "a": 0.5944
+      },
+      {
+       "f": "PAS-005_p2.jpg",
+       "a": 0.5944
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-PIE-001-01",
+   "section": "Pie - Cobbler",
+   "group": "Earlier answers to confirm",
+   "title": "PIE-001: p1, first ingredient \"_ apples cored & thinly sliced\"",
+   "prompt": "What does the marked line say? (p1, first ingredient \"_ apples cored & thinly sliced\".)",
+   "options": [
+    "3 apples",
+    "5 apples"
+   ],
+   "marks": [
+    {
+     "card": "PIE-001",
+     "page": 1,
+     "x0": 0.04,
+     "y0": 0.17,
+     "x1": 0.71,
+     "y1": 0.24
+    }
+   ],
+   "cards": [
+    {
+     "id": "PIE-001",
+     "title": "Sherried Apple Crisp",
+     "images": [
+      {
+       "f": "PIE-001_p1.jpg",
+       "a": 0.6083
+      },
+      {
+       "f": "PIE-001_p2.jpg",
+       "a": 0.5986
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-PIE-007-02",
+   "section": "Pie - Cobbler",
+   "group": "Earlier answers to confirm",
+   "title": "PIE-007: p1, \"6-7 tsp. ice water\" and \"Add 6 tsp water\"",
+   "prompt": "What does the marked line say? (p1, \"6-7 tsp. ice water\" and \"Add 6 tsp water\".)",
+   "options": [
+    "tsp. as written",
+    "she meant tbsp."
+   ],
+   "marks": [
+    {
+     "card": "PIE-007",
+     "page": 1,
+     "x0": 0.18,
+     "y0": 0.355,
+     "x1": 0.77,
+     "y1": 0.415
+    },
+    {
+     "card": "PIE-007",
+     "page": 1,
+     "x0": 0.19,
+     "y0": 0.655,
+     "x1": 0.99,
+     "y1": 0.715
+    }
+   ],
+   "cards": [
+    {
+     "id": "PIE-007",
+     "title": "Double Pie Crust",
+     "images": [
+      {
+       "f": "PIE-007_p1.jpg",
+       "a": 1.44
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-PIE-009-01",
+   "section": "Pie - Cobbler",
+   "group": "Earlier answers to confirm",
+   "title": "PIE-009: p1, first line \"_ T butter\"",
+   "prompt": "What does the marked line say? (p1, first line \"_ T butter\".)",
+   "options": [
+    "2 T",
+    "1 T",
+    "3 T"
+   ],
+   "marks": [
+    {
+     "card": "PIE-009",
+     "page": 1,
+     "x0": 0.05,
+     "y0": 0.16,
+     "x1": 0.47,
+     "y1": 0.25
+    }
+   ],
+   "cards": [
+    {
+     "id": "PIE-009",
+     "title": "Lemon Pie Filling (old)",
+     "images": [
+      {
+       "f": "PIE-009_p1.jpg",
+       "a": 0.6
+      },
+      {
+       "f": "PIE-009_p2.jpg",
+       "a": 0.5972
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-PIE-016-01",
+   "section": "Pie - Cobbler",
+   "group": "Earlier answers to confirm",
+   "title": "PIE-016: p1, \"_T. WATER\"",
+   "prompt": "What does the marked line say? (p1, \"_T. WATER\".)",
+   "options": [
+    "7 T.",
+    "1 T."
+   ],
+   "marks": [
+    {
+     "card": "PIE-016",
+     "page": 1,
+     "x0": 0.31,
+     "y0": 0.575,
+     "x1": 0.52,
+     "y1": 0.635
+    }
+   ],
+   "cards": [
+    {
+     "id": "PIE-016",
+     "title": "Pie Crust",
+     "images": [
+      {
+       "f": "PIE-016_p1.jpg",
+       "a": 0.6083
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-PIE-016-02",
+   "section": "Pie - Cobbler",
+   "group": "Earlier answers to confirm",
+   "title": "PIE-016: p1, \"Recipe from: GRAM NELLIE BALLE__\" (overwritten)",
+   "prompt": "What does the marked line say? (p1, \"Recipe from: GRAM NELLIE BALLE__\" (overwritten).)",
+   "options": [
+    "Ballein (as on CAK-028, COO-023)",
+    "Ballard"
+   ],
+   "marks": [
+    {
+     "card": "PIE-016",
+     "page": 1,
+     "x0": 0.295,
+     "y0": 0.19,
+     "x1": 0.97,
+     "y1": 0.29
+    }
+   ],
+   "cards": [
+    {
+     "id": "PIE-016",
+     "title": "Pie Crust",
+     "images": [
+      {
+       "f": "PIE-016_p1.jpg",
+       "a": 0.6083
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-PIE-017-01",
+   "section": "Pie - Cobbler",
+   "group": "Earlier answers to confirm",
+   "title": "PIE-017: p2, \"divide dough into _ Balls\"",
+   "prompt": "What does the marked line say? (p2, \"divide dough into _ Balls\".)",
+   "options": [
+    "5 balls",
+    "3 balls"
+   ],
+   "marks": [
+    {
+     "card": "PIE-017",
+     "page": 2,
+     "x0": 0.02,
+     "y0": 0,
+     "x1": 0.93,
+     "y1": 0.085
+    }
+   ],
+   "cards": [
+    {
+     "id": "PIE-017",
+     "title": "Nancy Madonia's Pie Crust - Fool Proof",
+     "images": [
+      {
+       "f": "PIE-017_p1.jpg",
+       "a": 0.6056
+      },
+      {
+       "f": "PIE-017_p2.jpg",
+       "a": 0.6042
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-PIE-019-01",
+   "section": "Pie - Cobbler",
+   "group": "Earlier answers to confirm",
+   "title": "PIE-019: p1, small mark at the left of the title",
+   "prompt": "What does the marked line say? (p1, small mark at the left of the title.)",
+   "options": [
+    "8\"",
+    "&"
+   ],
+   "marks": [
+    {
+     "card": "PIE-019",
+     "page": 1,
+     "x0": 0.01,
+     "y0": 0.14,
+     "x1": 0.31,
+     "y1": 0.245
+    }
+   ],
+   "cards": [
+    {
+     "id": "PIE-019",
+     "title": "Pie Dough",
+     "images": [
+      {
+       "f": "PIE-019_p1.jpg",
+       "a": 1.194
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-PIE-020-02",
+   "section": "Pie - Cobbler",
+   "group": "Earlier answers to confirm",
+   "title": "PIE-020: p1, \"1 1/4t. nutmeg\" next to \"pinch cinnamon\"",
+   "prompt": "What does the marked line say? (p1, \"1 1/4t. nutmeg\" next to \"pinch cinnamon\".)",
+   "options": [
+    "1 1/4 t. (as written)",
+    "1/4 t."
+   ],
+   "marks": [
+    {
+     "card": "PIE-020",
+     "page": 1,
+     "x0": 0.03,
+     "y0": 0.84,
+     "x1": 0.71,
+     "y1": 0.925
+    }
+   ],
+   "cards": [
+    {
+     "id": "PIE-020",
+     "title": "Sweet Potatoe Pie",
+     "images": [
+      {
+       "f": "PIE-020_p1.jpg",
+       "a": 0.6069
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-EGG-001-01",
+   "section": "Eggs",
+   "group": "Earlier answers to confirm",
+   "title": "EGG-001: p1, direction 2 \"pour in 2-3 t. batter\"",
+   "prompt": "What does the marked line say? (p1, direction 2 \"pour in 2-3 t. batter\".)",
+   "options": [
+    "t. as written",
+    "she meant T. (tablespoons)"
+   ],
+   "marks": [
+    {
+     "card": "EGG-001",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.635,
+     "x1": 0.62,
+     "y1": 0.705
+    }
+   ],
+   "cards": [
+    {
+     "id": "EGG-001",
+     "title": "Basic Crepe Batter",
+     "images": [
+      {
+       "f": "EGG-001_p1.jpg",
+       "a": 0.5986
+      },
+      {
+       "f": "EGG-001_p2.jpg",
+       "a": 0.6056
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-EGG-003-01",
+   "section": "Eggs",
+   "group": "Earlier answers to confirm",
+   "title": "EGG-003: p2, signature \"Betty Long 630-730-5180\"",
+   "prompt": "What does the marked line say? (p2, signature \"Betty Long 630-730-5180\".)",
+   "options": [
+    "keep the name, leave the phone number out of the cookbook",
+    "keep both",
+    "leave both out"
+   ],
+   "marks": [
+    {
+     "card": "EGG-003",
+     "page": 2,
+     "x0": 0.28,
+     "y0": 0.885,
+     "x1": 0.9,
+     "y1": 0.99
+    }
+   ],
+   "cards": [
+    {
+     "id": "EGG-003",
+     "title": "Quiche",
+     "images": [
+      {
+       "f": "EGG-003_p1.jpg",
+       "a": 0.5958
+      },
+      {
+       "f": "EGG-003_p2.jpg",
+       "a": 0.6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-MEA-001-01",
+   "section": "Meat",
+   "group": "Earlier answers to confirm",
+   "title": "MEA-001: p1, last line \"Cover and Bake _50° 1-1 1/2 hrs.\"",
+   "prompt": "What does the marked line say? (p1, last line \"Cover and Bake _50° 1-1 1/2 hrs.\".)",
+   "options": [
+    "350°",
+    "250°"
+   ],
+   "marks": [
+    {
+     "card": "MEA-001",
+     "page": 1,
+     "x0": 0.04,
+     "y0": 0.87,
+     "x1": 0.78,
+     "y1": 0.965
+    }
+   ],
+   "cards": [
+    {
+     "id": "MEA-001",
+     "title": "BBQ Pork Chop",
+     "images": [
+      {
+       "f": "MEA-001_p1.jpg",
+       "a": 0.6028
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-MEA-011-01",
+   "section": "Meat",
+   "group": "Earlier answers to confirm",
+   "title": "MEA-011: p2, \"Cover & Bake 325° - 2 1/2 -> 3 _\"",
+   "prompt": "What does the marked line say? (p2, \"Cover & Bake 325° - 2 1/2 -> 3 _\".)",
+   "options": [
+    "2 1/2 to 3 hours",
+    "2 1/2 to 3 1/4 hours"
+   ],
+   "marks": [
+    {
+     "card": "MEA-011",
+     "page": 2,
+     "x0": 0.2,
+     "y0": 0.69,
+     "x1": 0.95,
+     "y1": 0.79
+    }
+   ],
+   "cards": [
+    {
+     "id": "MEA-011",
+     "title": "Mock Cabbage Rolls",
+     "images": [
+      {
+       "f": "MEA-011_p1.jpg",
+       "a": 0.5958
+      },
+      {
+       "f": "MEA-011_p2.jpg",
+       "a": 0.5847
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-MEA-022-01",
+   "section": "Meat",
+   "group": "Earlier answers to confirm",
+   "title": "MEA-022: p1, last line \"__. Zestee Italian salad dressing\"",
+   "prompt": "What does the marked line say? (p1, last line \"__. Zestee Italian salad dressing\".)",
+   "options": [
+    "Lg. (large bottle)",
+    "Sm. (small)"
+   ],
+   "marks": [
+    {
+     "card": "MEA-022",
+     "page": 1,
+     "x0": 0.05,
+     "y0": 0.9,
+     "x1": 0.93,
+     "y1": 0.985
+    }
+   ],
+   "cards": [
+    {
+     "id": "MEA-022",
+     "title": "Kathie's Steak Salad",
+     "images": [
+      {
+       "f": "MEA-022_p1.jpg",
+       "a": 0.6028
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-MEA-023-01",
+   "section": "Meat",
+   "group": "Earlier answers to confirm",
+   "title": "MEA-023: p1, \"1/2c flour, 1_ salt\" (letter written over)",
+   "prompt": "What does the marked line say? (p1, \"1/2c flour, 1_ salt\" (letter written over).)",
+   "options": [
+    "1 t",
+    "1 T"
+   ],
+   "marks": [
+    {
+     "card": "MEA-023",
+     "page": 1,
+     "x0": 0.04,
+     "y0": 0.32,
+     "x1": 0.86,
+     "y1": 0.385
+    }
+   ],
+   "cards": [
+    {
+     "id": "MEA-023",
+     "title": "Stew",
+     "images": [
+      {
+       "f": "MEA-023_p1.jpg",
+       "a": 1.196
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-MEA-024-01",
+   "section": "Meat",
+   "group": "Earlier answers to confirm",
+   "title": "MEA-024: p1, title \"_____ Stuffed Cabbage\"",
+   "prompt": "What does the marked line say? (p1, title \"_____ Stuffed Cabbage\".)",
+   "options": [
+    "Wanda's",
+    "Grandma's"
+   ],
+   "marks": [
+    {
+     "card": "MEA-024",
+     "page": 1,
+     "x0": 0.05,
+     "y0": 0.04,
+     "x1": 0.89,
+     "y1": 0.14
+    }
+   ],
+   "cards": [
+    {
+     "id": "MEA-024",
+     "title": "Wanda's Stuffed Cabbage",
+     "images": [
+      {
+       "f": "MEA-024_p1.jpg",
+       "a": 0.6014
+      },
+      {
+       "f": "MEA-024_p2.jpg",
+       "a": 0.5972
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-MEA-024-02",
+   "section": "Meat",
+   "group": "Earlier answers to confirm",
+   "title": "MEA-024: p2, \"simmer atleast _ hours\"",
+   "prompt": "What does the marked line say? (p2, \"simmer atleast _ hours\".)",
+   "options": [
+    "3 hours",
+    "2 hours"
+   ],
+   "marks": [
+    {
+     "card": "MEA-024",
+     "page": 2,
+     "x0": 0.09,
+     "y0": 0.47,
+     "x1": 0.84,
+     "y1": 0.61
+    }
+   ],
+   "cards": [
+    {
+     "id": "MEA-024",
+     "title": "Wanda's Stuffed Cabbage",
+     "images": [
+      {
+       "f": "MEA-024_p1.jpg",
+       "a": 0.6014
+      },
+      {
+       "f": "MEA-024_p2.jpg",
+       "a": 0.5972
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-MEA-025-01",
+   "section": "Meat",
+   "group": "Earlier answers to confirm",
+   "title": "MEA-025: p1, \"Cabbage Rolls\" (written over)",
+   "prompt": "What does the marked line say? (p1, \"Cabbage Rolls\" (written over).)",
+   "options": [
+    "not crossed out (\"I prepare meat same [as] Cabbage Rolls\")",
+    "crossed out"
+   ],
+   "marks": [
+    {
+     "card": "MEA-025",
+     "page": 1,
+     "x0": 0.33,
+     "y0": 0.56,
+     "x1": 0.71,
+     "y1": 0.72
+    }
+   ],
+   "cards": [
+    {
+     "id": "MEA-025",
+     "title": "Stuffed Peppers",
+     "images": [
+      {
+       "f": "MEA-025_p1.jpg",
+       "a": 0.6028
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-MEA-026-01",
+   "section": "Meat",
+   "group": "Earlier answers to confirm",
+   "title": "MEA-026: p1, \"_50° - 3-3 hr 15 min - 13-14 lb\"",
+   "prompt": "What does the marked line say? (p1, \"_50° - 3-3 hr 15 min - 13-14 lb\".)",
+   "options": [
+    "450°",
+    "350°",
+    "325°"
+   ],
+   "marks": [
+    {
+     "card": "MEA-026",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.66,
+     "x1": 0.73,
+     "y1": 0.735
+    }
+   ],
+   "cards": [
+    {
+     "id": "MEA-026",
+     "title": "Turkey",
+     "images": [
+      {
+       "f": "MEA-026_p1.jpg",
+       "a": 0.6042
+      },
+      {
+       "f": "MEA-026_p2.jpg",
+       "a": 0.6028
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-MEA-026-02",
+   "section": "Meat",
+   "group": "Earlier answers to confirm",
+   "title": "MEA-026: p2, last line \"_EGGS - WHIP UP - milk\"",
+   "prompt": "What does the marked line say? (p2, last line \"_EGGS - WHIP UP - milk\".)",
+   "options": [
+    "2 eggs",
+    "3 eggs"
+   ],
+   "marks": [
+    {
+     "card": "MEA-026",
+     "page": 2,
+     "x0": 0,
+     "y0": 0.88,
+     "x1": 0.69,
+     "y1": 0.98
+    }
+   ],
+   "cards": [
+    {
+     "id": "MEA-026",
+     "title": "Turkey",
+     "images": [
+      {
+       "f": "MEA-026_p1.jpg",
+       "a": 0.6042
+      },
+      {
+       "f": "MEA-026_p2.jpg",
+       "a": 0.6028
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-POT-002-01",
+   "section": "Potato",
+   "group": "Earlier answers to confirm",
+   "title": "POT-002: p1, \"take some vingar + water, about _ cup vingar\"",
+   "prompt": "What does the marked line say? (p1, \"take some vingar + water, about _ cup vingar\".)",
+   "options": [
+    "1/4 cup",
+    "1/2 cup"
+   ],
+   "marks": [
+    {
+     "card": "POT-002",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.275,
+     "x1": 0.98,
+     "y1": 0.355
+    }
+   ],
+   "cards": [
+    {
+     "id": "POT-002",
+     "title": "German Potatoe Salad",
+     "images": [
+      {
+       "f": "POT-002_p1.jpg",
+       "a": 1.5063
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-POT-003-01",
+   "section": "Potato",
+   "group": "Earlier answers to confirm",
+   "title": "POT-003: p2, \"_/3 c water\"",
+   "prompt": "What does the marked line say? (p2, \"_/3 c water\".)",
+   "options": [
+    "2/3 c",
+    "1/3 c"
+   ],
+   "marks": [
+    {
+     "card": "POT-003",
+     "page": 2,
+     "x0": 0.06,
+     "y0": 0.57,
+     "x1": 0.38,
+     "y1": 0.63
+    }
+   ],
+   "cards": [
+    {
+     "id": "POT-003",
+     "title": "German Potatoe Salad",
+     "images": [
+      {
+       "f": "POT-003_p1.jpg",
+       "a": 0.6
+      },
+      {
+       "f": "POT-003_p2.jpg",
+       "a": 1.0667
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-POT-004-01",
+   "section": "Potato",
+   "group": "Earlier answers to confirm",
+   "title": "POT-004: p1, \"9 eggs\"",
+   "prompt": "What does the marked line say? (p1, \"9 eggs\".)",
+   "options": [
+    "9 eggs",
+    "4 eggs"
+   ],
+   "marks": [
+    {
+     "card": "POT-004",
+     "page": 1,
+     "x0": 0.08,
+     "y0": 0.415,
+     "x1": 0.41,
+     "y1": 0.475
+    }
+   ],
+   "cards": [
+    {
+     "id": "POT-004",
+     "title": "Oinah's Potato Salad",
+     "images": [
+      {
+       "f": "POT-004_p1.jpg",
+       "a": 1.6364
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-POT-004-02",
+   "section": "Potato",
+   "group": "Earlier answers to confirm",
+   "title": "POT-004: p1, title \"O_NAH'S POTATO SALAD\"",
+   "prompt": "What does the marked line say? (p1, title \"O_NAH'S POTATO SALAD\".)",
+   "options": [
+    "Oinah (as in the filename)",
+    "Omah / Oma"
+   ],
+   "marks": [
+    {
+     "card": "POT-004",
+     "page": 1,
+     "x0": 0.08,
+     "y0": 0.01,
+     "x1": 0.98,
+     "y1": 0.07
+    }
+   ],
+   "cards": [
+    {
+     "id": "POT-004",
+     "title": "Oinah's Potato Salad",
+     "images": [
+      {
+       "f": "POT-004_p1.jpg",
+       "a": 1.6364
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-SAL-001-01",
+   "section": "Salad",
+   "group": "Earlier answers to confirm",
+   "title": "SAL-001: p1, \"1 tbsp vinegar\" (ink blot on the 1)",
+   "prompt": "What does the marked line say? (p1, \"1 tbsp vinegar\" (ink blot on the 1).)",
+   "options": [
+    "1 tbsp",
+    "1 1/2 tbsp",
+    "1 tsp"
+   ],
+   "marks": [
+    {
+     "card": "SAL-001",
+     "page": 1,
+     "x0": 0.1,
+     "y0": 0.575,
+     "x1": 0.49,
+     "y1": 0.655
+    }
+   ],
+   "cards": [
+    {
+     "id": "SAL-001",
+     "title": "Easy Coleslaw Dressing",
+     "images": [
+      {
+       "f": "SAL-001_p1.jpg",
+       "a": 0.6042
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-SAL-002-01",
+   "section": "Salad",
+   "group": "Earlier answers to confirm",
+   "title": "SAL-002: p1, \"1/4 C.\" amounts (green pepper, celery, salad dressing)",
+   "prompt": "What does the marked line say? (p1, \"1/4 C.\" amounts (green pepper, celery, salad dressing).)",
+   "options": [
+    "1/4 c each",
+    "1/2 c"
+   ],
+   "marks": [
+    {
+     "card": "SAL-002",
+     "page": 1,
+     "x0": 0.035,
+     "y0": 0.29,
+     "x1": 0.715,
+     "y1": 0.405
+    },
+    {
+     "card": "SAL-002",
+     "page": 1,
+     "x0": 0.035,
+     "y0": 0.455,
+     "x1": 0.32,
+     "y1": 0.54
+    },
+    {
+     "card": "SAL-002",
+     "page": 1,
+     "x0": 0.035,
+     "y0": 0.745,
+     "x1": 0.57,
+     "y1": 0.835
+    }
+   ],
+   "cards": [
+    {
+     "id": "SAL-002",
+     "title": "Cole Slaw",
+     "images": [
+      {
+       "f": "SAL-002_p1.jpg",
+       "a": 0.6028
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-SAL-004-01",
+   "section": "Salad",
+   "group": "Earlier answers to confirm",
+   "title": "SAL-004: p2, \"add well, add eggs\"",
+   "prompt": "What does the marked line say? (p2, \"add well, add eggs\".)",
+   "options": [
+    "add well (as written)",
+    "add salt",
+    "cool well"
+   ],
+   "marks": [
+    {
+     "card": "SAL-004",
+     "page": 2,
+     "x0": 0.06,
+     "y0": 0.425,
+     "x1": 0.455,
+     "y1": 0.495
+    }
+   ],
+   "cards": [
+    {
+     "id": "SAL-004",
+     "title": "Macaroni Salad",
+     "images": [
+      {
+       "f": "SAL-004_p1.jpg",
+       "a": 0.6028
+      },
+      {
+       "f": "SAL-004_p2.jpg",
+       "a": 0.5972
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-SAL-008-01",
+   "section": "Salad",
+   "group": "Earlier answers to confirm",
+   "title": "SAL-008: p1, \"1/4 C. Vinegar\"",
+   "prompt": "What does the marked line say? (p1, \"1/4 C. Vinegar\".)",
+   "options": [
+    "1/4 C.",
+    "1/2 C."
+   ],
+   "marks": [
+    {
+     "card": "SAL-008",
+     "page": 1,
+     "x0": 0.04,
+     "y0": 0.395,
+     "x1": 0.4,
+     "y1": 0.465
+    }
+   ],
+   "cards": [
+    {
+     "id": "SAL-008",
+     "title": "Wilted Lettuce Salad",
+     "images": [
+      {
+       "f": "SAL-008_p1.jpg",
+       "a": 0.6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-SAU-001-01",
+   "section": "Sauces",
+   "group": "Earlier answers to confirm",
+   "title": "SAU-001: p1, \"1 T. Brown sugar\"",
+   "prompt": "What does the marked line say? (p1, \"1 T. Brown sugar\".)",
+   "options": [
+    "1 T. (tablespoon)",
+    "1 t. (teaspoon)"
+   ],
+   "marks": [
+    {
+     "card": "SAU-001",
+     "page": 1,
+     "x0": 0.07,
+     "y0": 0.435,
+     "x1": 0.48,
+     "y1": 0.48
+    }
+   ],
+   "cards": [
+    {
+     "id": "SAU-001",
+     "title": "Barbacue Sause",
+     "images": [
+      {
+       "f": "SAU-001_p1.jpg",
+       "a": 1.196
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-SAU-002-01",
+   "section": "Sauces",
+   "group": "Earlier answers to confirm",
+   "title": "SAU-002: p1, \"1/4 C worchester\" (with 1 C ketsup)",
+   "prompt": "What does the marked line say? (p1, \"1/4 C worchester\" (with 1 C ketsup).)",
+   "options": [
+    "1/4 C (as written)",
+    "something smaller (1/4 t?)"
+   ],
+   "marks": [
+    {
+     "card": "SAU-002",
+     "page": 1,
+     "x0": 0.05,
+     "y0": 0.5,
+     "x1": 0.57,
+     "y1": 0.545
+    },
+    {
+     "card": "SAU-002",
+     "page": 1,
+     "x0": 0.05,
+     "y0": 0.295,
+     "x1": 0.4,
+     "y1": 0.355
+    }
+   ],
+   "cards": [
+    {
+     "id": "SAU-002",
+     "title": "BBQ Sause",
+     "images": [
+      {
+       "f": "SAU-002_p1.jpg",
+       "a": 1.196
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-SAU-003-01",
+   "section": "Sauces",
+   "group": "Earlier answers to confirm",
+   "title": "SAU-003: p1, \"_C pan drippings\" and \"_C flour\"",
+   "prompt": "What does the marked line say? (p1, \"_C pan drippings\" and \"_C flour\".)",
+   "options": [
+    "1/2 C each",
+    "1/4 C each"
+   ],
+   "marks": [
+    {
+     "card": "SAU-003",
+     "page": 1,
+     "x0": 0.08,
+     "y0": 0.24,
+     "x1": 0.66,
+     "y1": 0.385
+    }
+   ],
+   "cards": [
+    {
+     "id": "SAU-003",
+     "title": "Chicken Gravy",
+     "images": [
+      {
+       "f": "SAU-003_p1.jpg",
+       "a": 0.6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-SAU-008-01",
+   "section": "Sauces",
+   "group": "Earlier answers to confirm",
+   "title": "SAU-008: p1, \"_C oil\" (first digit written over)",
+   "prompt": "What does the marked line say? (p1, \"_C oil\" (first digit written over).)",
+   "options": [
+    "1/3 C",
+    "1/2 C"
+   ],
+   "marks": [
+    {
+     "card": "SAU-008",
+     "page": 1,
+     "x0": 0.03,
+     "y0": 0.17,
+     "x1": 0.79,
+     "y1": 0.23
+    }
+   ],
+   "cards": [
+    {
+     "id": "SAU-008",
+     "title": "Speghetti Sauce",
+     "images": [
+      {
+       "f": "SAU-008_p1.jpg",
+       "a": 0.6
+      },
+      {
+       "f": "SAU-008_p2.jpg",
+       "a": 0.5986
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-SOU-006-01",
+   "section": "Soup",
+   "group": "Earlier answers to confirm",
+   "title": "SOU-006: p1, \"_c. Ch. onions\"",
+   "prompt": "What does the marked line say? (p1, \"_c. Ch. onions\".)",
+   "options": [
+    "1/4 c.",
+    "1/2 c."
+   ],
+   "marks": [
+    {
+     "card": "SOU-006",
+     "page": 1,
+     "x0": 0.02,
+     "y0": 0.34,
+     "x1": 0.39,
+     "y1": 0.405
+    }
+   ],
+   "cards": [
+    {
+     "id": "SOU-006",
+     "title": "Potatoe Parsley Soup",
+     "images": [
+      {
+       "f": "SOU-006_p1.jpg",
+       "a": 0.5944
+      },
+      {
+       "f": "SOU-006_p2.jpg",
+       "a": 0.5972
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "U-ZUC-001-01",
+   "section": "Zucchini",
+   "group": "Earlier answers to confirm",
+   "title": "ZUC-001: p1 top right, \"Bake 350° / _5-40 min\"",
+   "prompt": "What does the marked line say? (p1 top right, \"Bake 350° / _5-40 min\".)",
+   "options": [
+    "25-40 min",
+    "35-40 min"
+   ],
+   "marks": [
+    {
+     "card": "ZUC-001",
+     "page": 1,
+     "x0": 0.7,
+     "y0": 0.01,
+     "x1": 0.95,
+     "y1": 0.14
+    }
+   ],
+   "cards": [
+    {
+     "id": "ZUC-001",
+     "title": "Baked Zucchini",
+     "images": [
+      {
+       "f": "ZUC-001_p1.jpg",
+       "a": 0.6
+      },
+      {
+       "f": "ZUC-001_p2.jpg",
+       "a": 0.5944
+      }
+     ]
+    }
+   ]
   }
  ]
 }
