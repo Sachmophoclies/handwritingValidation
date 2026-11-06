@@ -114,6 +114,7 @@ function Question({ item, answer, onChange }) {
       <div className="group">{item.group}</div>
       <h2>{item.title}</h2>
       <p className="prompt">{item.prompt}</p>
+      {item.text && <pre className="transcript">{item.text}</pre>}
       <div className="opts">
         {choices.map(([value, label]) => (
           <label key={value} className={answer?.v === value ? 'opt on' : 'opt'}>
@@ -177,7 +178,9 @@ export default function App() {
   if (error) return <p className="msg">Could not load the questions: {error}</p>
   if (!all) return <p className="msg">Loading…</p>
 
-  const sections = [...new Set(all.map((it) => it.section))].sort()
+  const FULL = 'Full check: '
+  const allSecs = [...new Set(all.map((it) => it.section))].sort()
+  const sections = [...allSecs.filter((x) => !x.startsWith(FULL)), ...allSecs.filter((x) => x.startsWith(FULL))]
   const items = all.filter((it) => it.section === section)
   if (!items.length) {
     return (
@@ -186,18 +189,24 @@ export default function App() {
         <main className="final sections">
           <h2>Choose a section</h2>
           <p>Pick one. Answer its questions, then download that section’s file and send it back. Come back for the next section any time.</p>
-          {sections.map((sec) => {
+          {sections.map((sec, si) => {
             const list = all.filter((it) => it.section === sec)
             const n = list.filter((it) => answerOf(answers[it.id])).length
             const sn = list.filter((it) => seen[it.id]).length
+            const firstFull = sec.startsWith(FULL) && (si === 0 || !sections[si - 1].startsWith(FULL))
+            const firstOpen = si === 0 && !sec.startsWith(FULL)
             return (
-              <button key={sec} className="sec" onClick={() => { setPage(0); setSection(sec) }}>
-                <span>{sec}</span>
+              <div key={sec} className="secwrap">
+                {firstOpen && <h3 className="sech">Open questions</h3>}
+                {firstFull && <h3 className="sech">Check whole cards against the typed text</h3>}
+              <button className="sec" onClick={() => { setPage(0); setSection(sec) }}>
+                <span>{sec.startsWith(FULL) ? sec.slice(FULL.length) : sec}</span>
                 <span className="cnt">
                   <span>{n === list.length ? '✓ ' : ''}{n} / {list.length} answered</span>
                   <span className="sub">{sn === list.length ? 'all seen' : sn === 0 ? 'not seen yet' : `${sn} of ${list.length} seen`}</span>
                 </span>
               </button>
+              </div>
             )
           })}
         </main>

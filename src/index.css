@@ -47,3 +47,6 @@ header .back{font:inherit;border:0;background:none;color:var(--acc);padding:0}
 .dot.cur{outline:2px solid var(--fg);outline-offset:1px}
 .sec .cnt{display:flex;flex-direction:column;align-items:flex-end;gap:2px}
 .sec .sub{font-size:.75rem;color:var(--mut)}
+.transcript{white-space:pre-wrap;word-break:break-word;font:inherit;font-size:.9rem;line-height:1.35;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin:8px 0 12px;max-height:38vh;overflow:auto}
+.secwrap{width:100%;display:flex;flex-direction:column;align-items:center}
+.sech{width:100%;max-width:420px;text-align:left;margin:16px 0 4px;font-size:1rem;color:var(--mut)}
