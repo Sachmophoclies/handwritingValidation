@@ -7,5 +7,8 @@ A small phone-friendly site for validating transcriptions of handwritten recipe 
 - Develop: `npm install`, `npm run dev`. Build: `npm run build`. Pushing to `main` deploys to GitHub Pages through `.github/workflows/deploy.yml`.
 - The page is `noindex`; this site is short-lived and public by design.
 
+## For validators
+Just open https://sachmophoclies.github.io/handwritingValidation/ (phone or computer): pick a section, answer, then download the file and send it back. No install is needed. Running it locally is optional: install Node.js, `npm install`, `npm run dev`, and open the printed address (`npm run dev -- --host` to reach it from a phone on the same Wi-Fi). A local copy keeps answers in that browser only, so the downloaded file is still what counts.
+
 ## For agents
 This repo is generated from a separate private recipe project and is not nested inside it; its location differs per machine. If you are working from that project and need this repo, ask the user where it should exist, then clone it there. The rules are COR-PROJ-019 in that project's `Data/project_instructions.md`. Pushing here publishes a public site, so confirm with the user first.
